@@ -284,3 +284,10 @@ table.gm td:first-child{ font-weight: 600; }            /* page-name emphasis */
 #monthly table.gm td.diag-page  { color: #eef4f0 !important; }
 #monthly table.gm td.diag-issue { color: #d4e0d8 !important; }
 #monthly table.gm td.diag-fix   { color: #c2d0c7 !important; }
+
+/* Weekly Summary (07) — make the right-hand values readable */
+.summary-line .v { color: #e9f0ea !important; }
+.summary-line .k { color: #c8d6ce !important; }   /* labels stay slightly softer but clear */
+
+/* Extra safety net so no inherited dark value can dim body text */
+.kpi .value { color: #eef4f0; }
