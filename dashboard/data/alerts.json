@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-06-24T08:34:31+00:00",
-  "open": [
-    {
-      "time": "2026-06-24T08:34:31+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Checkout initiation failed (HTTP 0)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-24T08:34:31+00:00",
-      "severity": "Critical",
-      "issue": "Add to Cart: Add to Cart step failed",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-24T08:34:16+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Load failure (HTTP 0, 0.0s)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-24T08:34:16+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Load failure (HTTP 0, 0.0s)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-24T08:34:16+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Load failure (HTTP 0, 0.0s)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-24T08:34:16+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Homepage failed to load (HTTP 0, 0.0s)",
-      "status": "Open"
-    }
-  ],
+  "generated_at": "2026-06-24T08:42:51+00:00",
+  "open": [],
   "resolved": [],
-  "critical_count": 6
+  "critical_count": 0
 }
