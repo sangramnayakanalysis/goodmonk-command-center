@@ -1,58 +1,31 @@
 {
   "open": {
-    "homepage_down": {
-      "first_seen": "2026-06-24T08:34:16.666100+00:00",
-      "last_seen": "2026-06-24T08:45:48.501326+00:00",
-      "last_sent": "2026-06-24T08:34:16.666100+00:00",
-      "count": 2,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Homepage failed to load (HTTP 0, 0.0s)"
-    },
-    "http_error:collection": {
-      "first_seen": "2026-06-24T08:34:16.669004+00:00",
-      "last_seen": "2026-06-24T08:45:48.504261+00:00",
-      "last_sent": "2026-06-24T08:34:16.669004+00:00",
-      "count": 2,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Load failure (HTTP 0, 0.0s)"
-    },
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-06-24T08:45:48.506291+00:00",
+      "last_seen": "2026-06-24T09:35:45.865436+00:00",
       "last_sent": "2026-06-24T08:34:16.671235+00:00",
-      "count": 2,
+      "count": 3,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-06-24T08:45:48.508128+00:00",
+      "last_seen": "2026-06-24T09:35:47.316466+00:00",
       "last_sent": "2026-06-24T08:34:16.673176+00:00",
-      "count": 2,
+      "count": 3,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-06-24T08:46:03.510098+00:00",
+      "last_seen": "2026-06-24T09:36:03.835827+00:00",
       "last_sent": "2026-06-24T08:34:31.676715+00:00",
-      "count": 2,
+      "count": 3,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
-    },
-    "checkout_failed": {
-      "first_seen": "2026-06-24T08:34:31.679361+00:00",
-      "last_seen": "2026-06-24T08:46:03.512589+00:00",
-      "last_sent": "2026-06-24T08:34:31.679361+00:00",
-      "count": 2,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Checkout initiation failed (HTTP 0)"
     }
   }
 }

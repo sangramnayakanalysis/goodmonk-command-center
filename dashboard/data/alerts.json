@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-06-24T08:46:03+00:00",
+  "generated_at": "2026-06-24T09:36:17+00:00",
   "open": [],
-  "resolved": [],
+  "resolved": [
+    {
+      "time": "2026-06-24T09:36:14+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Checkout initiation failed (HTTP 0)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-24T09:36:12+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Load failure (HTTP 0, 0.0s)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-24T09:36:08+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Homepage failed to load (HTTP 0, 0.0s)",
+      "status": "Resolved"
+    }
+  ],
   "critical_count": 0
 }
