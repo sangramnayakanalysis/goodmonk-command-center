@@ -232,8 +232,8 @@ function renderMonthly(d) {
   list.forEach(x => {
     const cls = x.impact === 'High' ? 'critical' : (x.impact === 'Medium' ? 'warning' : 'muted');
     const tr = el('tr');
-    tr.innerHTML = `<td>${x.page}</td><td>${x.issue}</td>
-      <td><span class="badge ${cls}">${x.impact}</span></td><td style="color:var(--muted)">${x.fix}</td>`;
+    tr.innerHTML = `<td class="diag-page">${x.page}</td><td class="diag-issue">${x.issue}</td>
+      <td><span class="badge ${cls}">${x.impact}</span></td><td class="diag-fix">${x.fix}</td>`;
     body.appendChild(tr);
   });
 }
