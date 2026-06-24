@@ -1,22 +1,30 @@
 {
-  "generated_at": "2026-06-24T08:42:51+00:00",
+  "generated_at": "2026-06-24T08:46:03+00:00",
   "health": {
-    "labels": [],
-    "healthy": [],
-    "warning": [],
-    "critical": []
-  },
-  "load_time": {
-    "labels": [],
-    "avg": []
-  },
-  "performance": {
     "labels": [
       "2026-06-24 08:00"
     ],
-    "mobile_avg": [
+    "healthy": [
       0
+    ],
+    "warning": [
+      0
+    ],
+    "critical": [
+      6
     ]
+  },
+  "load_time": {
+    "labels": [
+      "2026-06-24 08:00"
+    ],
+    "avg": [
+      2.5
+    ]
+  },
+  "performance": {
+    "labels": [],
+    "mobile_avg": []
   },
   "alerts": {
     "labels": [],

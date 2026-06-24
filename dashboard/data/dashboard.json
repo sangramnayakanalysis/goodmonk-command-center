@@ -1,40 +1,89 @@
 {
-  "generated_at": "2026-06-24T08:42:51+00:00",
+  "generated_at": "2026-06-24T08:46:03+00:00",
   "site": "",
   "summary": {
-    "site_status": "OPERATIONAL",
-    "pages_monitored": 0,
+    "site_status": "DOWN",
+    "pages_monitored": 6,
     "healthy": 0,
     "warning": 0,
-    "critical": 0,
-    "avg_load_time": 0,
+    "critical": 6,
+    "avg_load_time": 2.5,
     "health_score": 0
   },
-  "health_table": [],
+  "health_table": [
+    {
+      "page": "Homepage",
+      "status": "FAILED",
+      "http": 0,
+      "load_time": 0.004,
+      "severity": "Critical",
+      "last_checked": "2026-06-24T08:45:48+00:00"
+    },
+    {
+      "page": "Collection / Shop",
+      "status": "FAILED",
+      "http": 0,
+      "load_time": 0.003,
+      "severity": "Critical",
+      "last_checked": "2026-06-24T08:45:48+00:00"
+    },
+    {
+      "page": "H50+ PDP",
+      "status": "FAILED",
+      "http": 0,
+      "load_time": 0.002,
+      "severity": "Critical",
+      "last_checked": "2026-06-24T08:45:48+00:00"
+    },
+    {
+      "page": "Family Nutrition Mix",
+      "status": "FAILED",
+      "http": 0,
+      "load_time": 0.002,
+      "severity": "Critical",
+      "last_checked": "2026-06-24T08:45:48+00:00"
+    },
+    {
+      "page": "Add to Cart",
+      "status": "FAILED",
+      "http": 0,
+      "load_time": 15.002,
+      "severity": "Critical",
+      "last_checked": "2026-06-24T08:46:03+00:00"
+    },
+    {
+      "page": "Checkout Init",
+      "status": "FAILED",
+      "http": 0,
+      "load_time": 0.002,
+      "severity": "Critical",
+      "last_checked": "2026-06-24T08:46:03+00:00"
+    }
+  ],
   "break_grid": [
     {
       "label": "Homepage",
-      "status": "—"
+      "status": "FAILED"
     },
     {
       "label": "Collection",
-      "status": "—"
+      "status": "FAILED"
     },
     {
       "label": "H50",
-      "status": "—"
+      "status": "FAILED"
     },
     {
       "label": "FNM",
-      "status": "—"
+      "status": "FAILED"
     },
     {
       "label": "Add to Cart",
-      "status": "—"
+      "status": "FAILED"
     },
     {
       "label": "Checkout",
-      "status": "—"
+      "status": "FAILED"
     }
   ]
 }
