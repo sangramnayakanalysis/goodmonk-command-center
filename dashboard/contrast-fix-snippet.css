@@ -1,0 +1,18 @@
+/* ============================================================
+   GoodMonk dashboard — TEXT VISIBILITY FIX
+   Paste this block at the VERY END of dashboard/style.css
+   (it overrides any older dark colour rules via !important).
+   Then hard-refresh the page: Ctrl + F5  (or open in Incognito).
+   ============================================================ */
+
+/* Website Health + all data tables */
+table.gm td             { color: #e6efe9 !important; }
+table.gm td.mono        { color: #cdd9d1 !important; }
+table.gm td:first-child { font-weight: 600; }
+
+/* Weekly Summary values + labels */
+.summary-line .v { color: #e9f0ea !important; }
+.summary-line .k { color: #c8d6ce !important; }
+
+/* Monthly Diagnostics columns */
+#monthly table.gm td { color: #e6efe9 !important; }
