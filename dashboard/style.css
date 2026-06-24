@@ -270,18 +270,17 @@ table.gm tr:hover td { background: #ffffff04; }
 :focus-visible { outline: 2px solid var(--healthy); outline-offset: 2px; }
 
 /* ====================================================================
-   FIX: Monthly Diagnostics (08) — make every column clearly readable
-   on the dark card. Explicit, high-contrast colours per column.
+   GLOBAL READABILITY FIX — all dashboard tables (Website Health,
+   Monthly Diagnostics, Performance, etc.)
+   Some cells had no explicit colour and were rendering too dark on the
+   dark card. Force every table cell to a high-contrast, readable colour.
+   !important guarantees it wins over inline styles and any stale rule.
    ==================================================================== */
-#monthly table.gm td { color: var(--text); }          /* safety net: never dim */
+table.gm td            { color: #e6efe9 !important; }   /* all cells: clearly readable */
+table.gm td.mono       { color: #cdd9d1 !important; }   /* numbers / timestamps: soft but legible */
+table.gm td:first-child{ font-weight: 600; }            /* page-name emphasis */
 
-#monthly table.gm td.diag-page {                        /* PAGE */
-  color: #eaf2ec;
-  font-weight: 600;
-}
-#monthly table.gm td.diag-issue {                       /* TOP ISSUE */
-  color: #c8d6ce;
-}
-#monthly table.gm td.diag-fix {                         /* RECOMMENDED FIX */
-  color: #a9bcb1;
-}
+/* Monthly Diagnostics column tints (works with or without the JS classes) */
+#monthly table.gm td.diag-page  { color: #eef4f0 !important; }
+#monthly table.gm td.diag-issue { color: #d4e0d8 !important; }
+#monthly table.gm td.diag-fix   { color: #c2d0c7 !important; }
