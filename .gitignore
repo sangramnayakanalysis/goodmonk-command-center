@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Local sheet fallback (used only when Google Sheets isn't configured)
+dashboard/data/_sheet_fallback/
+
+# OS
+.DS_Store
+Thumbs.db

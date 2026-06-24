@@ -1,0 +1,61 @@
+name: GoodMonk Break Detection
+
+# System 1 — robot customer journey. Runs every 15 minutes, 24/7.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # allow manual runs from the Actions tab
+
+# Allow the job to commit refreshed JSON + alert state back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: goodmonk-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GM_BASE_URL: ${{ secrets.GM_BASE_URL }}
+      GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+      GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      ALERT_RECIPIENTS: ${{ secrets.ALERT_RECIPIENTS }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        working-directory: monitoring
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run robot customer journey
+        working-directory: monitoring
+        run: python monitor.py
+
+      - name: Regenerate dashboard JSON
+        working-directory: monitoring
+        run: python json_generator.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "goodmonk-bot"
+          git config user.email "goodmonk-bot@users.noreply.github.com"
+          git add dashboard/data
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: break-detection run $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi

@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-06-24T03:56:46+00:00",
+  "diagnostics": [
+    {
+      "page": "H50+ PDP",
+      "issue": "Largest images not compressed — h50-hero.png (saves ~1.8s / 1.9MB)",
+      "impact": "High",
+      "fix": "Compress and correctly size hero/product images; add width/height.",
+      "mobile_score": 46
+    },
+    {
+      "page": "H50+ PDP",
+      "issue": "Render-blocking resources — reviews-widget.js",
+      "impact": "High",
+      "fix": "Defer non-critical CSS/JS; inline critical CSS.",
+      "mobile_score": 46
+    },
+    {
+      "page": "H50+ PDP",
+      "issue": "Unused CSS — theme.css (saves 230KB)",
+      "impact": "High",
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 46
+    },
+    {
+      "page": "Family Nutrition Mix",
+      "issue": "Images not in next-gen format (WebP/AVIF) — 8 images",
+      "impact": "High",
+      "fix": "Serve WebP/AVIF and lazy-load below-the-fold images.",
+      "mobile_score": 50
+    },
+    {
+      "page": "Family Nutrition Mix",
+      "issue": "Slow server response (TTFB) (saves ~0.4s)",
+      "impact": "High",
+      "fix": "Improve Shopify app/theme server time; review heavy Liquid loops.",
+      "mobile_score": 50
+    },
+    {
+      "page": "Family Nutrition Mix",
+      "issue": "Unused JavaScript — upsell.js (saves 280KB)",
+      "impact": "High",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 50
+    },
+    {
+      "page": "Protein PDP",
+      "issue": "Largest images not compressed — protein-pack.jpg (saves ~1.1s)",
+      "impact": "Medium",
+      "fix": "Compress and correctly size hero/product images; add width/height.",
+      "mobile_score": 54
+    },
+    {
+      "page": "Protein PDP",
+      "issue": "Render-blocking resources — fonts.css",
+      "impact": "Medium",
+      "fix": "Defer non-critical CSS/JS; inline critical CSS.",
+      "mobile_score": 54
+    },
+    {
+      "page": "Protein PDP",
+      "issue": "Unused JavaScript (saves 190KB)",
+      "impact": "Medium",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 54
+    },
+    {
+      "page": "Homepage",
+      "issue": "Largest images not compressed — hero-banner.jpg (saves ~1.4s / 820KB)",
+      "impact": "Medium",
+      "fix": "Compress and correctly size hero/product images; add width/height.",
+      "mobile_score": 62
+    },
+    {
+      "page": "Homepage",
+      "issue": "Render-blocking resources — app.js (saves ~0.6s)",
+      "impact": "Medium",
+      "fix": "Defer non-critical CSS/JS; inline critical CSS.",
+      "mobile_score": 62
+    },
+    {
+      "page": "Homepage",
+      "issue": "Images not in next-gen format (WebP/AVIF) — 6 images",
+      "impact": "Medium",
+      "fix": "Serve WebP/AVIF and lazy-load below-the-fold images.",
+      "mobile_score": 62
+    },
+    {
+      "page": "Collection / Shop",
+      "issue": "Unused JavaScript — vendor.js (saves 410KB)",
+      "impact": "Medium",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 65
+    },
+    {
+      "page": "Collection / Shop",
+      "issue": "Images larger than displayed size — product thumbnails",
+      "impact": "Medium",
+      "fix": "Compress and correctly size hero/product images; add width/height.",
+      "mobile_score": 65
+    },
+    {
+      "page": "Collection / Shop",
+      "issue": "Large total page weight (saves ~0.5s)",
+      "impact": "Medium",
+      "fix": "Reduce total transferred bytes; audit third-party scripts.",
+      "mobile_score": 65
+    },
+    {
+      "page": "Checkout",
+      "issue": "Unused JavaScript — checkout-ext.js (saves 150KB)",
+      "impact": "Medium",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 75
+    },
+    {
+      "page": "Checkout",
+      "issue": "Render-blocking resources — payment-sdk.js",
+      "impact": "Medium",
+      "fix": "Defer non-critical CSS/JS; inline critical CSS.",
+      "mobile_score": 75
+    },
+    {
+      "page": "Checkout",
+      "issue": "Large total page weight",
+      "impact": "Medium",
+      "fix": "Reduce total transferred bytes; audit third-party scripts.",
+      "mobile_score": 75
+    }
+  ]
+}

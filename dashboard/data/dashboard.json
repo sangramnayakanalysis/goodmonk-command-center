@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-06-24T03:56:46+00:00",
+  "site": "https://goodmonk.in",
+  "summary": {
+    "site_status": "OPERATIONAL",
+    "pages_monitored": 6,
+    "healthy": 6,
+    "warning": 0,
+    "critical": 0,
+    "avg_load_time": 2.05,
+    "health_score": 100
+  },
+  "health_table": [
+    {
+      "page": "Homepage",
+      "status": "PASS",
+      "http": 200,
+      "load_time": 1.5,
+      "severity": "Healthy",
+      "last_checked": "2026-06-24T03:56:46+00:00"
+    },
+    {
+      "page": "Collection / Shop",
+      "status": "PASS",
+      "http": 200,
+      "load_time": 2.2,
+      "severity": "Healthy",
+      "last_checked": "2026-06-24T03:56:46+00:00"
+    },
+    {
+      "page": "H50+ PDP",
+      "status": "PASS",
+      "http": 200,
+      "load_time": 2.7,
+      "severity": "Healthy",
+      "last_checked": "2026-06-24T03:56:46+00:00"
+    },
+    {
+      "page": "Family Nutrition Mix",
+      "status": "PASS",
+      "http": 200,
+      "load_time": 2.9,
+      "severity": "Healthy",
+      "last_checked": "2026-06-24T03:56:46+00:00"
+    },
+    {
+      "page": "Add to Cart",
+      "status": "PASS",
+      "http": 200,
+      "load_time": 1.1,
+      "severity": "Healthy",
+      "last_checked": "2026-06-24T03:56:46+00:00"
+    },
+    {
+      "page": "Checkout Init",
+      "status": "PASS",
+      "http": 200,
+      "load_time": 1.9,
+      "severity": "Healthy",
+      "last_checked": "2026-06-24T03:56:46+00:00"
+    }
+  ],
+  "break_grid": [
+    {
+      "label": "Homepage",
+      "status": "PASS"
+    },
+    {
+      "label": "Collection",
+      "status": "PASS"
+    },
+    {
+      "label": "H50",
+      "status": "PASS"
+    },
+    {
+      "label": "FNM",
+      "status": "PASS"
+    },
+    {
+      "label": "Add to Cart",
+      "status": "PASS"
+    },
+    {
+      "label": "Checkout",
+      "status": "PASS"
+    }
+  ]
+}
