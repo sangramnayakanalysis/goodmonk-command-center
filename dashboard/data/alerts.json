@@ -1,26 +1,43 @@
 {
-  "generated_at": "2026-06-24T03:56:46+00:00",
+  "generated_at": "2026-06-24T08:34:31+00:00",
   "open": [
     {
-      "time": "2026-06-24T00:56:46+00:00",
+      "time": "2026-06-24T08:34:31+00:00",
       "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 47/100 — Largest images not compressed",
+      "issue": "Checkout: Checkout initiation failed (HTTP 0)",
       "status": "Open"
     },
     {
-      "time": "2026-06-23T17:26:46+00:00",
+      "time": "2026-06-24T08:34:31+00:00",
       "severity": "Critical",
-      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
+      "issue": "Add to Cart: Add to Cart step failed",
+      "status": "Open"
+    },
+    {
+      "time": "2026-06-24T08:34:16+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Load failure (HTTP 0, 0.0s)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-06-24T08:34:16+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Load failure (HTTP 0, 0.0s)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-06-24T08:34:16+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Load failure (HTTP 0, 0.0s)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-06-24T08:34:16+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Homepage failed to load (HTTP 0, 0.0s)",
       "status": "Open"
     }
   ],
-  "resolved": [
-    {
-      "time": "2026-06-23T18:11:46+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
-      "status": "Resolved"
-    }
-  ],
-  "critical_count": 2
+  "resolved": [],
+  "critical_count": 6
 }
