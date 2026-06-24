@@ -12,9 +12,9 @@
   --surface-2: #1c2922;
   --line:      #28362e;
   --line-soft: #20302820;
-  --text:      #ffffff;
-  --muted:     #d8d8d8;
-  --muted-2:   #bfbfbf;
+  --text:      #e9f0ea;
+  --muted:     #8aa094;
+  --muted-2:   #61756a;
 
   --healthy:   #46d18b;
   --healthy-d: #1d8d5a;
@@ -268,3 +268,20 @@ table.gm tr:hover td { background: #ffffff04; }
 }
 
 :focus-visible { outline: 2px solid var(--healthy); outline-offset: 2px; }
+
+/* ====================================================================
+   FIX: Monthly Diagnostics (08) — make every column clearly readable
+   on the dark card. Explicit, high-contrast colours per column.
+   ==================================================================== */
+#monthly table.gm td { color: var(--text); }          /* safety net: never dim */
+
+#monthly table.gm td.diag-page {                        /* PAGE */
+  color: #eaf2ec;
+  font-weight: 600;
+}
+#monthly table.gm td.diag-issue {                       /* TOP ISSUE */
+  color: #c8d6ce;
+}
+#monthly table.gm td.diag-fix {                         /* RECOMMENDED FIX */
+  color: #a9bcb1;
+}
