@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:36:17+00:00",
+  "generated_at": "2026-06-24T09:47:57+00:00",
   "health": {
     "labels": [
       "2026-06-24 09:00"
@@ -23,11 +23,19 @@
     ]
   },
   "performance": {
-    "labels": [],
-    "mobile_avg": []
+    "labels": [
+      "2026-06-24 09:00"
+    ],
+    "mobile_avg": [
+      32
+    ]
   },
   "alerts": {
-    "labels": [],
-    "count": []
+    "labels": [
+      "2026-06-24"
+    ],
+    "count": [
+      6
+    ]
   }
 }
