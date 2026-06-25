@@ -2,84 +2,39 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-06-25T17:37:20.297014+00:00",
-      "last_sent": "2026-06-25T17:37:20.297014+00:00",
-      "count": 8,
+      "last_seen": "2026-06-25T23:02:24.451002+00:00",
+      "last_sent": "2026-06-25T23:02:24.451002+00:00",
+      "count": 9,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-06-25T17:37:23.674288+00:00",
-      "last_sent": "2026-06-25T17:37:23.674288+00:00",
-      "count": 8,
+      "last_seen": "2026-06-25T23:02:27.794988+00:00",
+      "last_sent": "2026-06-25T23:02:27.794988+00:00",
+      "count": 9,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-06-25T17:37:41.606042+00:00",
-      "last_sent": "2026-06-25T17:37:41.606042+00:00",
-      "count": 8,
+      "last_seen": "2026-06-25T23:02:46.114436+00:00",
+      "last_sent": "2026-06-25T23:02:46.114436+00:00",
+      "count": 9,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
-    "perf_critical:homepage": {
-      "first_seen": "2026-06-25T18:44:51.784788+00:00",
-      "last_seen": "2026-06-25T18:44:51.784788+00:00",
-      "last_sent": "2026-06-25T18:44:51.784788+00:00",
+    "homepage_down": {
+      "first_seen": "2026-06-25T23:02:17.117553+00:00",
+      "last_seen": "2026-06-25T23:02:17.117553+00:00",
+      "last_sent": "2026-06-25T23:02:17.117553+00:00",
       "count": 1,
       "severity": "Critical",
       "page": "Homepage",
-      "detail": "Mobile PageSpeed 40/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves ~0.1s / 1413.3KB)"
-    },
-    "perf_critical:collection": {
-      "first_seen": "2026-06-25T18:44:54.484978+00:00",
-      "last_seen": "2026-06-25T18:44:54.484978+00:00",
-      "last_sent": "2026-06-25T18:44:54.484978+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Mobile PageSpeed 40/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves 1412.5KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-06-25T18:44:56.238847+00:00",
-      "last_seen": "2026-06-25T18:44:56.238847+00:00",
-      "last_sent": "2026-06-25T18:44:56.238847+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves 1407.5KB)"
-    },
-    "perf_critical:fnm": {
-      "first_seen": "2026-06-25T18:44:58.079430+00:00",
-      "last_seen": "2026-06-25T18:44:58.079430+00:00",
-      "last_sent": "2026-06-25T18:44:58.079430+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Family Nutrition Mix",
-      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves ~6.8s / 1435.1KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-06-25T18:44:59.794797+00:00",
-      "last_seen": "2026-06-25T18:44:59.794797+00:00",
-      "last_sent": "2026-06-25T18:44:59.794797+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 39/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves 1422.5KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-06-25T18:45:01.792849+00:00",
-      "last_seen": "2026-06-25T18:45:01.792849+00:00",
-      "last_sent": "2026-06-25T18:45:01.792849+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves 47.9KB)"
+      "detail": "Homepage failed to load (HTTP 503, 0.2s)"
     }
   }
 }

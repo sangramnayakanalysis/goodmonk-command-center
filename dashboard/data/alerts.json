@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-25T18:45:05+00:00",
+  "generated_at": "2026-06-25T23:03:04+00:00",
   "open": [
+    {
+      "time": "2026-06-25T23:02:19+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Homepage failed to load (HTTP 503, 0.2s)",
+      "status": "Open"
+    },
     {
       "time": "2026-06-25T18:45:03+00:00",
       "severity": "Critical",
@@ -220,6 +226,42 @@
   ],
   "resolved": [
     {
+      "time": "2026-06-25T23:03:01+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 47.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-25T23:03:00+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1422.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-25T23:02:58+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~6.8s / 1435.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-25T23:02:56+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1407.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-25T23:02:54+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1412.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-25T23:02:52+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~0.1s / 1413.3KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-06-25T17:37:57+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-C00liHXJ.js (saves ~0.3s / 1388.9KB)",
@@ -418,5 +460,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 36
+  "critical_count": 37
 }
