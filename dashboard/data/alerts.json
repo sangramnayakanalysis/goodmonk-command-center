@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T11:31:48+00:00",
+  "generated_at": "2026-06-26T17:20:08+00:00",
   "open": [
     {
       "time": "2026-06-26T11:31:44+00:00",
@@ -292,6 +292,42 @@
   ],
   "resolved": [
     {
+      "time": "2026-06-26T17:20:05+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 14/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~0.8s / 1063.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-26T17:20:03+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-26T17:20:02+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 26/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-26T17:20:00+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~1.7s / 1435.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-26T17:19:58+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1412.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-06-26T17:19:57+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1403.6KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-06-26T10:39:48+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1412.0KB)",
@@ -553,12 +589,6 @@
       "time": "2026-06-24T09:36:12+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Load failure (HTTP 0, 0.0s)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-24T09:36:08+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Homepage failed to load (HTTP 0, 0.0s)",
       "status": "Resolved"
     }
   ],
