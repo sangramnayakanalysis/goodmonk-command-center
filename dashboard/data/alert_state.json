@@ -35,6 +35,51 @@
       "severity": "Critical",
       "page": "Homepage",
       "detail": "Homepage failed to load (HTTP 503, 0.2s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-06-26T00:06:20.137002+00:00",
+      "last_seen": "2026-06-26T00:06:20.137002+00:00",
+      "last_sent": "2026-06-26T00:06:20.137002+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves 1401.4KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-06-26T00:06:22.755122+00:00",
+      "last_seen": "2026-06-26T00:06:22.755122+00:00",
+      "last_sent": "2026-06-26T00:06:22.755122+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves ~0.1s / 1414.3KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-06-26T00:06:24.903233+00:00",
+      "last_seen": "2026-06-26T00:06:24.903233+00:00",
+      "last_sent": "2026-06-26T00:06:24.903233+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 37/100 \u2014 Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves 48.3KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-06-26T00:06:28.714158+00:00",
+      "last_seen": "2026-06-26T00:06:28.714158+00:00",
+      "last_sent": "2026-06-26T00:06:28.714158+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves 48.2KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-06-26T00:06:31.664813+00:00",
+      "last_seen": "2026-06-26T00:06:31.664813+00:00",
+      "last_sent": "2026-06-26T00:06:31.664813+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BwgxmDKF.js (saves 1412.0KB)"
     }
   }
 }
