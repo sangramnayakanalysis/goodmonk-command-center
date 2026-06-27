@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T16:42:37+00:00",
+  "generated_at": "2026-06-27T20:03:52+00:00",
   "benchmarks": {
     "lcp_ms": 2500,
     "cls": 0.1,
@@ -10,19 +10,19 @@
     {
       "page": "homepage",
       "name": "Homepage",
-      "mobile_score": 34,
-      "desktop_score": 46,
-      "lcp_ms": 9727,
-      "cls": 0.232,
-      "inp_ms": 545,
-      "ttfb_ms": 15,
-      "total_kb": 6165.3,
+      "mobile_score": 48,
+      "desktop_score": 60,
+      "lcp_ms": 27605,
+      "cls": 0.0,
+      "inp_ms": 341,
+      "ttfb_ms": 17,
+      "total_kb": 6255.9,
       "image_kb": 1043.1,
       "image_ratio": 0.17,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1411.9KB)",
-        "Reduce unused CSS — assests-BL8VR-NB.css (saves ~0.1s / 47.8KB)",
-        "Avoid enormous network payloads — auth-components-BwgxmDKF.js"
+        "Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves ~5.2s / 1434.9KB)",
+        "Reduce unused CSS — assests-BL8VR-NB.css (saves ~0.1s / 47.9KB)",
+        "Avoid enormous network payloads — auth-components-Wb2X9SKX.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -30,19 +30,19 @@
     {
       "page": "collection",
       "name": "Collection / Shop",
-      "mobile_score": 36,
-      "desktop_score": 71,
-      "lcp_ms": 8008,
+      "mobile_score": 34,
+      "desktop_score": 79,
+      "lcp_ms": 8010,
       "cls": 0.008,
-      "inp_ms": 1481,
-      "ttfb_ms": 17,
-      "total_kb": 5360.0,
-      "image_kb": 442.4,
+      "inp_ms": 1570,
+      "ttfb_ms": 22,
+      "total_kb": 5265.6,
+      "image_kb": 442.3,
       "image_ratio": 0.08,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves 1402.2KB)",
+        "Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves 1412.4KB)",
         "Reduce unused CSS — assests-BL8VR-NB.css (saves 61.3KB)",
-        "Avoid enormous network payloads — auth-components-BwgxmDKF.js"
+        "Avoid enormous network payloads — auth-components-Wb2X9SKX.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -50,19 +50,19 @@
     {
       "page": "h50",
       "name": "H50+ PDP",
-      "mobile_score": 37,
-      "desktop_score": 62,
-      "lcp_ms": 6138,
+      "mobile_score": 28,
+      "desktop_score": 71,
+      "lcp_ms": 16129,
       "cls": 0.0,
-      "inp_ms": 1656,
-      "ttfb_ms": 13,
-      "total_kb": 5372.2,
-      "image_kb": 261.4,
+      "inp_ms": 1971,
+      "ttfb_ms": 14,
+      "total_kb": 4951.5,
+      "image_kb": 262.1,
       "image_ratio": 0.05,
       "top_issues": [
         "Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-        "Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~0.1s / 1433.7KB)",
-        "Avoid enormous network payloads — auth-components-BwgxmDKF.js"
+        "Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves ~2.0s / 1408.5KB)",
+        "Avoid enormous network payloads — auth-components-Wb2X9SKX.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -70,19 +70,19 @@
     {
       "page": "fnm",
       "name": "Family Nutrition Mix",
-      "mobile_score": 32,
+      "mobile_score": 31,
       "desktop_score": 61,
-      "lcp_ms": 16258,
-      "cls": 0.0,
-      "inp_ms": 1345,
-      "ttfb_ms": 14,
-      "total_kb": 5291.5,
+      "lcp_ms": 6931,
+      "cls": 0.701,
+      "inp_ms": 388,
+      "ttfb_ms": 12,
+      "total_kb": 5363.7,
       "image_kb": 261.4,
       "image_ratio": 0.05,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~2.2s / 1408.5KB)",
-        "Reduce unused CSS — assests-BL8VR-NB.css (saves ~0.1s / 48.2KB)",
-        "Avoid enormous network payloads — auth-components-BwgxmDKF.js"
+        "Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves ~0.3s / 1453.9KB)",
+        "Reduce unused CSS — assests-BL8VR-NB.css (saves ~0.3s / 48.2KB)",
+        "Avoid enormous network payloads — auth-components-Wb2X9SKX.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -90,19 +90,19 @@
     {
       "page": "protein",
       "name": "Protein PDP",
-      "mobile_score": 29,
-      "desktop_score": 63,
-      "lcp_ms": 15010,
+      "mobile_score": 35,
+      "desktop_score": 73,
+      "lcp_ms": 6706,
       "cls": 0.0,
-      "inp_ms": 1783,
-      "ttfb_ms": 14,
-      "total_kb": 5365.7,
+      "inp_ms": 1926,
+      "ttfb_ms": 13,
+      "total_kb": 4948.5,
       "image_kb": 261.4,
       "image_ratio": 0.05,
       "top_issues": [
         "Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-        "Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~2.0s / 1436.3KB)",
-        "Avoid enormous network payloads — auth-components-BwgxmDKF.js"
+        "Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves ~0.1s / 1433.2KB)",
+        "Avoid enormous network payloads — auth-components-Wb2X9SKX.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -110,19 +110,19 @@
     {
       "page": "checkout",
       "name": "Checkout",
-      "mobile_score": 35,
-      "desktop_score": 49,
-      "lcp_ms": 19690,
+      "mobile_score": 51,
+      "desktop_score": 34,
+      "lcp_ms": 19078,
       "cls": 0.0,
-      "inp_ms": 900,
-      "ttfb_ms": 16,
-      "total_kb": 7402.0,
-      "image_kb": 1074.7,
-      "image_ratio": 0.15,
+      "inp_ms": 240,
+      "ttfb_ms": 17,
+      "total_kb": 7433.1,
+      "image_kb": 1074.6,
+      "image_ratio": 0.14,
       "top_issues": [
-        "Reduce unused CSS — assests-BL8VR-NB.css (saves ~0.3s / 47.9KB)",
-        "Reduce unused JavaScript — auth-components-BwgxmDKF.js (saves ~0.0s / 1410.4KB)",
-        "Avoid enormous network payloads — auth-components-BwgxmDKF.js"
+        "Reduce unused CSS — assests-BL8VR-NB.css (saves 47.9KB)",
+        "Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves ~0.5s / 1434.0KB)",
+        "Avoid enormous network payloads — auth-components-Wb2X9SKX.js"
       ],
       "weight_flag": true,
       "image_flag": false
