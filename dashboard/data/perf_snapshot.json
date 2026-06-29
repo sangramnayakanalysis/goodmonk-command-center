@@ -1,22 +1,22 @@
 {
-  "ran_at": "2026-06-28T20:49:13+00:00",
+  "ran_at": "2026-06-29T13:01:34+00:00",
   "pages": [
     {
       "page": "homepage",
       "name": "Homepage",
-      "mobile_score": 52,
-      "desktop_score": 71,
-      "lcp_ms": 9906,
+      "mobile_score": 46,
+      "desktop_score": 54,
+      "lcp_ms": 9706,
       "cls": 0.0,
-      "inp_ms": 349,
-      "ttfb_ms": 22,
-      "total_kb": 6262.9,
-      "image_kb": 1043.0,
+      "inp_ms": 562,
+      "ttfb_ms": 21,
+      "total_kb": 5851.8,
+      "image_kb": 998.6,
       "image_ratio": 0.17,
       "top_issues": [
-        "Reduce unused JavaScript \u2014 auth-components-Wb2X9SKX.js (saves ~0.1s / 1413.1KB)",
+        "Reduce unused JavaScript \u2014 auth-components-BapwPFz6.js (saves 1414.2KB)",
         "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves ~0.1s / 47.9KB)",
-        "Avoid enormous network payloads \u2014 auth-components-Wb2X9SKX.js"
+        "Avoid enormous network payloads \u2014 auth-components-BapwPFz6.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -24,19 +24,19 @@
     {
       "page": "collection",
       "name": "Collection / Shop",
-      "mobile_score": 41,
-      "desktop_score": 79,
-      "lcp_ms": 7081,
+      "mobile_score": 34,
+      "desktop_score": 61,
+      "lcp_ms": 17764,
       "cls": 0.0,
-      "inp_ms": 837,
+      "inp_ms": 1041,
       "ttfb_ms": 15,
-      "total_kb": 5265.8,
-      "image_kb": 442.3,
+      "total_kb": 5612.6,
+      "image_kb": 442.4,
       "image_ratio": 0.08,
       "top_issues": [
-        "Reduce unused JavaScript \u2014 auth-components-Wb2X9SKX.js (saves 1414.0KB)",
-        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves ~0.1s / 61.3KB)",
-        "Avoid enormous network payloads \u2014 auth-components-Wb2X9SKX.js"
+        "Reduce unused JavaScript \u2014 auth-components-BapwPFz6.js (saves ~2.6s / 1413.4KB)",
+        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves ~0.2s / 61.3KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BapwPFz6.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -44,19 +44,19 @@
     {
       "page": "h50",
       "name": "H50+ PDP",
-      "mobile_score": 50,
-      "desktop_score": 62,
-      "lcp_ms": 17518,
+      "mobile_score": 42,
+      "desktop_score": 79,
+      "lcp_ms": 5956,
       "cls": 0.0,
-      "inp_ms": 327,
-      "ttfb_ms": 12,
-      "total_kb": 5364.7,
+      "inp_ms": 1302,
+      "ttfb_ms": 15,
+      "total_kb": 5289.1,
       "image_kb": 261.4,
       "image_ratio": 0.05,
       "top_issues": [
+        "Reduce unused JavaScript \u2014 auth-components-BapwPFz6.js (saves 1434.9KB)",
         "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves 48.2KB)",
-        "Reduce unused JavaScript \u2014 auth-components-Wb2X9SKX.js (saves ~2.6s / 1454.6KB)",
-        "Avoid enormous network payloads \u2014 auth-components-Wb2X9SKX.js"
+        "Avoid enormous network payloads \u2014 auth-components-BapwPFz6.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -64,19 +64,19 @@
     {
       "page": "fnm",
       "name": "Family Nutrition Mix",
-      "mobile_score": 54,
-      "desktop_score": 65,
-      "lcp_ms": 6106,
-      "cls": 0.008,
-      "inp_ms": 422,
-      "ttfb_ms": 11,
-      "total_kb": 5300.1,
+      "mobile_score": 44,
+      "desktop_score": 64,
+      "lcp_ms": 25939,
+      "cls": 0.0,
+      "inp_ms": 456,
+      "ttfb_ms": 14,
+      "total_kb": 5299.8,
       "image_kb": 261.4,
       "image_ratio": 0.05,
       "top_issues": [
-        "Reduce unused JavaScript \u2014 auth-components-Wb2X9SKX.js (saves ~0.3s / 1435.2KB)",
-        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves ~0.3s / 48.2KB)",
-        "Avoid enormous network payloads \u2014 auth-components-Wb2X9SKX.js"
+        "Reduce unused JavaScript \u2014 auth-components-BapwPFz6.js (saves ~6.8s / 1454.8KB)",
+        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves ~0.1s / 48.3KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BapwPFz6.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -85,18 +85,18 @@
       "page": "protein",
       "name": "Protein PDP",
       "mobile_score": 34,
-      "desktop_score": 86,
-      "lcp_ms": 22045,
+      "desktop_score": 69,
+      "lcp_ms": 21798,
       "cls": 0.0,
-      "inp_ms": 1040,
+      "inp_ms": 1034,
       "ttfb_ms": 12,
-      "total_kb": 5017.5,
+      "total_kb": 5360.7,
       "image_kb": 261.4,
       "image_ratio": 0.05,
       "top_issues": [
-        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves 48.2KB)",
-        "Reduce unused JavaScript \u2014 auth-components-Wb2X9SKX.js (saves ~4.9s / 1434.0KB)",
-        "Avoid enormous network payloads \u2014 auth-components-Wb2X9SKX.js"
+        "Reduce unused JavaScript \u2014 auth-components-BapwPFz6.js (saves ~4.7s / 1433.8KB)",
+        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves ~0.3s / 48.3KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BapwPFz6.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -104,19 +104,19 @@
     {
       "page": "checkout",
       "name": "Checkout",
-      "mobile_score": 29,
-      "desktop_score": 61,
-      "lcp_ms": 19393,
+      "mobile_score": 40,
+      "desktop_score": 42,
+      "lcp_ms": 18559,
       "cls": 0.0,
-      "inp_ms": 1518,
-      "ttfb_ms": 18,
-      "total_kb": 6863.4,
-      "image_kb": 1074.8,
-      "image_ratio": 0.16,
+      "inp_ms": 601,
+      "ttfb_ms": 22,
+      "total_kb": 7042.8,
+      "image_kb": 1017.6,
+      "image_ratio": 0.14,
       "top_issues": [
-        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves ~0.3s / 48.0KB)",
-        "Reduce unused JavaScript \u2014 auth-components-Wb2X9SKX.js (saves ~0.1s / 1083.3KB)",
-        "Avoid enormous network payloads \u2014 auth-components-Wb2X9SKX.js"
+        "Reduce unused JavaScript \u2014 auth-components-BapwPFz6.js (saves 1403.1KB)",
+        "Reduce unused CSS \u2014 assests-BL8VR-NB.css (saves 47.9KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BapwPFz6.js"
       ],
       "weight_flag": true,
       "image_flag": false
