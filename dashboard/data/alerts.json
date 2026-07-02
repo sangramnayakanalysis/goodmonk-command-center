@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-02T10:17:20+00:00",
+  "generated_at": "2026-07-02T11:25:28+00:00",
   "open": [
+    {
+      "time": "2026-07-02T11:25:26+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 48.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-02T11:25:24+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 48.5KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-02T00:33:45+00:00",
       "severity": "Critical",
@@ -287,18 +299,6 @@
       "time": "2026-06-28T20:49:10+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-28T20:49:08+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-28T20:49:07+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves 1414.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 139
+  "critical_count": 141
 }
