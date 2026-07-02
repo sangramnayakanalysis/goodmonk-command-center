@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:25:28+00:00",
+  "generated_at": "2026-07-02T17:04:23+00:00",
   "open": [
     {
       "time": "2026-07-02T11:25:26+00:00",
@@ -304,6 +304,18 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-02T17:04:20+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 48.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-02T17:04:18+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 48.5KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-02T10:17:18+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-yAZkts1R.js (saves 1425.0KB)",
@@ -589,18 +601,6 @@
       "time": "2026-06-28T23:51:00+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-28T23:50:58+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-28T23:50:56+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves 1414.0KB)",
       "status": "Resolved"
     }
   ],
