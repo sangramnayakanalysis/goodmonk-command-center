@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-01T22:52:33+00:00",
+  "generated_at": "2026-07-02T00:33:48+00:00",
   "open": [
+    {
+      "time": "2026-07-02T00:33:45+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-yAZkts1R.js (saves 1425.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-02T00:33:43+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-yAZkts1R.js (saves 1412.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-02T00:33:35+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 61.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-02T00:33:33+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-yAZkts1R.js (saves ~0.1s / 1077.1KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-01T19:24:43+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-06-28T20:49:07+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves 1414.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-28T16:02:02+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves 1412.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-28T16:02:00+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 44/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-28T16:01:57+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-Wb2X9SKX.js (saves 1436.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-06-28T16:01:54+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 135
+  "critical_count": 139
 }
