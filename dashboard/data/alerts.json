@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T10:23:14+00:00",
+  "generated_at": "2026-07-03T15:57:20+00:00",
   "open": [
     {
       "time": "2026-07-03T10:23:11+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-03T15:57:18+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1403.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-03T15:57:15+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 48.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-03T15:57:13+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~3.0s / 1423.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-03T15:57:12+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1401.8KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-03T08:39:45+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-D364SXdW.js (saves 1391.1KB)",
@@ -577,30 +601,6 @@
       "time": "2026-06-30T08:48:00+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BapwPFz6.js (saves 1417.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T08:47:59+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BapwPFz6.js (saves ~5.1s / 1438.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T08:47:55+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T08:47:53+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BapwPFz6.js (saves 1392.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T08:47:49+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BapwPFz6.js (saves 1416.5KB)",
       "status": "Resolved"
     }
   ],
