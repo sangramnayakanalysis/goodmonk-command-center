@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T16:31:53+00:00",
+  "generated_at": "2026-07-03T20:23:03+00:00",
   "open": [
     {
       "time": "2026-07-03T16:31:50+00:00",
@@ -304,6 +304,36 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-03T20:23:01+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1378.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-03T20:22:59+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 48.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-03T20:22:57+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~0.3s / 1420.7KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-03T20:22:54+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1400.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-03T20:22:52+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~6.1s / 1404.2KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-03T15:57:18+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1403.5KB)",
@@ -571,36 +601,6 @@
       "time": "2026-06-30T16:39:22+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T16:39:21+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 23/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T16:39:19+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 48.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T16:39:17+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BapwPFz6.js (saves ~5.2s / 1415.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T16:39:15+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-BL8VR-NB.css (saves 47.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-06-30T08:48:00+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BapwPFz6.js (saves 1417.4KB)",
       "status": "Resolved"
     }
   ],
