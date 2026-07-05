@@ -26,6 +26,60 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-05T15:02:33.769003+00:00",
+      "last_seen": "2026-07-05T15:02:33.769003+00:00",
+      "last_sent": "2026-07-05T15:02:33.769003+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused CSS \u2014 assests-ChSO3YJj.css (saves 48.2KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-05T15:02:36.103242+00:00",
+      "last_seen": "2026-07-05T15:02:36.103242+00:00",
+      "last_sent": "2026-07-05T15:02:36.103242+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused CSS \u2014 assests-ChSO3YJj.css (saves 61.5KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-05T15:02:38.546454+00:00",
+      "last_seen": "2026-07-05T15:02:38.546454+00:00",
+      "last_sent": "2026-07-05T15:02:38.546454+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BGaGBvme.js (saves 1404.2KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-07-05T15:02:41.495927+00:00",
+      "last_seen": "2026-07-05T15:02:41.495927+00:00",
+      "last_sent": "2026-07-05T15:02:41.495927+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused CSS \u2014 assests-ChSO3YJj.css (saves 38.1KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-05T15:02:44.678878+00:00",
+      "last_seen": "2026-07-05T15:02:44.678878+00:00",
+      "last_sent": "2026-07-05T15:02:44.678878+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused CSS \u2014 assests-ChSO3YJj.css (saves 38.1KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-05T15:02:47.754550+00:00",
+      "last_seen": "2026-07-05T15:02:47.754550+00:00",
+      "last_sent": "2026-07-05T15:02:47.754550+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 50/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BGaGBvme.js (saves ~0.6s / 1383.3KB)"
     }
   }
 }
