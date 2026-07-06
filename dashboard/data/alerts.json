@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-06T19:15:08+00:00",
+  "generated_at": "2026-07-06T19:33:50+00:00",
   "open": [
+    {
+      "time": "2026-07-06T19:33:48+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-CYPZrSqg.js (saves 1374.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-06T19:33:46+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-CYPZrSqg.js (saves ~4.8s / 1404.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-06T19:33:44+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-CYPZrSqg.js (saves 1051.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-06T19:33:42+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 51.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-06T19:33:40+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 37.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-06T13:17:06+00:00",
       "severity": "Critical",
@@ -269,36 +299,6 @@
       "time": "2026-07-04T12:27:18+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 25/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~0.1s / 1367.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-04T07:43:53+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1401.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-04T07:43:52+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1422.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-04T07:43:50+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~0.1s / 1412.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-04T07:43:48+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~1.1s / 1387.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-04T07:43:47+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~0.1s / 1402.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 218
+  "critical_count": 223
 }

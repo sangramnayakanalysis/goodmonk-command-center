@@ -26,6 +26,51 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-06T19:33:38.568279+00:00",
+      "last_seen": "2026-07-06T19:33:38.568279+00:00",
+      "last_sent": "2026-07-06T19:33:38.568279+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused CSS \u2014 assests-ChSO3YJj.css (saves 37.9KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-06T19:33:40.688868+00:00",
+      "last_seen": "2026-07-06T19:33:40.688868+00:00",
+      "last_sent": "2026-07-06T19:33:40.688868+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused CSS \u2014 assests-ChSO3YJj.css (saves 51.2KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-06T19:33:42.632698+00:00",
+      "last_seen": "2026-07-06T19:33:42.632698+00:00",
+      "last_sent": "2026-07-06T19:33:42.632698+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 29/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CYPZrSqg.js (saves 1051.9KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-06T19:33:44.829031+00:00",
+      "last_seen": "2026-07-06T19:33:44.829031+00:00",
+      "last_sent": "2026-07-06T19:33:44.829031+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CYPZrSqg.js (saves ~4.8s / 1404.6KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-06T19:33:47.061765+00:00",
+      "last_seen": "2026-07-06T19:33:47.061765+00:00",
+      "last_sent": "2026-07-06T19:33:47.061765+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CYPZrSqg.js (saves 1374.3KB)"
     }
   }
 }
