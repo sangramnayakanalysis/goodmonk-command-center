@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:33:50+00:00",
+  "generated_at": "2026-07-06T22:53:52+00:00",
   "open": [
     {
       "time": "2026-07-06T19:33:48+00:00",
@@ -304,6 +304,36 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-06T22:53:50+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-CYPZrSqg.js (saves 1374.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-06T22:53:48+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-CYPZrSqg.js (saves ~4.8s / 1404.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-06T22:53:47+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-CYPZrSqg.js (saves 1051.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-06T22:53:45+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 51.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-06T22:53:42+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 37.9KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-06T19:15:06+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 37.9KB)",
@@ -571,36 +601,6 @@
       "time": "2026-07-04T09:30:20+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~0.1s / 1402.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-04T09:30:19+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1402.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-04T00:18:29+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1403.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-04T00:18:28+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~0.1s / 1399.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-04T00:18:26+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1412.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-04T00:18:24+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 45/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 61.5KB)",
       "status": "Resolved"
     }
   ],
