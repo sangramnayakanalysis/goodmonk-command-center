@@ -26,6 +26,42 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-08T20:59:02.763704+00:00",
+      "last_seen": "2026-07-08T20:59:02.763704+00:00",
+      "last_sent": "2026-07-08T20:59:02.763704+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CVnYuHoQ.js (saves 1307.8KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-08T20:59:05.075206+00:00",
+      "last_seen": "2026-07-08T20:59:05.075206+00:00",
+      "last_sent": "2026-07-08T20:59:05.075206+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 53.2KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-08T20:59:07.499878+00:00",
+      "last_seen": "2026-07-08T20:59:07.499878+00:00",
+      "last_sent": "2026-07-08T20:59:07.499878+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 40.2KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-08T20:59:09.533042+00:00",
+      "last_seen": "2026-07-08T20:59:09.533042+00:00",
+      "last_sent": "2026-07-08T20:59:09.533042+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 39.8KB)"
     }
   }
 }

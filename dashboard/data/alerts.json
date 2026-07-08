@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-08T18:54:40+00:00",
+  "generated_at": "2026-07-08T20:59:13+00:00",
   "open": [
+    {
+      "time": "2026-07-08T20:59:10+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-DxT0fuxf.css (saves 39.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-08T20:59:08+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-DxT0fuxf.css (saves 40.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-08T20:59:06+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-DxT0fuxf.css (saves 53.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-08T20:59:04+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CVnYuHoQ.js (saves 1307.8KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-08T16:26:31+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-07-05T22:44:46+00:00",
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 38.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-05T22:44:43+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves 51.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-05T22:44:41+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves ~0.1s / 1381.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-05T18:56:24+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BGaGBvme.js (saves 1347.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-05T18:56:21+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-ChSO3YJj.css (saves ~0.3s / 38.2KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 255
+  "critical_count": 259
 }
