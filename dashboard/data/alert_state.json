@@ -2,75 +2,30 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-07-11T23:37:48.572700+00:00",
-      "last_sent": "2026-07-11T23:37:48.572700+00:00",
-      "count": 64,
+      "last_seen": "2026-07-12T07:49:14.665752+00:00",
+      "last_sent": "2026-07-12T07:49:14.665752+00:00",
+      "count": 65,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-07-11T23:37:52.069186+00:00",
-      "last_sent": "2026-07-11T23:37:52.069186+00:00",
-      "count": 64,
+      "last_seen": "2026-07-12T07:49:17.851528+00:00",
+      "last_sent": "2026-07-12T07:49:17.851528+00:00",
+      "count": 65,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-07-11T23:38:10.229146+00:00",
-      "last_sent": "2026-07-11T23:38:10.229146+00:00",
-      "count": 64,
+      "last_seen": "2026-07-12T07:49:35.053231+00:00",
+      "last_sent": "2026-07-12T07:49:35.053231+00:00",
+      "count": 65,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-07-12T07:44:06.761577+00:00",
-      "last_seen": "2026-07-12T07:44:06.761577+00:00",
-      "last_sent": "2026-07-12T07:44:06.761577+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 39.9KB)"
-    },
-    "perf_critical:collection": {
-      "first_seen": "2026-07-12T07:44:10.013898+00:00",
-      "last_seen": "2026-07-12T07:44:10.013898+00:00",
-      "last_sent": "2026-07-12T07:44:10.013898+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CiqYhnvC.js (saves 1421.5KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-07-12T07:44:13.842915+00:00",
-      "last_seen": "2026-07-12T07:44:13.842915+00:00",
-      "last_sent": "2026-07-12T07:44:13.842915+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 50/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CiqYhnvC.js (saves ~5.2s / 1433.6KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-07-12T07:44:16.098261+00:00",
-      "last_seen": "2026-07-12T07:44:16.098261+00:00",
-      "last_sent": "2026-07-12T07:44:16.098261+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 40.2KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-07-12T07:44:18.774072+00:00",
-      "last_seen": "2026-07-12T07:44:18.774072+00:00",
-      "last_sent": "2026-07-12T07:44:18.774072+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 39.8KB)"
     }
   }
 }
