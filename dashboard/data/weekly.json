@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-12T07:49:49+00:00",
+  "generated_at": "2026-07-12T11:45:26+00:00",
   "best_page": {
-    "page": "H50+ PDP",
-    "value": 41.16
+    "page": "Collection / Shop",
+    "value": 40.67
   },
   "worst_page": {
     "page": "Protein PDP",
-    "value": 36.44
+    "value": 36.04
   },
   "fastest_page": {
     "page": "H50+ PDP",
-    "value": 1.21
+    "value": 1.2
   },
   "slowest_page": {
     "page": "Add to Cart",
-    "value": 16.14
+    "value": 16.13
   },
   "incidents": 78
 }
