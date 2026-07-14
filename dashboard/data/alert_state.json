@@ -2,93 +2,30 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-07-14T16:47:54.993200+00:00",
-      "last_sent": "2026-07-14T16:47:54.993200+00:00",
-      "count": 76,
+      "last_seen": "2026-07-14T20:42:59.907198+00:00",
+      "last_sent": "2026-07-14T20:42:59.907198+00:00",
+      "count": 77,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-07-14T16:47:57.362161+00:00",
-      "last_sent": "2026-07-14T16:47:57.362161+00:00",
-      "count": 76,
+      "last_seen": "2026-07-14T20:43:03.093914+00:00",
+      "last_sent": "2026-07-14T20:43:03.093914+00:00",
+      "count": 77,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-07-14T16:48:14.894276+00:00",
-      "last_sent": "2026-07-14T16:48:14.894276+00:00",
-      "count": 76,
+      "last_seen": "2026-07-14T20:43:21.110274+00:00",
+      "last_sent": "2026-07-14T20:43:21.110274+00:00",
+      "count": 77,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
-    },
-    "homepage_down": {
-      "first_seen": "2026-07-14T12:02:44.125895+00:00",
-      "last_seen": "2026-07-14T16:47:48.560960+00:00",
-      "last_sent": "2026-07-14T16:47:48.560960+00:00",
-      "count": 2,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Homepage failed to load (HTTP 429, 0.5s)"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-07-14T17:54:04.542482+00:00",
-      "last_seen": "2026-07-14T17:54:04.542482+00:00",
-      "last_sent": "2026-07-14T17:54:04.542482+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 39.9KB)"
-    },
-    "perf_critical:collection": {
-      "first_seen": "2026-07-14T17:54:06.447412+00:00",
-      "last_seen": "2026-07-14T17:54:06.447412+00:00",
-      "last_sent": "2026-07-14T17:54:06.447412+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Mobile PageSpeed 46/100 \u2014 Reduce unused JavaScript \u2014 auth-components-B0F-eEh3.js (saves 1439.7KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-07-14T17:54:08.201957+00:00",
-      "last_seen": "2026-07-14T17:54:08.201957+00:00",
-      "last_sent": "2026-07-14T17:54:08.201957+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused JavaScript \u2014 auth-components-B0F-eEh3.js (saves ~5.1s / 1440.3KB)"
-    },
-    "perf_critical:fnm": {
-      "first_seen": "2026-07-14T17:54:09.913030+00:00",
-      "last_seen": "2026-07-14T17:54:09.913030+00:00",
-      "last_sent": "2026-07-14T17:54:09.913030+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Family Nutrition Mix",
-      "detail": "Mobile PageSpeed 40/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 40.2KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-07-14T17:54:11.593697+00:00",
-      "last_seen": "2026-07-14T17:54:11.593697+00:00",
-      "last_sent": "2026-07-14T17:54:11.593697+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 46/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 40.2KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-07-14T17:54:13.298960+00:00",
-      "last_seen": "2026-07-14T17:54:13.298960+00:00",
-      "last_sent": "2026-07-14T17:54:13.298960+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 49/100 \u2014 Reduce unused CSS \u2014 assests-DxT0fuxf.css (saves 39.8KB)"
     }
   }
 }
