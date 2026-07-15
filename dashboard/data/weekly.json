@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T12:08:08+00:00",
+  "generated_at": "2026-07-15T16:54:13+00:00",
   "best_page": {
     "page": "Collection / Shop",
-    "value": 41.15
+    "value": 41.58
   },
   "worst_page": {
     "page": "Protein PDP",
@@ -14,7 +14,7 @@
   },
   "slowest_page": {
     "page": "Add to Cart",
-    "value": 16.0
+    "value": 15.99
   },
   "incidents": 96
 }
