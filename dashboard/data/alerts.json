@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:27:57+00:00",
+  "generated_at": "2026-07-15T12:08:08+00:00",
   "open": [
     {
       "time": "2026-07-15T06:39:22+00:00",
@@ -304,6 +304,12 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-15T12:08:04+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Homepage failed to load (HTTP 429, 0.4s)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-15T07:27:55+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-D5A__nbA.js (saves 1422.8KB)",
@@ -595,12 +601,6 @@
       "time": "2026-07-13T08:37:47+00:00",
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-CiqYhnvC.js (saves ~0.3s / 1423.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-12T21:35:21+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-DxT0fuxf.css (saves 39.9KB)",
       "status": "Resolved"
     }
   ],
