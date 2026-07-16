@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-16T07:49:44+00:00",
+  "generated_at": "2026-07-16T12:18:24+00:00",
   "open": [
+    {
+      "time": "2026-07-16T12:18:22+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-Dx4sf9KN.js (saves 1409.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-16T12:18:19+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-Dx4sf9KN.js (saves ~1.9s / 1409.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-16T12:18:16+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-Dx4sf9KN.js (saves ~4.9s / 1412.6KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-16T06:46:59+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-07-14T12:57:58+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BG5dqDfb.js (saves ~0.1s / 1050.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-14T12:02:45+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Homepage failed to load (HTTP 429, 0.5s)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-14T07:27:01+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-CiqYhnvC.js (saves ~5.2s / 1442.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-14T07:26:57+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-CiqYhnvC.js (saves 1442.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 406
+  "critical_count": 409
 }
