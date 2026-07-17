@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-17T16:38:08+00:00",
+  "generated_at": "2026-07-17T20:16:06+00:00",
   "open": [
+    {
+      "time": "2026-07-17T16:45:23+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.9s / 1435.7KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-17T12:04:02+00:00",
       "severity": "Critical",
@@ -293,12 +299,6 @@
       "time": "2026-07-15T12:16:34+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-ItJ1DSLS.js (saves 1409.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-15T12:16:31+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 437
+  "critical_count": 438
 }
