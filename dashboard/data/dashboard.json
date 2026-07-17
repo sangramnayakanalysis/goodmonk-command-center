@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-07-17T12:04:07+00:00",
+  "generated_at": "2026-07-17T16:38:08+00:00",
   "site": "https://goodmonk.in",
   "summary": {
-    "site_status": "DOWN",
+    "site_status": "DEGRADED",
     "pages_monitored": 6,
-    "healthy": 0,
+    "healthy": 3,
     "warning": 0,
-    "critical": 6,
-    "avg_load_time": 2.61,
-    "health_score": 0
+    "critical": 3,
+    "avg_load_time": 4.15,
+    "health_score": 50
   },
   "health_table": [
     {
       "page": "Homepage",
-      "status": "FAILED",
-      "http": 429,
-      "load_time": 0.161,
-      "severity": "Critical",
-      "last_checked": "2026-07-17T11:46:03+00:00"
+      "status": "PASS",
+      "http": 200,
+      "load_time": 1.482,
+      "severity": "Healthy",
+      "last_checked": "2026-07-17T16:37:13+00:00"
     },
     {
       "page": "Collection / Shop",
-      "status": "FAILED",
-      "http": 429,
-      "load_time": 0.049,
-      "severity": "Critical",
-      "last_checked": "2026-07-17T11:46:05+00:00"
+      "status": "PASS",
+      "http": 200,
+      "load_time": 1.998,
+      "severity": "Healthy",
+      "last_checked": "2026-07-17T16:37:15+00:00"
     },
     {
       "page": "H50+ PDP",
       "status": "FAILED",
-      "http": 503,
-      "load_time": 0.063,
+      "http": 404,
+      "load_time": 1.302,
       "severity": "Critical",
-      "last_checked": "2026-07-17T11:46:07+00:00"
+      "last_checked": "2026-07-17T16:37:17+00:00"
     },
     {
       "page": "Family Nutrition Mix",
       "status": "FAILED",
-      "http": 503,
-      "load_time": 0.065,
+      "http": 404,
+      "load_time": 1.372,
       "severity": "Critical",
-      "last_checked": "2026-07-17T11:46:09+00:00"
+      "last_checked": "2026-07-17T16:37:21+00:00"
     },
     {
       "page": "Add to Cart",
       "status": "FAILED",
       "http": 0,
-      "load_time": 15.239,
+      "load_time": 16.135,
       "severity": "Critical",
-      "last_checked": "2026-07-17T11:46:26+00:00"
+      "last_checked": "2026-07-17T16:37:40+00:00"
     },
     {
       "page": "Checkout Init",
-      "status": "FAILED",
-      "http": 503,
-      "load_time": 0.061,
-      "severity": "Critical",
-      "last_checked": "2026-07-17T11:46:28+00:00"
+      "status": "PASS",
+      "http": 200,
+      "load_time": 2.619,
+      "severity": "Healthy",
+      "last_checked": "2026-07-17T16:37:45+00:00"
     }
   ],
   "break_grid": [
     {
       "label": "Homepage",
-      "status": "FAILED"
+      "status": "PASS"
     },
     {
       "label": "Collection",
-      "status": "FAILED"
+      "status": "PASS"
     },
     {
       "label": "H50",
@@ -83,7 +83,7 @@
     },
     {
       "label": "Checkout",
-      "status": "FAILED"
+      "status": "PASS"
     }
   ]
 }
