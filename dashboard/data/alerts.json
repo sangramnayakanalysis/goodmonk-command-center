@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T22:40:48+00:00",
+  "generated_at": "2026-07-18T23:37:35+00:00",
   "open": [
     {
       "time": "2026-07-18T22:40:46+00:00",
@@ -304,6 +304,36 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-18T23:37:33+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 39.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-18T23:37:31+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~1.9s / 1459.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-18T23:37:28+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-18T23:37:26+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 53.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-18T23:37:24+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.1s / 1419.4KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-18T20:27:55+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves 1439.1KB)",
@@ -571,36 +601,6 @@
       "time": "2026-07-17T16:37:55+00:00",
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 20/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.3s / 39.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:37:53+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:37:51+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Load failure (HTTP 429, 0.0s)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:37:49+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Homepage failed to load (HTTP 429, 0.2s)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T11:46:41+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-D6inZaUB.js (saves 1439.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T11:46:39+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-D6inZaUB.js (saves 1459.5KB)",
       "status": "Resolved"
     }
   ],
