@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T07:49:45+00:00",
+  "generated_at": "2026-07-19T11:41:24+00:00",
   "open": [
     {
       "time": "2026-07-19T07:49:06+00:00",
@@ -304,6 +304,18 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-19T11:41:21+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Load failure (HTTP 429, 0.0s)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-19T11:41:19+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Homepage failed to load (HTTP 429, 0.1s)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-19T07:49:42+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.3s / 39.8KB)",
@@ -589,18 +601,6 @@
       "time": "2026-07-17T23:13:06+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.7s / 1460.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T23:13:04+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.1s / 1439.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T23:13:02+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves 1440.9KB)",
       "status": "Resolved"
     }
   ],
