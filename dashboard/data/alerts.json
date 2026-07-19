@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-19T07:45:30+00:00",
+  "generated_at": "2026-07-19T07:49:45+00:00",
   "open": [
+    {
+      "time": "2026-07-19T07:49:06+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Load failure (HTTP 429, 0.0s)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-19T07:49:03+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Homepage failed to load (HTTP 429, 0.1s)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-19T07:45:28+00:00",
       "severity": "Critical",
@@ -288,21 +300,39 @@
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.7s / 1460.5KB)",
       "status": "Open"
-    },
-    {
-      "time": "2026-07-17T20:39:11+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.1s / 1439.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-17T20:39:08+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves 1440.9KB)",
-      "status": "Open"
     }
   ],
   "resolved": [
+    {
+      "time": "2026-07-19T07:49:42+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.3s / 39.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-19T07:49:40+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-19T07:49:38+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 44/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-19T07:49:35+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~1.9s / 1435.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-07-19T07:49:33+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves 1440.4KB)",
+      "status": "Resolved"
+    },
     {
       "time": "2026-07-18T23:37:33+00:00",
       "severity": "Resolved",
@@ -572,37 +602,7 @@
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves 1440.9KB)",
       "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:38:05+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 39.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:38:02+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~1.6s / 1460.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:38:00+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves 1421.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:37:58+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.2s / 53.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-17T16:37:55+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 20/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.3s / 39.8KB)",
-      "status": "Resolved"
     }
   ],
-  "critical_count": 488
+  "critical_count": 490
 }
