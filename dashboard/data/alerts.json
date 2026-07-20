@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-20T16:16:33+00:00",
+  "generated_at": "2026-07-20T20:51:29+00:00",
   "open": [
+    {
+      "time": "2026-07-20T20:51:00+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Load failure (HTTP 429, 0.1s)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-20T20:50:58+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Homepage failed to load (HTTP 429, 0.2s)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-20T16:08:46+00:00",
       "severity": "Critical",
@@ -287,18 +299,6 @@
       "time": "2026-07-18T15:40:08+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 53.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-18T15:40:06+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.5s / 1415.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-18T14:38:03+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 516
+  "critical_count": 518
 }
