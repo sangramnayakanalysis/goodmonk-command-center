@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-20T03:10:08+00:00",
+  "generated_at": "2026-07-20T08:31:58+00:00",
   "open": [
+    {
+      "time": "2026-07-20T08:31:55+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 26/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.5s / 1111.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-20T08:31:53+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 30/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-20T08:31:51+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~4.9s / 1462.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-20T08:31:48+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.3s / 1462.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-19T15:41:37+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-07-18T11:39:31+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.2s / 39.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-18T07:22:21+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves 1441.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-18T07:22:18+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.5s / 1449.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-18T07:22:16+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-18T07:22:13+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.1KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 504
+  "critical_count": 508
 }
