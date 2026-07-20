@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:30:45+00:00",
+  "generated_at": "2026-07-20T16:08:49+00:00",
   "benchmarks": {
     "lcp_ms": 2500,
     "cls": 0.1,
@@ -10,19 +10,19 @@
     {
       "page": "homepage",
       "name": "Homepage",
-      "mobile_score": 51,
-      "desktop_score": 80,
-      "lcp_ms": 9706,
-      "cls": 0.0,
-      "inp_ms": 396,
-      "ttfb_ms": 23,
-      "total_kb": 6307.2,
-      "image_kb": 1364.7,
+      "mobile_score": 29,
+      "desktop_score": 50,
+      "lcp_ms": 9256,
+      "cls": 0.232,
+      "inp_ms": 906,
+      "ttfb_ms": 22,
+      "total_kb": 6250.2,
+      "image_kb": 1365.7,
       "image_ratio": 0.22,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.1s / 1430.2KB)",
-        "Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.1s / 39.8KB)",
-        "Avoid enormous network payloads — auth-components-B5LMx9xN.js"
+        "Reduce unused JavaScript — auth-components-DTeATu3k.js (saves 1442.8KB)",
+        "Reduce unused CSS — assests-kzUsWIwp.css (saves 39.8KB)",
+        "Avoid enormous network payloads — auth-components-DTeATu3k.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -30,19 +30,19 @@
     {
       "page": "collection",
       "name": "Collection / Shop",
-      "mobile_score": 53,
-      "desktop_score": 66,
-      "lcp_ms": 8213,
+      "mobile_score": 34,
+      "desktop_score": 72,
+      "lcp_ms": 8223,
       "cls": 0.0,
-      "inp_ms": 390,
-      "ttfb_ms": 15,
-      "total_kb": 5577.9,
+      "inp_ms": 1778,
+      "ttfb_ms": 20,
+      "total_kb": 5237.3,
       "image_kb": 443.2,
       "image_ratio": 0.08,
       "top_issues": [
-        "Reduce unused CSS — assests-kzUsWIwp.css (saves 53.5KB)",
-        "Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.5s / 1464.1KB)",
-        "Avoid enormous network payloads — auth-components-B5LMx9xN.js"
+        "Reduce unused JavaScript — auth-components-DTeATu3k.js (saves ~0.1s / 1450.4KB)",
+        "Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.1s / 53.5KB)",
+        "Avoid enormous network payloads — auth-components-DTeATu3k.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -50,19 +50,19 @@
     {
       "page": "h50",
       "name": "H50+ PDP",
-      "mobile_score": 35,
-      "desktop_score": 61,
-      "lcp_ms": 7144,
+      "mobile_score": 46,
+      "desktop_score": 56,
+      "lcp_ms": 5506,
       "cls": 0.0,
-      "inp_ms": 1477,
-      "ttfb_ms": 14,
-      "total_kb": 5349.6,
+      "inp_ms": 971,
+      "ttfb_ms": 16,
+      "total_kb": 5114.8,
       "image_kb": 262.3,
       "image_ratio": 0.05,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.3s / 1462.9KB)",
+        "Reduce unused JavaScript — auth-components-DTeATu3k.js (saves ~0.1s / 1464.7KB)",
         "Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.1s / 40.2KB)",
-        "Avoid enormous network payloads — auth-components-B5LMx9xN.js"
+        "Avoid enormous network payloads — auth-components-DTeATu3k.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -70,19 +70,19 @@
     {
       "page": "fnm",
       "name": "Family Nutrition Mix",
-      "mobile_score": 42,
-      "desktop_score": 83,
-      "lcp_ms": 23863,
+      "mobile_score": 28,
+      "desktop_score": 55,
+      "lcp_ms": 15170,
       "cls": 0.0,
-      "inp_ms": 544,
-      "ttfb_ms": 17,
-      "total_kb": 5037.6,
-      "image_kb": 262.2,
+      "inp_ms": 2509,
+      "ttfb_ms": 15,
+      "total_kb": 4781.2,
+      "image_kb": 262.3,
       "image_ratio": 0.05,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~4.9s / 1462.0KB)",
-        "Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.3s / 40.2KB)",
-        "Avoid enormous network payloads — auth-components-B5LMx9xN.js"
+        "Reduce unused JavaScript — auth-components-DTeATu3k.js (saves ~1.8s / 1418.1KB)",
+        "Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.1s / 40.2KB)",
+        "Avoid enormous network payloads — auth-components-DTeATu3k.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -90,19 +90,19 @@
     {
       "page": "protein",
       "name": "Protein PDP",
-      "mobile_score": 30,
-      "desktop_score": 49,
-      "lcp_ms": 14353,
+      "mobile_score": 32,
+      "desktop_score": 56,
+      "lcp_ms": 8206,
       "cls": 0.0,
-      "inp_ms": 1708,
-      "ttfb_ms": 17,
-      "total_kb": 5015.7,
+      "inp_ms": 1570,
+      "ttfb_ms": 14,
+      "total_kb": 5038.5,
       "image_kb": 262.2,
       "image_ratio": 0.05,
       "top_issues": [
         "Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-        "Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~2.1s / 1464.1KB)",
-        "Avoid enormous network payloads — auth-components-B5LMx9xN.js"
+        "Reduce unused JavaScript — auth-components-DTeATu3k.js (saves ~0.3s / 1463.9KB)",
+        "Avoid enormous network payloads — auth-components-DTeATu3k.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -110,19 +110,19 @@
     {
       "page": "checkout",
       "name": "Checkout",
-      "mobile_score": 26,
-      "desktop_score": 59,
-      "lcp_ms": 18182,
+      "mobile_score": 47,
+      "desktop_score": 34,
+      "lcp_ms": 19741,
       "cls": 0.0,
-      "inp_ms": 4663,
-      "ttfb_ms": 19,
-      "total_kb": 7280.0,
+      "inp_ms": 352,
+      "ttfb_ms": 16,
+      "total_kb": 7755.5,
       "image_kb": 1384.7,
-      "image_ratio": 0.19,
+      "image_ratio": 0.18,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.5s / 1111.7KB)",
-        "Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.1s / 39.8KB)",
-        "Avoid enormous network payloads — auth-components-B5LMx9xN.js"
+        "Reduce unused JavaScript — auth-components-DTeATu3k.js (saves ~0.6s / 1439.9KB)",
+        "Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.1s / 39.9KB)",
+        "Avoid enormous network payloads — auth-components-DTeATu3k.js"
       ],
       "weight_flag": true,
       "image_flag": false
