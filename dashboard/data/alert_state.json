@@ -44,6 +44,51 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-21T16:16:28.526099+00:00",
+      "last_seen": "2026-07-21T16:16:28.526099+00:00",
+      "last_sent": "2026-07-21T16:16:28.526099+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 20/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 39.8KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-21T16:16:30.982031+00:00",
+      "last_seen": "2026-07-21T16:16:30.982031+00:00",
+      "last_sent": "2026-07-21T16:16:30.982031+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 42.9KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-21T16:16:33.162399+00:00",
+      "last_seen": "2026-07-21T16:16:33.162399+00:00",
+      "last_sent": "2026-07-21T16:16:33.162399+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 40.2KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-07-21T16:16:35.294393+00:00",
+      "last_seen": "2026-07-21T16:16:35.294393+00:00",
+      "last_sent": "2026-07-21T16:16:35.294393+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-DQw3Ul5l.js (saves ~0.3s / 1462.6KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-21T16:16:37.638961+00:00",
+      "last_seen": "2026-07-21T16:16:37.638961+00:00",
+      "last_sent": "2026-07-21T16:16:37.638961+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 39.9KB)"
     }
   }
 }

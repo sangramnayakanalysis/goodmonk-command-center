@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-21T15:54:51+00:00",
+  "generated_at": "2026-07-21T16:16:41+00:00",
   "open": [
+    {
+      "time": "2026-07-21T16:16:39+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 39.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-21T16:16:36+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-DQw3Ul5l.js (saves ~0.3s / 1462.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-21T16:16:34+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-21T16:16:32+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 42.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-21T16:16:30+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 20/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 39.8KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-21T10:16:07+00:00",
       "severity": "Critical",
@@ -269,36 +299,6 @@
       "time": "2026-07-19T11:48:58+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.4s / 1448.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-19T11:48:55+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 25/100 — Reduce unused JavaScript — auth-components-B5LMx9xN.js (saves ~0.1s / 1440.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-19T07:49:06+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Load failure (HTTP 429, 0.0s)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-19T07:49:03+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Homepage failed to load (HTTP 429, 0.1s)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-19T07:45:28+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.3s / 39.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-19T07:45:25+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.1KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 536
+  "critical_count": 541
 }
