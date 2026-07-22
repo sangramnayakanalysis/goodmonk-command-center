@@ -44,6 +44,51 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-22T21:02:18.831334+00:00",
+      "last_seen": "2026-07-22T21:02:18.831334+00:00",
+      "last_sent": "2026-07-22T21:02:18.831334+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused JavaScript \u2014 auth-components-9kW_RExI.js (saves ~0.3s / 1442.5KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-22T21:02:20.805611+00:00",
+      "last_seen": "2026-07-22T21:02:20.805611+00:00",
+      "last_sent": "2026-07-22T21:02:20.805611+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused JavaScript \u2014 auth-components-9kW_RExI.js (saves ~0.1s / 1462.8KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-07-22T21:02:22.824828+00:00",
+      "last_seen": "2026-07-22T21:02:22.824828+00:00",
+      "last_sent": "2026-07-22T21:02:22.824828+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 42/100 \u2014 Reduce unused JavaScript \u2014 auth-components-9kW_RExI.js (saves ~0.3s / 1462.5KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-22T21:02:24.560738+00:00",
+      "last_seen": "2026-07-22T21:02:24.560738+00:00",
+      "last_sent": "2026-07-22T21:02:24.560738+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused JavaScript \u2014 auth-components-9kW_RExI.js (saves ~3.5s / 1462.4KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-22T21:02:26.304715+00:00",
+      "last_seen": "2026-07-22T21:02:26.304715+00:00",
+      "last_sent": "2026-07-22T21:02:26.304715+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 40/100 \u2014 Reduce unused JavaScript \u2014 auth-components-9kW_RExI.js (saves 1429.1KB)"
     }
   }
 }
