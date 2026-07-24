@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-24T14:53:54+00:00",
+  "generated_at": "2026-07-24T15:17:34+00:00",
   "open": [
+    {
+      "time": "2026-07-24T15:17:32+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 39.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-24T15:17:30+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves 1097.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-24T15:17:29+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-24T15:17:26+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~0.3s / 1421.8KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-24T12:35:09+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-07-22T16:16:12+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-9kW_RExI.js (saves ~2.7s / 1463.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-22T16:16:10+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 30/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-22T16:16:09+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-22T16:16:07+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 53.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-22T10:16:06+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-9kW_RExI.js (saves ~0.6s / 1431.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 608
+  "critical_count": 612
 }
