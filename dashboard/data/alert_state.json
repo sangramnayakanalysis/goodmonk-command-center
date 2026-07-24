@@ -44,6 +44,42 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-24T10:35:23.515029+00:00",
+      "last_seen": "2026-07-24T10:35:23.515029+00:00",
+      "last_sent": "2026-07-24T10:35:23.515029+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 39.8KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-24T10:35:25.248932+00:00",
+      "last_seen": "2026-07-24T10:35:25.248932+00:00",
+      "last_sent": "2026-07-24T10:35:25.248932+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused JavaScript \u2014 auth-components-d318uELz.js (saves ~0.1s / 1438.0KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-24T10:35:27.545735+00:00",
+      "last_seen": "2026-07-24T10:35:27.545735+00:00",
+      "last_sent": "2026-07-24T10:35:27.545735+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused JavaScript \u2014 auth-components-d318uELz.js (saves ~2.4s / 1451.5KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-24T10:35:29.282677+00:00",
+      "last_seen": "2026-07-24T10:35:29.282677+00:00",
+      "last_sent": "2026-07-24T10:35:29.282677+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 28/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 39.8KB)"
     }
   }
 }
