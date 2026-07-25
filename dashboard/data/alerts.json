@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-25T16:54:52+00:00",
+  "generated_at": "2026-07-25T17:21:35+00:00",
   "open": [
+    {
+      "time": "2026-07-25T17:21:32+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 39.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-25T17:21:30+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~2.1s / 1451.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-25T17:21:28+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~0.6s / 1454.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-25T17:21:26+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~0.1s / 1408.1KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-25T15:22:35+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-07-24T18:54:53+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves 1289.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-24T18:54:51+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-24T18:54:49+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~5.0s / 1443.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-24T18:54:47+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-24T18:54:45+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 53.5KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 667
+  "critical_count": 671
 }
