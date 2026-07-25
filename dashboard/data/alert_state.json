@@ -44,6 +44,60 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-25T14:04:24.739274+00:00",
+      "last_seen": "2026-07-25T14:04:24.739274+00:00",
+      "last_sent": "2026-07-25T14:04:24.739274+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 39/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves ~0.3s / 39.9KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-25T14:04:26.327397+00:00",
+      "last_seen": "2026-07-25T14:04:26.327397+00:00",
+      "last_sent": "2026-07-25T14:04:26.327397+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 53.5KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-25T14:04:27.811386+00:00",
+      "last_seen": "2026-07-25T14:04:27.811386+00:00",
+      "last_sent": "2026-07-25T14:04:27.811386+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 40.2KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-07-25T14:04:29.384919+00:00",
+      "last_seen": "2026-07-25T14:04:29.384919+00:00",
+      "last_sent": "2026-07-25T14:04:29.384919+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CnT-vln2.js (saves ~2.3s / 1429.5KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-25T14:04:30.947379+00:00",
+      "last_seen": "2026-07-25T14:04:30.947379+00:00",
+      "last_sent": "2026-07-25T14:04:30.947379+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused CSS \u2014 assests-kzUsWIwp.css (saves 40.2KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-25T14:04:32.446413+00:00",
+      "last_seen": "2026-07-25T14:04:32.446413+00:00",
+      "last_sent": "2026-07-25T14:04:32.446413+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CnT-vln2.js (saves 1423.9KB)"
     }
   }
 }
