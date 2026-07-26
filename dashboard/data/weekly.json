@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-26T21:59:06+00:00",
+  "generated_at": "2026-07-26T22:17:35+00:00",
   "best_page": {
     "page": "Homepage",
-    "value": 41.51
+    "value": 41.19
   },
   "worst_page": {
     "page": "Checkout",
-    "value": 36.44
+    "value": 36.4
   },
   "fastest_page": {
     "page": "Collection / Shop",
