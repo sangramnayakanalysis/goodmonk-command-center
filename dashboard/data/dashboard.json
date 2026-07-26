@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-07-26T22:17:35+00:00",
+  "generated_at": "2026-07-26T23:03:55+00:00",
   "site": "https://goodmonk.in",
   "summary": {
     "site_status": "DOWN",
     "pages_monitored": 6,
-    "healthy": 1,
+    "healthy": 0,
     "warning": 0,
-    "critical": 5,
-    "avg_load_time": 3.2,
-    "health_score": 17
+    "critical": 6,
+    "avg_load_time": 2.67,
+    "health_score": 0
   },
   "health_table": [
     {
       "page": "Homepage",
       "status": "FAILED",
       "http": 429,
-      "load_time": 0.168,
+      "load_time": 0.129,
       "severity": "Critical",
-      "last_checked": "2026-07-26T21:58:37+00:00"
+      "last_checked": "2026-07-26T23:03:27+00:00"
     },
     {
       "page": "Collection / Shop",
       "status": "FAILED",
       "http": 429,
-      "load_time": 0.052,
+      "load_time": 0.048,
       "severity": "Critical",
-      "last_checked": "2026-07-26T21:58:38+00:00"
+      "last_checked": "2026-07-26T23:03:28+00:00"
     },
     {
       "page": "H50+ PDP",
       "status": "FAILED",
       "http": 429,
-      "load_time": 0.216,
+      "load_time": 0.36,
       "severity": "Critical",
-      "last_checked": "2026-07-26T21:58:40+00:00"
+      "last_checked": "2026-07-26T23:03:29+00:00"
     },
     {
       "page": "Family Nutrition Mix",
       "status": "FAILED",
       "http": 429,
-      "load_time": 0.117,
+      "load_time": 0.059,
       "severity": "Critical",
-      "last_checked": "2026-07-26T21:58:41+00:00"
+      "last_checked": "2026-07-26T23:03:30+00:00"
     },
     {
       "page": "Add to Cart",
       "status": "FAILED",
       "http": 0,
-      "load_time": 16.287,
+      "load_time": 15.377,
       "severity": "Critical",
-      "last_checked": "2026-07-26T21:58:58+00:00"
+      "last_checked": "2026-07-26T23:03:45+00:00"
     },
     {
       "page": "Checkout Init",
-      "status": "PASS",
-      "http": 200,
-      "load_time": 2.341,
-      "severity": "Healthy",
-      "last_checked": "2026-07-26T21:59:02+00:00"
+      "status": "FAILED",
+      "http": 503,
+      "load_time": 0.061,
+      "severity": "Critical",
+      "last_checked": "2026-07-26T23:03:45+00:00"
     }
   ],
   "break_grid": [
@@ -83,7 +83,7 @@
     },
     {
       "label": "Checkout",
-      "status": "PASS"
+      "status": "FAILED"
     }
   ]
 }
