@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-26T12:02:16+00:00",
+  "generated_at": "2026-07-26T12:21:26+00:00",
   "open": [
+    {
+      "time": "2026-07-26T12:21:23+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~0.3s / 1434.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-26T12:21:21+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 27/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves ~0.1s / 40.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-26T12:21:20+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~7.2s / 1452.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-26T12:21:18+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~5.5s / 1451.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-26T12:21:16+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 53.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-26T12:21:14+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 39.8KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-26T10:15:39+00:00",
       "severity": "Critical",
@@ -263,42 +299,6 @@
       "time": "2026-07-25T15:22:31+00:00",
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~0.5s / 1426.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-25T15:22:29+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~0.1s / 1078.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-25T14:04:33+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves 1423.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-25T14:04:31+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-25T14:04:30+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~2.3s / 1429.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-25T14:04:28+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 40.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-25T14:04:27+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-kzUsWIwp.css (saves 53.5KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 707
+  "critical_count": 713
 }
