@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T23:12:33+00:00",
+  "generated_at": "2026-07-26T00:14:37+00:00",
   "best_page": {
     "page": "Homepage",
     "value": 40.81
@@ -10,11 +10,11 @@
   },
   "fastest_page": {
     "page": "Collection / Shop",
-    "value": 0.26
+    "value": 0.23
   },
   "slowest_page": {
     "page": "Add to Cart",
     "value": 16.18
   },
-  "incidents": 234
+  "incidents": 236
 }
