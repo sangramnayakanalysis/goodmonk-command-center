@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:03:55+00:00",
+  "generated_at": "2026-07-27T00:12:25+00:00",
   "open": [
     {
       "time": "2026-07-26T23:03:46+00:00",
@@ -304,6 +304,12 @@
   ],
   "resolved": [
     {
+      "time": "2026-07-27T00:12:21+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-07-26T23:03:53+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves 1433.1KB)",
@@ -595,12 +601,6 @@
       "time": "2026-07-25T17:57:22+00:00",
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~2.1s / 1451.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-07-25T17:57:21+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-CnT-vln2.js (saves ~0.6s / 1454.3KB)",
       "status": "Resolved"
     }
   ],
