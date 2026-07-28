@@ -2,45 +2,45 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-07-27T23:33:43.601507+00:00",
-      "last_sent": "2026-07-27T22:17:40.474422+00:00",
-      "count": 172,
+      "last_seen": "2026-07-28T01:03:09.359119+00:00",
+      "last_sent": "2026-07-28T01:03:09.359119+00:00",
+      "count": 173,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-07-27T23:33:44.059390+00:00",
-      "last_sent": "2026-07-27T22:17:42.133408+00:00",
-      "count": 172,
+      "last_seen": "2026-07-28T01:03:11.146851+00:00",
+      "last_sent": "2026-07-28T01:03:11.146851+00:00",
+      "count": 173,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-07-27T23:34:00.723338+00:00",
-      "last_sent": "2026-07-27T22:18:00.245337+00:00",
-      "count": 172,
+      "last_seen": "2026-07-28T01:03:29.409122+00:00",
+      "last_sent": "2026-07-28T01:03:29.409122+00:00",
+      "count": 173,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "homepage_down": {
       "first_seen": "2026-07-21T09:40:14.276056+00:00",
-      "last_seen": "2026-07-27T23:33:42.162637+00:00",
-      "last_sent": "2026-07-27T22:17:36.877138+00:00",
-      "count": 65,
+      "last_seen": "2026-07-28T01:03:05.973250+00:00",
+      "last_sent": "2026-07-28T01:03:05.973250+00:00",
+      "count": 66,
       "severity": "Critical",
       "page": "Homepage",
       "detail": "Homepage failed to load (HTTP 429, 0.2s)"
     },
     "http_error:collection": {
       "first_seen": "2026-07-21T09:40:16.238341+00:00",
-      "last_seen": "2026-07-27T23:33:43.134252+00:00",
-      "last_sent": "2026-07-27T22:17:38.635894+00:00",
-      "count": 65,
+      "last_seen": "2026-07-28T01:03:07.676008+00:00",
+      "last_sent": "2026-07-28T01:03:07.676008+00:00",
+      "count": 66,
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
