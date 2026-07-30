@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-30T21:31:28+00:00",
+  "generated_at": "2026-07-30T22:25:31+00:00",
   "open": [
+    {
+      "time": "2026-07-30T22:25:28+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-30T22:25:26+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-CjnAYm-P.js (saves 2046.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-30T22:25:24+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-CjnAYm-P.js (saves ~5.6s / 2045.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-30T22:25:21+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 25/100 — Reduce unused JavaScript — auth-components-CjnAYm-P.js (saves 2025.3KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-30T20:38:48+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-07-29T23:18:39+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T23:18:37+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T23:18:35+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 18/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T23:18:34+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 30/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 54.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T23:18:32+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 41.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 934
+  "critical_count": 938
 }
