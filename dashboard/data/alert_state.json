@@ -44,6 +44,51 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-30T18:37:32.495068+00:00",
+      "last_seen": "2026-07-30T18:37:32.495068+00:00",
+      "last_sent": "2026-07-30T18:37:32.495068+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves ~1.9s / 2027.2KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-30T18:37:34.930823+00:00",
+      "last_seen": "2026-07-30T18:37:34.930823+00:00",
+      "last_sent": "2026-07-30T18:37:34.930823+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves ~0.3s / 2045.7KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-30T18:37:36.916278+00:00",
+      "last_seen": "2026-07-30T18:37:36.916278+00:00",
+      "last_sent": "2026-07-30T18:37:36.916278+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves 2044.9KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-30T18:37:39.583276+00:00",
+      "last_seen": "2026-07-30T18:37:39.583276+00:00",
+      "last_sent": "2026-07-30T18:37:39.583276+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves 2047.3KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-30T18:37:41.700547+00:00",
+      "last_seen": "2026-07-30T18:37:41.700547+00:00",
+      "last_sent": "2026-07-30T18:37:41.700547+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves ~0.8s / 2026.0KB)"
     }
   }
 }
