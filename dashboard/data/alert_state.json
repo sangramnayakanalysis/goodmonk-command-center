@@ -44,6 +44,42 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-30T20:38:41.392316+00:00",
+      "last_seen": "2026-07-30T20:38:41.392316+00:00",
+      "last_sent": "2026-07-30T20:38:41.392316+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 26/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves 2027.0KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-30T20:38:43.624903+00:00",
+      "last_seen": "2026-07-30T20:38:43.624903+00:00",
+      "last_sent": "2026-07-30T20:38:43.624903+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused CSS \u2014 assests-Ce3FTysI.css (saves 54.5KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-30T20:38:45.600246+00:00",
+      "last_seen": "2026-07-30T20:38:45.600246+00:00",
+      "last_sent": "2026-07-30T20:38:45.600246+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused CSS \u2014 assests-Ce3FTysI.css (saves 41.3KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-30T20:38:47.809884+00:00",
+      "last_seen": "2026-07-30T20:38:47.809884+00:00",
+      "last_sent": "2026-07-30T20:38:47.809884+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 46/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves 2000.0KB)"
     }
   }
 }

@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-30T20:01:39+00:00",
+  "generated_at": "2026-07-30T20:38:52+00:00",
   "open": [
+    {
+      "time": "2026-07-30T20:38:48+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-CjnAYm-P.js (saves 2000.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-30T20:38:46+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-30T20:38:44+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 54.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-07-30T20:38:42+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 26/100 — Reduce unused JavaScript — auth-components-CjnAYm-P.js (saves 2027.0KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-07-30T18:37:42+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-07-29T23:18:32+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 41.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T21:20:18+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 29/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 41.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T21:20:16+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 17/100 — Reduce unused CSS — assests-COjtX1xG.css (saves 41.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T21:20:15+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-DkR9_UYj.js (saves ~3.7s / 2016.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-07-29T21:20:14+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-DkR9_UYj.js (saves ~0.3s / 2002.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 930
+  "critical_count": 934
 }
