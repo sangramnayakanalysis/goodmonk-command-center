@@ -2,93 +2,48 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-07-30T18:23:15.052719+00:00",
+      "last_seen": "2026-07-30T20:01:11.644567+00:00",
       "last_sent": "2026-07-30T18:23:15.052719+00:00",
-      "count": 207,
+      "count": 208,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-07-30T18:23:16.146728+00:00",
+      "last_seen": "2026-07-30T20:01:12.093917+00:00",
       "last_sent": "2026-07-30T18:23:16.146728+00:00",
-      "count": 207,
+      "count": 208,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-07-30T18:23:33.331639+00:00",
+      "last_seen": "2026-07-30T20:01:29.081497+00:00",
       "last_sent": "2026-07-30T18:23:33.331639+00:00",
-      "count": 207,
+      "count": 208,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "homepage_down": {
       "first_seen": "2026-07-21T09:40:14.276056+00:00",
-      "last_seen": "2026-07-30T18:23:12.484538+00:00",
+      "last_seen": "2026-07-30T20:01:10.189793+00:00",
       "last_sent": "2026-07-30T18:23:12.484538+00:00",
-      "count": 100,
+      "count": 101,
       "severity": "Critical",
       "page": "Homepage",
       "detail": "Homepage failed to load (HTTP 429, 0.2s)"
     },
     "http_error:collection": {
       "first_seen": "2026-07-21T09:40:16.238341+00:00",
-      "last_seen": "2026-07-30T18:23:13.725381+00:00",
+      "last_seen": "2026-07-30T20:01:11.111931+00:00",
       "last_sent": "2026-07-30T18:23:13.725381+00:00",
-      "count": 100,
+      "count": 101,
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-07-30T18:37:32.495068+00:00",
-      "last_seen": "2026-07-30T18:37:32.495068+00:00",
-      "last_sent": "2026-07-30T18:37:32.495068+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves ~1.9s / 2027.2KB)"
-    },
-    "perf_critical:collection": {
-      "first_seen": "2026-07-30T18:37:34.930823+00:00",
-      "last_seen": "2026-07-30T18:37:34.930823+00:00",
-      "last_sent": "2026-07-30T18:37:34.930823+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves ~0.3s / 2045.7KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-07-30T18:37:36.916278+00:00",
-      "last_seen": "2026-07-30T18:37:36.916278+00:00",
-      "last_sent": "2026-07-30T18:37:36.916278+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves 2044.9KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-07-30T18:37:39.583276+00:00",
-      "last_seen": "2026-07-30T18:37:39.583276+00:00",
-      "last_sent": "2026-07-30T18:37:39.583276+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves 2047.3KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-07-30T18:37:41.700547+00:00",
-      "last_seen": "2026-07-30T18:37:41.700547+00:00",
-      "last_sent": "2026-07-30T18:37:41.700547+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CjnAYm-P.js (saves ~0.8s / 2026.0KB)"
     }
   }
 }
