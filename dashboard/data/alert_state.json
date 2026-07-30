@@ -44,6 +44,60 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-30T06:44:47.722606+00:00",
+      "last_seen": "2026-07-30T06:44:47.722606+00:00",
+      "last_sent": "2026-07-30T06:44:47.722606+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 27/100 \u2014 Reduce unused CSS \u2014 assests-COjtX1xG.css (saves ~0.3s / 40.9KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-30T06:44:49.991882+00:00",
+      "last_seen": "2026-07-30T06:44:49.991882+00:00",
+      "last_sent": "2026-07-30T06:44:49.991882+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused JavaScript \u2014 auth-components-DkR9_UYj.js (saves 2033.1KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-30T06:44:52.254364+00:00",
+      "last_seen": "2026-07-30T06:44:52.254364+00:00",
+      "last_sent": "2026-07-30T06:44:52.254364+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused JavaScript \u2014 auth-components-DkR9_UYj.js (saves ~0.1s / 2018.3KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-07-30T06:44:54.637116+00:00",
+      "last_seen": "2026-07-30T06:44:54.637116+00:00",
+      "last_sent": "2026-07-30T06:44:54.637116+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused CSS \u2014 assests-COjtX1xG.css (saves 41.3KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-30T06:44:56.735863+00:00",
+      "last_seen": "2026-07-30T06:44:56.735863+00:00",
+      "last_sent": "2026-07-30T06:44:56.735863+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused JavaScript \u2014 auth-components-DkR9_UYj.js (saves ~0.3s / 2042.7KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-30T06:44:58.912234+00:00",
+      "last_seen": "2026-07-30T06:44:58.912234+00:00",
+      "last_sent": "2026-07-30T06:44:58.912234+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused JavaScript \u2014 auth-components-DkR9_UYj.js (saves ~0.2s / 2025.0KB)"
     }
   }
 }
