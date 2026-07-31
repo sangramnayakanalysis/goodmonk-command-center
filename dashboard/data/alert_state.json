@@ -44,6 +44,51 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-07-31T14:37:01.047021+00:00",
+      "last_seen": "2026-07-31T14:37:01.047021+00:00",
+      "last_sent": "2026-07-31T14:37:01.047021+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CskzgRiq.js (saves ~0.1s / 2006.1KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-07-31T14:37:02.575917+00:00",
+      "last_seen": "2026-07-31T14:37:02.575917+00:00",
+      "last_sent": "2026-07-31T14:37:02.575917+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CskzgRiq.js (saves ~0.2s / 2033.1KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-07-31T14:37:04.016619+00:00",
+      "last_seen": "2026-07-31T14:37:04.016619+00:00",
+      "last_sent": "2026-07-31T14:37:04.016619+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 42/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CskzgRiq.js (saves 2033.4KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-07-31T14:37:05.678956+00:00",
+      "last_seen": "2026-07-31T14:37:05.678956+00:00",
+      "last_sent": "2026-07-31T14:37:05.678956+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 49/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CskzgRiq.js (saves ~12.0s / 2045.1KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-07-31T14:37:07.029956+00:00",
+      "last_seen": "2026-07-31T14:37:07.029956+00:00",
+      "last_sent": "2026-07-31T14:37:07.029956+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CskzgRiq.js (saves ~0.8s / 1999.4KB)"
     }
   }
 }
