@@ -44,6 +44,51 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-08-02T09:24:16.677519+00:00",
+      "last_seen": "2026-08-02T09:24:16.677519+00:00",
+      "last_sent": "2026-08-02T09:24:16.677519+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Cir4Em8B.js (saves ~0.1s / 2026.6KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-08-02T09:24:20.943901+00:00",
+      "last_seen": "2026-08-02T09:24:20.943901+00:00",
+      "last_sent": "2026-08-02T09:24:20.943901+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 30/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Cir4Em8B.js (saves ~2.5s / 2046.6KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-08-02T09:24:22.941193+00:00",
+      "last_seen": "2026-08-02T09:24:22.941193+00:00",
+      "last_sent": "2026-08-02T09:24:22.941193+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused CSS \u2014 assests-Ce3FTysI.css (saves 41.2KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-08-02T09:24:25.203992+00:00",
+      "last_seen": "2026-08-02T09:24:25.203992+00:00",
+      "last_sent": "2026-08-02T09:24:25.203992+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 50/100 \u2014 Reduce unused CSS \u2014 assests-Ce3FTysI.css (saves 41.3KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-02T09:24:27.173523+00:00",
+      "last_seen": "2026-08-02T09:24:27.173523+00:00",
+      "last_sent": "2026-08-02T09:24:27.173523+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 50/100 \u2014 Reduce unused CSS \u2014 assests-Ce3FTysI.css (saves 40.9KB)"
     }
   }
 }
