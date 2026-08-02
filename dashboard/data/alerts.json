@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-02T20:53:21+00:00",
+  "generated_at": "2026-08-02T21:18:04+00:00",
   "open": [
+    {
+      "time": "2026-08-02T21:18:02+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-02T21:18:00+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~1.8s / 2021.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-02T21:17:58+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-02T21:17:56+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 20/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.1s / 1999.3KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-02T19:31:47+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-08-01T22:13:42+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves 2047.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T22:13:41+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 23/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T22:13:40+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~2.2s / 2046.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T22:13:38+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 30/100 — Reduce unused CSS — index-DwTUXg_1.css (saves 114.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T22:13:37+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.1s / 1669.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 1084
+  "critical_count": 1088
 }
