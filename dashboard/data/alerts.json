@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-02T12:17:26+00:00",
+  "generated_at": "2026-08-02T13:57:30+00:00",
   "open": [
+    {
+      "time": "2026-08-02T13:57:28+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves 2026.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-02T13:57:26+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~3.3s / 2047.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-02T13:57:24+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-02T13:57:23+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~4.6s / 2036.7KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-02T11:33:22+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-08-01T16:18:12+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T14:50:52+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T14:50:51+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~11.5s / 2046.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T14:50:49+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves 2046.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-01T14:50:48+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.1s / 2036.3KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 1063
+  "critical_count": 1067
 }
