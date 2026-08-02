@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-02T05:44:02+00:00",
+  "generated_at": "2026-08-02T06:49:15+00:00",
   "best_page": {
     "page": "H50+ PDP",
-    "value": 39.94
+    "value": 40.2
   },
   "worst_page": {
     "page": "Checkout",
-    "value": 37.51
+    "value": 37.74
   },
   "fastest_page": {
     "page": "Collection / Shop",
@@ -16,5 +16,5 @@
     "page": "Add to Cart",
     "value": 16.21
   },
-  "incidents": 466
+  "incidents": 461
 }
