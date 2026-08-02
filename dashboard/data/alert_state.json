@@ -2,45 +2,45 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-02T17:33:55.949437+00:00",
+      "last_seen": "2026-08-02T18:41:32.408438+00:00",
       "last_sent": "2026-08-02T17:33:55.949437+00:00",
-      "count": 249,
+      "count": 250,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-08-02T17:33:57.198826+00:00",
+      "last_seen": "2026-08-02T18:41:34.022035+00:00",
       "last_sent": "2026-08-02T17:33:57.198826+00:00",
-      "count": 249,
+      "count": 250,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-02T17:34:14.348992+00:00",
+      "last_seen": "2026-08-02T18:41:50.663472+00:00",
       "last_sent": "2026-08-02T17:34:14.348992+00:00",
-      "count": 249,
+      "count": 250,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "homepage_down": {
       "first_seen": "2026-07-21T09:40:14.276056+00:00",
-      "last_seen": "2026-08-02T17:33:53.515385+00:00",
+      "last_seen": "2026-08-02T18:41:30.943008+00:00",
       "last_sent": "2026-08-02T17:33:53.515385+00:00",
-      "count": 142,
+      "count": 143,
       "severity": "Critical",
       "page": "Homepage",
       "detail": "Homepage failed to load (HTTP 429, 0.2s)"
     },
     "http_error:collection": {
       "first_seen": "2026-07-21T09:40:16.238341+00:00",
-      "last_seen": "2026-08-02T17:33:54.569478+00:00",
+      "last_seen": "2026-08-02T18:41:32.038345+00:00",
       "last_sent": "2026-08-02T17:33:54.569478+00:00",
-      "count": 142,
+      "count": 143,
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
