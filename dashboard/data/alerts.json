@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:18:04+00:00",
+  "generated_at": "2026-08-02T21:54:11+00:00",
   "open": [
     {
       "time": "2026-08-02T21:18:02+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-08-02T21:54:08+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-02T21:54:07+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~1.8s / 2021.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-02T21:54:06+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-02T21:54:04+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 20/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.1s / 1999.3KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-08-02T19:54:47+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.6s / 2004.6KB)",
@@ -577,30 +601,6 @@
       "time": "2026-08-01T20:50:02+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 26/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves ~0.3s / 41.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-01T20:50:01+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-01T20:49:59+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~4.3s / 2025.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-01T20:49:53+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.6s / 3944.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-01T20:49:52+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves 1775.6KB)",
       "status": "Resolved"
     }
   ],
