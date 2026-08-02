@@ -2,45 +2,45 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-01T23:55:29.237292+00:00",
-      "last_sent": "2026-08-01T22:53:17.279683+00:00",
-      "count": 239,
+      "last_seen": "2026-08-02T02:33:43.354450+00:00",
+      "last_sent": "2026-08-02T02:33:43.354450+00:00",
+      "count": 240,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-08-01T23:55:31.354380+00:00",
-      "last_sent": "2026-08-01T22:53:19.800301+00:00",
-      "count": 239,
+      "last_seen": "2026-08-02T02:33:45.015599+00:00",
+      "last_sent": "2026-08-02T02:33:45.015599+00:00",
+      "count": 240,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-01T23:55:48.536128+00:00",
-      "last_sent": "2026-08-01T22:53:37.505729+00:00",
-      "count": 239,
+      "last_seen": "2026-08-02T02:34:02.049585+00:00",
+      "last_sent": "2026-08-02T02:34:02.049585+00:00",
+      "count": 240,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "homepage_down": {
       "first_seen": "2026-07-21T09:40:14.276056+00:00",
-      "last_seen": "2026-08-01T23:55:27.686714+00:00",
-      "last_sent": "2026-08-01T22:53:13.958111+00:00",
-      "count": 132,
+      "last_seen": "2026-08-02T02:33:40.956136+00:00",
+      "last_sent": "2026-08-02T02:33:40.956136+00:00",
+      "count": 133,
       "severity": "Critical",
       "page": "Homepage",
       "detail": "Homepage failed to load (HTTP 429, 0.2s)"
     },
     "http_error:collection": {
       "first_seen": "2026-07-21T09:40:16.238341+00:00",
-      "last_seen": "2026-08-01T23:55:28.792026+00:00",
-      "last_sent": "2026-08-01T22:53:15.457362+00:00",
-      "count": 132,
+      "last_seen": "2026-08-02T02:33:42.038643+00:00",
+      "last_sent": "2026-08-02T02:33:42.038643+00:00",
+      "count": 133,
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.0s)"
