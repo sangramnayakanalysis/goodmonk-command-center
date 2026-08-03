@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-03T02:53:51+00:00",
+  "generated_at": "2026-08-03T04:46:32+00:00",
   "open": [
+    {
+      "time": "2026-08-03T04:46:29+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.1s / 1779.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T04:46:28+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.3s / 2048.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T04:46:26+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~6.3s / 2010.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T04:46:25+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~9.5s / 2045.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T04:46:23+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-03T00:17:55+00:00",
       "severity": "Critical",
@@ -269,36 +299,6 @@
       "time": "2026-08-02T09:24:17+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.1s / 2026.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T06:49:12+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 27/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T06:49:10+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T06:49:08+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~9.6s / 2025.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T06:49:05+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~1.9s / 2025.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T03:54:14+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 1099
+  "critical_count": 1104
 }
