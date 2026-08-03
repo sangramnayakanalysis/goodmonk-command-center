@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-03T06:23:24+00:00",
+  "generated_at": "2026-08-03T08:46:08+00:00",
   "open": [
+    {
+      "time": "2026-08-03T08:46:05+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves 2026.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T08:46:03+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.5s / 2044.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T08:46:01+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.5s / 2014.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T08:46:00+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 54.6KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-03T06:23:15+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-08-02T11:33:17+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T09:24:28+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T09:24:26+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T09:24:24+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 45/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T09:24:22+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~2.5s / 2046.6KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 1105
+  "critical_count": 1109
 }
