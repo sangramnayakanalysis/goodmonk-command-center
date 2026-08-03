@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-03T19:57:02+00:00",
+  "generated_at": "2026-08-03T21:03:29+00:00",
   "open": [
+    {
+      "time": "2026-08-03T20:02:41+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-F9Zcg2-T.js (saves 1981.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T20:02:39+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-F9Zcg2-T.js (saves 2050.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T20:02:38+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves ~0.1s / 41.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T20:02:36+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-F9Zcg2-T.js (saves 2013.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T20:02:34+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-F9Zcg2-T.js (saves ~0.6s / 3762.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-03T20:02:32+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-F9Zcg2-T.js (saves ~4.6s / 2004.6KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-03T18:08:50+00:00",
       "severity": "Critical",
@@ -264,45 +300,15 @@
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~5.0s / 2048.2KB)",
       "status": "Open"
-    },
-    {
-      "time": "2026-08-02T19:31:44+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T19:31:42+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — index-DwTUXg_1.css (saves 101.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T19:31:40+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~0.8s / 2010.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T19:31:38+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 40.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T17:18:21+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves 2027.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-02T17:18:19+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.2KB)",
-      "status": "Open"
     }
   ],
   "resolved": [
+    {
+      "time": "2026-08-03T21:03:26+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Load failure (HTTP 429, 0.0s)",
+      "status": "Resolved"
+    },
     {
       "time": "2026-08-03T16:01:49+00:00",
       "severity": "Resolved",
@@ -596,13 +602,7 @@
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-Cir4Em8B.js (saves ~3.3s / 2047.8KB)",
       "status": "Resolved"
-    },
-    {
-      "time": "2026-08-02T14:08:14+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
-      "status": "Resolved"
     }
   ],
-  "critical_count": 1126
+  "critical_count": 1132
 }
