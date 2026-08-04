@@ -2,45 +2,45 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-04T21:37:08.038869+00:00",
+      "last_seen": "2026-08-04T22:44:32.154577+00:00",
       "last_sent": "2026-08-04T21:37:08.038869+00:00",
-      "count": 275,
+      "count": 276,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-08-04T21:37:09.279803+00:00",
+      "last_seen": "2026-08-04T22:44:32.547365+00:00",
       "last_sent": "2026-08-04T21:37:09.279803+00:00",
-      "count": 275,
+      "count": 276,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-04T21:37:26.898091+00:00",
+      "last_seen": "2026-08-04T22:44:49.307504+00:00",
       "last_sent": "2026-08-04T21:37:26.898091+00:00",
-      "count": 275,
+      "count": 276,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "homepage_down": {
       "first_seen": "2026-07-21T09:40:14.276056+00:00",
-      "last_seen": "2026-08-04T21:37:06.456502+00:00",
+      "last_seen": "2026-08-04T22:44:29.806945+00:00",
       "last_sent": "2026-08-04T21:37:06.456502+00:00",
-      "count": 168,
+      "count": 169,
       "severity": "Critical",
       "page": "Homepage",
       "detail": "Homepage failed to load (HTTP 429, 0.2s)"
     },
     "http_error:collection": {
       "first_seen": "2026-08-04T20:12:44.206749+00:00",
-      "last_seen": "2026-08-04T21:37:07.565110+00:00",
-      "last_sent": "2026-08-04T20:12:44.206749+00:00",
-      "count": 2,
+      "last_seen": "2026-08-04T22:44:30.812713+00:00",
+      "last_sent": "2026-08-04T22:44:30.812713+00:00",
+      "count": 3,
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.1s)"
