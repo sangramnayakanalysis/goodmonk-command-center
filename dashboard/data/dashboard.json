@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:35:58+00:00",
+  "generated_at": "2026-08-04T01:06:36+00:00",
   "site": "https://goodmonk.in",
   "summary": {
     "site_status": "DOWN",
@@ -7,7 +7,7 @@
     "healthy": 1,
     "warning": 0,
     "critical": 5,
-    "avg_load_time": 3.17,
+    "avg_load_time": 3.44,
     "health_score": 17
   },
   "health_table": [
@@ -15,49 +15,49 @@
       "page": "Homepage",
       "status": "FAILED",
       "http": 429,
-      "load_time": 0.116,
+      "load_time": 0.131,
       "severity": "Critical",
-      "last_checked": "2026-08-03T23:35:23+00:00"
+      "last_checked": "2026-08-04T01:06:09+00:00"
     },
     {
       "page": "Collection / Shop",
       "status": "FAILED",
       "http": 429,
-      "load_time": 0.046,
+      "load_time": 0.21,
       "severity": "Critical",
-      "last_checked": "2026-08-03T23:35:24+00:00"
+      "last_checked": "2026-08-04T01:06:09+00:00"
     },
     {
       "page": "H50+ PDP",
       "status": "FAILED",
       "http": 429,
-      "load_time": 0.239,
+      "load_time": 0.165,
       "severity": "Critical",
-      "last_checked": "2026-08-03T23:35:25+00:00"
+      "last_checked": "2026-08-04T01:06:12+00:00"
     },
     {
       "page": "Family Nutrition Mix",
       "status": "FAILED",
-      "http": 429,
-      "load_time": 0.116,
+      "http": 404,
+      "load_time": 1.377,
       "severity": "Critical",
-      "last_checked": "2026-08-03T23:35:26+00:00"
+      "last_checked": "2026-08-04T01:06:14+00:00"
     },
     {
       "page": "Add to Cart",
       "status": "FAILED",
       "http": 0,
-      "load_time": 16.138,
+      "load_time": 16.163,
       "severity": "Critical",
-      "last_checked": "2026-08-03T23:35:44+00:00"
+      "last_checked": "2026-08-04T01:06:30+00:00"
     },
     {
       "page": "Checkout Init",
       "status": "PASS",
       "http": 200,
-      "load_time": 2.336,
+      "load_time": 2.6,
       "severity": "Healthy",
-      "last_checked": "2026-08-03T23:35:48+00:00"
+      "last_checked": "2026-08-04T01:06:33+00:00"
     }
   ],
   "break_grid": [
