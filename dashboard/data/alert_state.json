@@ -44,6 +44,51 @@
       "severity": "Critical",
       "page": "Collection / Shop",
       "detail": "Load failure (HTTP 429, 0.1s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-08-04T18:09:05.281376+00:00",
+      "last_seen": "2026-08-04T18:09:05.281376+00:00",
+      "last_sent": "2026-08-04T18:09:05.281376+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 29/100 \u2014 Reduce unused CSS \u2014 assests-Ce3FTysI.css (saves 41.0KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-08-04T18:09:06.990886+00:00",
+      "last_seen": "2026-08-04T18:09:06.990886+00:00",
+      "last_sent": "2026-08-04T18:09:06.990886+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 37/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BPJ1k4Ft.js (saves ~0.3s / 1486.6KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-08-04T18:09:08.766622+00:00",
+      "last_seen": "2026-08-04T18:09:08.766622+00:00",
+      "last_sent": "2026-08-04T18:09:08.766622+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused JavaScript \u2014 auth-components-DVHOs872.js (saves ~2.1s / 2043.8KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-08-04T18:09:10.725995+00:00",
+      "last_seen": "2026-08-04T18:09:10.725995+00:00",
+      "last_sent": "2026-08-04T18:09:10.725995+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.4KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-04T18:09:12.298649+00:00",
+      "last_seen": "2026-08-04T18:09:12.298649+00:00",
+      "last_sent": "2026-08-04T18:09:12.298649+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 30/100 \u2014 Reduce unused JavaScript \u2014 auth-components-DVHOs872.js (saves ~0.2s / 1661.7KB)"
     }
   }
 }
