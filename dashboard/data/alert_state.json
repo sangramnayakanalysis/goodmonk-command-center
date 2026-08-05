@@ -35,6 +35,51 @@
       "severity": "Critical",
       "page": "Homepage",
       "detail": "Homepage failed to load (HTTP 429, 0.2s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-08-05T03:32:27.094871+00:00",
+      "last_seen": "2026-08-05T03:32:27.094871+00:00",
+      "last_sent": "2026-08-05T03:32:27.094871+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.0KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-08-05T03:32:28.781339+00:00",
+      "last_seen": "2026-08-05T03:32:28.781339+00:00",
+      "last_sent": "2026-08-05T03:32:28.781339+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Ce54g8nB.js (saves ~0.1s / 2057.2KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-08-05T03:32:30.083450+00:00",
+      "last_seen": "2026-08-05T03:32:30.083450+00:00",
+      "last_sent": "2026-08-05T03:32:30.083450+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Ce54g8nB.js (saves ~3.2s / 2069.9KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-08-05T03:32:31.495028+00:00",
+      "last_seen": "2026-08-05T03:32:31.495028+00:00",
+      "last_sent": "2026-08-05T03:32:31.495028+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Ce54g8nB.js (saves ~1.5s / 2069.8KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-05T03:32:33.068037+00:00",
+      "last_seen": "2026-08-05T03:32:33.068037+00:00",
+      "last_sent": "2026-08-05T03:32:33.068037+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Ce54g8nB.js (saves ~0.6s / 2049.4KB)"
     }
   }
 }
