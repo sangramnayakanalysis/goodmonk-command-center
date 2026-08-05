@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:45:41+00:00",
+  "generated_at": "2026-08-05T01:09:35+00:00",
   "open": [
     {
       "time": "2026-08-04T23:23:00+00:00",
@@ -304,6 +304,12 @@
   ],
   "resolved": [
     {
+      "time": "2026-08-05T01:09:32+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Load failure (HTTP 429, 0.1s)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-08-04T23:45:39+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 26/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.0KB)",
@@ -595,12 +601,6 @@
       "time": "2026-08-03T22:17:59+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-F9Zcg2-T.js (saves 2025.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-03T22:17:57+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-Ce3FTysI.css (saves 41.3KB)",
       "status": "Resolved"
     }
   ],
