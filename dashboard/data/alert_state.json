@@ -26,6 +26,42 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-08-09T17:47:57.106939+00:00",
+      "last_seen": "2026-08-09T17:47:57.106939+00:00",
+      "last_sent": "2026-08-09T17:47:57.106939+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.0KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-08-09T17:47:58.792302+00:00",
+      "last_seen": "2026-08-09T17:47:58.792302+00:00",
+      "last_sent": "2026-08-09T17:47:58.792302+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 46/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CUKwrTUq.js (saves ~0.2s / 2073.5KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-08-09T17:48:00.378885+00:00",
+      "last_seen": "2026-08-09T17:48:00.378885+00:00",
+      "last_sent": "2026-08-09T17:48:00.378885+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.3KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-09T17:48:02.421954+00:00",
+      "last_seen": "2026-08-09T17:48:02.421954+00:00",
+      "last_sent": "2026-08-09T17:48:02.421954+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.0KB)"
     }
   }
 }
