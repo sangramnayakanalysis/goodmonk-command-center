@@ -26,6 +26,51 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-08-09T13:17:40.725903+00:00",
+      "last_seen": "2026-08-09T13:17:40.725903+00:00",
+      "last_sent": "2026-08-09T13:17:40.725903+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves ~0.3s / 41.0KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-08-09T13:17:42.265503+00:00",
+      "last_seen": "2026-08-09T13:17:42.265503+00:00",
+      "last_sent": "2026-08-09T13:17:42.265503+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CUKwrTUq.js (saves ~0.3s / 2059.2KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-08-09T13:17:44.107286+00:00",
+      "last_seen": "2026-08-09T13:17:44.107286+00:00",
+      "last_sent": "2026-08-09T13:17:44.107286+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 40/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.3KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-08-09T13:17:46.062632+00:00",
+      "last_seen": "2026-08-09T13:17:46.062632+00:00",
+      "last_sent": "2026-08-09T13:17:46.062632+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 28/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CUKwrTUq.js (saves ~2.5s / 2035.0KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-09T13:17:47.692319+00:00",
+      "last_seen": "2026-08-09T13:17:47.692319+00:00",
+      "last_sent": "2026-08-09T13:17:47.692319+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.0KB)"
     }
   }
 }
