@@ -26,6 +26,51 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-08-09T10:53:14.476530+00:00",
+      "last_seen": "2026-08-09T10:53:14.476530+00:00",
+      "last_sent": "2026-08-09T10:53:14.476530+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 42/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.0KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-08-09T10:53:15.744715+00:00",
+      "last_seen": "2026-08-09T10:53:15.744715+00:00",
+      "last_sent": "2026-08-09T10:53:15.744715+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 30/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CUKwrTUq.js (saves ~0.9s / 2046.9KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-08-09T10:53:17.073873+00:00",
+      "last_seen": "2026-08-09T10:53:17.073873+00:00",
+      "last_sent": "2026-08-09T10:53:17.073873+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 179.2KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-08-09T10:53:18.610272+00:00",
+      "last_seen": "2026-08-09T10:53:18.610272+00:00",
+      "last_sent": "2026-08-09T10:53:18.610272+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CUKwrTUq.js (saves ~3.1s / 2071.2KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-09T10:53:19.910680+00:00",
+      "last_seen": "2026-08-09T10:53:19.910680+00:00",
+      "last_sent": "2026-08-09T10:53:19.910680+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 37/100 \u2014 Reduce unused CSS \u2014 assests-D2SidXX7.css (saves 41.0KB)"
     }
   }
 }
