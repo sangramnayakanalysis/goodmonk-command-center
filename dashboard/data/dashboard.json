@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T14:52:40+00:00",
+  "generated_at": "2026-08-09T15:28:56+00:00",
   "site": "https://goodmonk.in",
   "summary": {
     "site_status": "DEGRADED",
@@ -7,7 +7,7 @@
     "healthy": 3,
     "warning": 0,
     "critical": 3,
-    "avg_load_time": 3.74,
+    "avg_load_time": 3.94,
     "health_score": 50
   },
   "health_table": [
@@ -15,49 +15,49 @@
       "page": "Homepage",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.503,
+      "load_time": 2.28,
       "severity": "Healthy",
-      "last_checked": "2026-08-09T14:52:12+00:00"
+      "last_checked": "2026-08-09T15:28:29+00:00"
     },
     {
       "page": "Collection / Shop",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.058,
+      "load_time": 1.267,
       "severity": "Healthy",
-      "last_checked": "2026-08-09T14:52:14+00:00"
+      "last_checked": "2026-08-09T15:28:31+00:00"
     },
     {
       "page": "H50+ PDP",
       "status": "FAILED",
       "http": 404,
-      "load_time": 1.151,
+      "load_time": 0.932,
       "severity": "Critical",
-      "last_checked": "2026-08-09T14:52:15+00:00"
+      "last_checked": "2026-08-09T15:28:32+00:00"
     },
     {
       "page": "Family Nutrition Mix",
       "status": "FAILED",
       "http": 404,
-      "load_time": 0.656,
+      "load_time": 1.221,
       "severity": "Critical",
-      "last_checked": "2026-08-09T14:52:17+00:00"
+      "last_checked": "2026-08-09T15:28:34+00:00"
     },
     {
       "page": "Add to Cart",
       "status": "FAILED",
       "http": 0,
-      "load_time": 15.998,
+      "load_time": 15.881,
       "severity": "Critical",
-      "last_checked": "2026-08-09T14:52:34+00:00"
+      "last_checked": "2026-08-09T15:28:50+00:00"
     },
     {
       "page": "Checkout Init",
       "status": "PASS",
       "http": 200,
-      "load_time": 2.079,
+      "load_time": 2.078,
       "severity": "Healthy",
-      "last_checked": "2026-08-09T14:52:38+00:00"
+      "last_checked": "2026-08-09T15:28:52+00:00"
     }
   ],
   "break_grid": [
