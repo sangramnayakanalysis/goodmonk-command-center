@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:20:00+00:00",
+  "generated_at": "2026-08-12T13:45:47+00:00",
   "benchmarks": {
     "lcp_ms": 2500,
     "cls": 0.1,
@@ -10,35 +10,39 @@
     {
       "page": "homepage",
       "name": "Homepage",
-      "mobile_score": 0,
-      "desktop_score": 0,
-      "lcp_ms": 0,
-      "cls": 0,
-      "inp_ms": 0,
-      "ttfb_ms": 0,
-      "total_kb": 0,
-      "image_kb": 0,
-      "image_ratio": 0,
-      "top_issues": [],
-      "weight_flag": false,
+      "mobile_score": 16,
+      "desktop_score": 72,
+      "lcp_ms": 13135,
+      "cls": 0.233,
+      "inp_ms": 4378,
+      "ttfb_ms": 32,
+      "total_kb": 7657.8,
+      "image_kb": 2158.0,
+      "image_ratio": 0.28,
+      "top_issues": [
+        "Reduce unused JavaScript — auth-components-BwdQjtPZ.js (saves ~0.3s / 1905.6KB)",
+        "Reduce unused CSS — assests-D2SidXX7.css (saves ~0.1s / 41.0KB)",
+        "Avoid enormous network payloads — auth-components-BwdQjtPZ.js"
+      ],
+      "weight_flag": true,
       "image_flag": false
     },
     {
       "page": "collection",
       "name": "Collection / Shop",
-      "mobile_score": 35,
-      "desktop_score": 54,
-      "lcp_ms": 7702,
-      "cls": 0.009,
-      "inp_ms": 1852,
+      "mobile_score": 47,
+      "desktop_score": 64,
+      "lcp_ms": 8222,
+      "cls": 0.0,
+      "inp_ms": 585,
       "ttfb_ms": 16,
-      "total_kb": 6587.4,
-      "image_kb": 442.5,
+      "total_kb": 6393.1,
+      "image_kb": 441.3,
       "image_ratio": 0.07,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-RsO62Dvo.js (saves ~0.3s / 2056.7KB)",
-        "Reduce unused CSS — assests-D2SidXX7.css (saves ~0.0s / 54.6KB)",
-        "Avoid enormous network payloads — auth-components-RsO62Dvo.js"
+        "Reduce unused JavaScript — auth-components-BwdQjtPZ.js (saves ~0.5s / 2070.8KB)",
+        "Reduce unused CSS — assests-D2SidXX7.css (saves ~0.3s / 54.6KB)",
+        "Avoid enormous network payloads — auth-components-BwdQjtPZ.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -46,19 +50,19 @@
     {
       "page": "h50",
       "name": "H50+ PDP",
-      "mobile_score": 17,
-      "desktop_score": 62,
-      "lcp_ms": 6469,
-      "cls": 0.363,
-      "inp_ms": 1856,
-      "ttfb_ms": 16,
-      "total_kb": 6356.0,
-      "image_kb": 270.2,
-      "image_ratio": 0.04,
+      "mobile_score": 29,
+      "desktop_score": 57,
+      "lcp_ms": 16817,
+      "cls": 0.0,
+      "inp_ms": 1635,
+      "ttfb_ms": 15,
+      "total_kb": 5968.6,
+      "image_kb": 270.8,
+      "image_ratio": 0.05,
       "top_issues": [
-        "Reduce unused CSS — assests-D2SidXX7.css (saves 41.2KB)",
-        "Reduce unused JavaScript — auth-components-RsO62Dvo.js (saves ~0.3s / 2033.7KB)",
-        "Avoid enormous network payloads — auth-components-RsO62Dvo.js"
+        "Reduce unused CSS — assests-D2SidXX7.css (saves 41.3KB)",
+        "Reduce unused JavaScript — auth-components-BwdQjtPZ.js (saves ~1.7s / 2033.9KB)",
+        "Avoid enormous network payloads — auth-components-BwdQjtPZ.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -66,19 +70,19 @@
     {
       "page": "fnm",
       "name": "Family Nutrition Mix",
-      "mobile_score": 28,
-      "desktop_score": 57,
-      "lcp_ms": 15957,
+      "mobile_score": 43,
+      "desktop_score": 62,
+      "lcp_ms": 6133,
       "cls": 0.0,
-      "inp_ms": 2448,
-      "ttfb_ms": 14,
-      "total_kb": 6116.0,
-      "image_kb": 270.9,
+      "inp_ms": 842,
+      "ttfb_ms": 12,
+      "total_kb": 6305.0,
+      "image_kb": 271.3,
       "image_ratio": 0.04,
       "top_issues": [
         "Reduce unused CSS — assests-D2SidXX7.css (saves 41.3KB)",
-        "Reduce unused JavaScript — auth-components-RsO62Dvo.js (saves ~2.4s / 2070.3KB)",
-        "Avoid enormous network payloads — auth-components-RsO62Dvo.js"
+        "Reduce unused JavaScript — auth-components-BwdQjtPZ.js (saves ~0.0s / 2069.0KB)",
+        "Avoid enormous network payloads — auth-components-BwdQjtPZ.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -86,19 +90,19 @@
     {
       "page": "protein",
       "name": "Protein PDP",
-      "mobile_score": 52,
-      "desktop_score": 66,
-      "lcp_ms": 5380,
+      "mobile_score": 34,
+      "desktop_score": 62,
+      "lcp_ms": 20472,
       "cls": 0.0,
-      "inp_ms": 571,
+      "inp_ms": 1023,
       "ttfb_ms": 14,
-      "total_kb": 6389.1,
-      "image_kb": 270.2,
-      "image_ratio": 0.04,
+      "total_kb": 5913.3,
+      "image_kb": 270.8,
+      "image_ratio": 0.05,
       "top_issues": [
-        "Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
-        "Reduce unused JavaScript — auth-components-RsO62Dvo.js (saves ~0.1s / 2070.2KB)",
-        "Avoid enormous network payloads — auth-components-RsO62Dvo.js"
+        "Reduce unused CSS — assests-D2SidXX7.css (saves 179.2KB)",
+        "Reduce unused JavaScript — auth-components-BwdQjtPZ.js (saves ~3.2s / 2069.8KB)",
+        "Avoid enormous network payloads — auth-components-BwdQjtPZ.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -106,19 +110,19 @@
     {
       "page": "checkout",
       "name": "Checkout",
-      "mobile_score": 40,
-      "desktop_score": 33,
-      "lcp_ms": 22281,
+      "mobile_score": 39,
+      "desktop_score": 35,
+      "lcp_ms": 20820,
       "cls": 0.0,
-      "inp_ms": 596,
-      "ttfb_ms": 15,
-      "total_kb": 9551.9,
-      "image_kb": 2204.2,
+      "inp_ms": 666,
+      "ttfb_ms": 21,
+      "total_kb": 9401.5,
+      "image_kb": 2190.0,
       "image_ratio": 0.23,
       "top_issues": [
-        "Reduce unused CSS — assests-D2SidXX7.css (saves 41.0KB)",
-        "Reduce unused JavaScript — auth-components-RsO62Dvo.js (saves ~0.0s / 2048.2KB)",
-        "Avoid enormous network payloads — auth-components-RsO62Dvo.js"
+        "Reduce unused JavaScript — auth-components-BwdQjtPZ.js (saves 2047.0KB)",
+        "Reduce unused CSS — assests-D2SidXX7.css (saves 41.1KB)",
+        "Avoid enormous network payloads — auth-components-BwdQjtPZ.js"
       ],
       "weight_flag": true,
       "image_flag": false
