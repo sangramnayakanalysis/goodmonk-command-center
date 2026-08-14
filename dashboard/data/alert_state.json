@@ -2,57 +2,30 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-14T12:11:25.928500+00:00",
+      "last_seen": "2026-08-14T13:43:03.965935+00:00",
       "last_sent": "2026-08-14T12:11:25.928500+00:00",
-      "count": 466,
+      "count": 467,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "http_error:fnm": {
       "first_seen": "2026-06-24T08:34:16.673176+00:00",
-      "last_seen": "2026-08-14T12:11:28.164390+00:00",
+      "last_seen": "2026-08-14T13:43:05.257721+00:00",
       "last_sent": "2026-08-14T12:11:28.164390+00:00",
-      "count": 466,
+      "count": 467,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-14T12:11:45.263035+00:00",
+      "last_seen": "2026-08-14T13:43:21.578747+00:00",
       "last_sent": "2026-08-14T12:11:45.263035+00:00",
-      "count": 466,
+      "count": 467,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-08-14T13:40:35.694561+00:00",
-      "last_seen": "2026-08-14T13:40:35.694561+00:00",
-      "last_sent": "2026-08-14T13:40:35.694561+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 27/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BrsrTzLV.js (saves ~0.6s / 2031.4KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-08-14T13:40:37.840217+00:00",
-      "last_seen": "2026-08-14T13:40:37.840217+00:00",
-      "last_sent": "2026-08-14T13:40:37.840217+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BrsrTzLV.js (saves ~0.3s / 2047.7KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-08-14T13:40:39.974347+00:00",
-      "last_seen": "2026-08-14T13:40:39.974347+00:00",
-      "last_sent": "2026-08-14T13:40:39.974347+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 30/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BrsrTzLV.js (saves 2026.0KB)"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:40:43+00:00",
+  "generated_at": "2026-08-14T13:43:32+00:00",
   "open": [
     {
       "time": "2026-08-14T13:40:40+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-08-14T13:43:30+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2026.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-14T13:43:28+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.3s / 2047.7KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-14T13:43:26+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.6s / 2031.4KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-08-14T12:11:55+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2012.3KB)",
@@ -583,24 +601,6 @@
       "time": "2026-08-13T17:42:53+00:00",
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 20/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.1s / 2047.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-13T15:39:45+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.4s / 2033.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-13T15:39:44+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-13T15:39:42+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
       "status": "Resolved"
     }
   ],
