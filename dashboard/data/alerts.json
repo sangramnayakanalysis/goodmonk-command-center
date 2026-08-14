@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-14T21:50:20+00:00",
+  "generated_at": "2026-08-14T22:20:18+00:00",
   "open": [
+    {
+      "time": "2026-08-14T21:50:26+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2050.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-14T21:50:24+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~5.1s / 2072.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-14T21:50:21+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2052.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-14T21:50:19+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-14T21:50:17+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-08-14T08:39:33+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 26/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T08:39:31+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T08:39:29+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2072.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T08:39:27+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T08:39:25+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-D2SidXX7.css (saves ~0.3s / 41.1KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 1920
+  "critical_count": 1924
 }
