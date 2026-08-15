@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-15T01:05:35+00:00",
+  "generated_at": "2026-08-15T01:55:17+00:00",
   "open": [
+    {
+      "time": "2026-08-15T01:55:14+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-15T01:55:12+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 29/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-15T01:55:09+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 46/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-15T01:55:07+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~6.7s / 2072.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-15T01:55:05+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.1s / 2046.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-15T01:55:02+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 16/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2025.7KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-14T23:39:47+00:00",
       "severity": "Critical",
@@ -263,42 +299,6 @@
       "time": "2026-08-14T15:17:12+00:00",
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 22/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T15:17:10+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.6s / 2073.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T15:17:09+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2052.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T13:40:40+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2026.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T13:40:38+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.3s / 2047.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T13:40:36+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.6s / 2031.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-14T12:04:54+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2012.3KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 1935
+  "critical_count": 1941
 }
