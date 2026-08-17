@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:15:06+00:00",
+  "generated_at": "2026-08-17T19:00:20+00:00",
   "site": "https://goodmonk.in",
   "summary": {
     "site_status": "DEGRADED",
@@ -7,7 +7,7 @@
     "healthy": 3,
     "warning": 0,
     "critical": 3,
-    "avg_load_time": 3.97,
+    "avg_load_time": 4.08,
     "health_score": 50
   },
   "health_table": [
@@ -15,17 +15,17 @@
       "page": "Homepage",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.999,
+      "load_time": 2.229,
       "severity": "Healthy",
-      "last_checked": "2026-08-17T18:14:40+00:00"
+      "last_checked": "2026-08-17T19:00:16+00:00"
     },
     {
       "page": "Collection / Shop",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.356,
+      "load_time": 1.78,
       "severity": "Healthy",
-      "last_checked": "2026-08-17T18:14:41+00:00"
+      "last_checked": "2026-08-17T19:00:18+00:00"
     },
     {
       "page": "H50+ PDP",
