@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-19T10:04:28+00:00",
+  "generated_at": "2026-08-19T10:46:04+00:00",
   "open": [
+    {
+      "time": "2026-08-19T10:45:38+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Homepage failed to load (HTTP 503, 0.4s)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-19T10:02:00+00:00",
       "severity": "Critical",
@@ -293,12 +299,6 @@
       "time": "2026-08-18T15:49:04+00:00",
       "severity": "Critical",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-18T15:49:02+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 2423
+  "critical_count": 2424
 }
