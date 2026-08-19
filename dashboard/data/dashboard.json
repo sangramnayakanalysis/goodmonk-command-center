@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-08-19T10:46:04+00:00",
+  "generated_at": "2026-08-19T11:23:17+00:00",
   "site": "https://goodmonk.in",
   "summary": {
-    "site_status": "DOWN",
+    "site_status": "DEGRADED",
     "pages_monitored": 6,
-    "healthy": 2,
+    "healthy": 4,
     "warning": 0,
-    "critical": 4,
-    "avg_load_time": 3.81,
-    "health_score": 33
+    "critical": 2,
+    "avg_load_time": 4.06,
+    "health_score": 67
   },
   "health_table": [
     {
       "page": "Homepage",
-      "status": "FAILED",
-      "http": 503,
-      "load_time": 0.39,
-      "severity": "Critical",
-      "last_checked": "2026-08-19T10:45:36+00:00"
+      "status": "PASS",
+      "http": 200,
+      "load_time": 2.378,
+      "severity": "Healthy",
+      "last_checked": "2026-08-19T11:22:48+00:00"
     },
     {
       "page": "Collection / Shop",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.689,
+      "load_time": 1.411,
       "severity": "Healthy",
-      "last_checked": "2026-08-19T10:45:40+00:00"
+      "last_checked": "2026-08-19T11:22:50+00:00"
     },
     {
       "page": "H50+ PDP",
       "status": "FAILED",
       "http": 404,
-      "load_time": 1.175,
+      "load_time": 0.53,
       "severity": "Critical",
-      "last_checked": "2026-08-19T10:45:41+00:00"
+      "last_checked": "2026-08-19T11:22:50+00:00"
     },
     {
       "page": "Family Nutrition Mix",
-      "status": "FAILED",
-      "http": 404,
-      "load_time": 1.368,
-      "severity": "Critical",
-      "last_checked": "2026-08-19T10:45:43+00:00"
+      "status": "PASS",
+      "http": 200,
+      "load_time": 1.865,
+      "severity": "Healthy",
+      "last_checked": "2026-08-19T11:22:53+00:00"
     },
     {
       "page": "Add to Cart",
       "status": "FAILED",
       "http": 0,
-      "load_time": 16.022,
+      "load_time": 15.792,
       "severity": "Critical",
-      "last_checked": "2026-08-19T10:45:59+00:00"
+      "last_checked": "2026-08-19T11:23:09+00:00"
     },
     {
       "page": "Checkout Init",
       "status": "PASS",
       "http": 200,
-      "load_time": 2.189,
+      "load_time": 2.407,
       "severity": "Healthy",
-      "last_checked": "2026-08-19T10:46:02+00:00"
+      "last_checked": "2026-08-19T11:23:11+00:00"
     }
   ],
   "break_grid": [
     {
       "label": "Homepage",
-      "status": "FAILED"
+      "status": "PASS"
     },
     {
       "label": "Collection",
@@ -75,7 +75,7 @@
     },
     {
       "label": "FNM",
-      "status": "FAILED"
+      "status": "PASS"
     },
     {
       "label": "Add to Cart",

@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-19T10:46:04+00:00",
+  "generated_at": "2026-08-19T11:23:17+00:00",
   "open": [
+    {
+      "time": "2026-08-19T10:57:31+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 18/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-19T10:57:29+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.5s / 2073.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-19T10:57:28+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~4.5s / 2072.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-19T10:57:26+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 23/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-19T10:57:24+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~4.7s / 2040.0KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-19T10:45:38+00:00",
       "severity": "Critical",
@@ -270,39 +300,21 @@
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~4.4s / 2072.3KB)",
       "status": "Open"
-    },
-    {
-      "time": "2026-08-18T17:50:13+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.6s / 2072.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-18T17:50:11+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~2.5s / 2053.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-18T15:49:07+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.2s / 2025.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-18T15:49:06+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-18T15:49:04+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
-      "status": "Open"
     }
   ],
   "resolved": [
+    {
+      "time": "2026-08-19T11:23:14+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Homepage failed to load (HTTP 503, 0.4s)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-19T11:23:13+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Load failure (HTTP 0, 0.0s)",
+      "status": "Resolved"
+    },
     {
       "time": "2026-08-19T10:04:24+00:00",
       "severity": "Resolved",
@@ -590,19 +602,7 @@
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2069.3KB)",
       "status": "Resolved"
-    },
-    {
-      "time": "2026-08-18T07:24:49+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2072.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-18T07:24:47+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~9.6s / 2059.7KB)",
-      "status": "Resolved"
     }
   ],
-  "critical_count": 2424
+  "critical_count": 2429
 }
