@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T15:50:39+00:00",
+  "generated_at": "2026-08-19T17:45:38+00:00",
   "open": [
+    {
+      "time": "2026-08-19T17:45:34+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.1s / 2033.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-19T17:00:27+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 54.8KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-19T15:50:36+00:00",
       "severity": "Critical",
@@ -288,21 +300,15 @@
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.4KB)",
       "status": "Open"
-    },
-    {
-      "time": "2026-08-18T23:43:06+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.1s / 2057.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-18T23:43:04+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2053.1KB)",
-      "status": "Open"
     }
   ],
   "resolved": [
+    {
+      "time": "2026-08-19T17:00:29+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves 2015.3KB)",
+      "status": "Resolved"
+    },
     {
       "time": "2026-08-19T14:17:58+00:00",
       "severity": "Resolved",
@@ -596,13 +602,7 @@
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.8s / 2027.0KB)",
       "status": "Resolved"
-    },
-    {
-      "time": "2026-08-18T15:07:12+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~2.4s / 2073.0KB)",
-      "status": "Resolved"
     }
   ],
-  "critical_count": 2455
+  "critical_count": 2457
 }
