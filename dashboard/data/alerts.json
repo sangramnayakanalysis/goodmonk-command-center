@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:42:08+00:00",
+  "generated_at": "2026-08-19T22:04:50+00:00",
   "open": [
     {
       "time": "2026-08-19T19:46:22+00:00",
@@ -304,6 +304,12 @@
   ],
   "resolved": [
     {
+      "time": "2026-08-19T21:52:52+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~2.7s / 2057.1KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-08-19T21:42:04+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
@@ -595,12 +601,6 @@
       "time": "2026-08-19T02:33:10+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BrsrTzLV.js (saves ~0.5s / 2072.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-19T02:33:08+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-D2SidXX7.css (saves 41.0KB)",
       "status": "Resolved"
     }
   ],
