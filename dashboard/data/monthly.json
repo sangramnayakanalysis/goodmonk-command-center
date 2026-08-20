@@ -1,26 +1,47 @@
 {
-  "generated_at": "2026-08-20T06:51:37+00:00",
+  "generated_at": "2026-08-20T07:08:45+00:00",
   "diagnostics": [
     {
-      "page": "Homepage",
+      "page": "Checkout",
       "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
       "impact": "High",
       "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 30
+      "mobile_score": 25
     },
     {
-      "page": "Homepage",
-      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.1s / 2049.9KB)",
+      "page": "Checkout",
+      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.6s / 2003.2KB)",
       "impact": "High",
       "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 30
+      "mobile_score": 25
     },
     {
-      "page": "Homepage",
+      "page": "Checkout",
       "issue": "Avoid enormous network payloads — auth-components-3bslV89r.js",
       "impact": "High",
       "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 30
+      "mobile_score": 25
+    },
+    {
+      "page": "H50+ PDP",
+      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.3s / 2057.3KB)",
+      "impact": "High",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 32
+    },
+    {
+      "page": "H50+ PDP",
+      "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves ~0.1s / 41.6KB)",
+      "impact": "High",
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 32
+    },
+    {
+      "page": "H50+ PDP",
+      "issue": "Avoid enormous network payloads — auth-components-3bslV89r.js",
+      "impact": "High",
+      "fix": "Review the PageSpeed opportunity detail for this page.",
+      "mobile_score": 32
     },
     {
       "page": "Family Nutrition Mix",
@@ -31,7 +52,7 @@
     },
     {
       "page": "Family Nutrition Mix",
-      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.3s / 2031.4KB)",
+      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.1s / 2033.2KB)",
       "impact": "High",
       "fix": "Code-split and remove unused app/theme JS bundles.",
       "mobile_score": 32
@@ -44,88 +65,67 @@
       "mobile_score": 32
     },
     {
-      "page": "Checkout",
+      "page": "Protein PDP",
+      "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
+      "impact": "High",
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 32
+    },
+    {
+      "page": "Protein PDP",
+      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~5.1s / 2061.4KB)",
+      "impact": "High",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 32
+    },
+    {
+      "page": "Protein PDP",
+      "issue": "Avoid enormous network payloads — auth-components-3bslV89r.js",
+      "impact": "High",
+      "fix": "Review the PageSpeed opportunity detail for this page.",
+      "mobile_score": 32
+    },
+    {
+      "page": "Homepage",
       "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
       "impact": "High",
       "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 41
+      "mobile_score": 33
     },
     {
-      "page": "Checkout",
-      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.6s / 2041.9KB)",
+      "page": "Homepage",
+      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.1s / 2063.1KB)",
       "impact": "High",
       "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 41
+      "mobile_score": 33
     },
     {
-      "page": "Checkout",
+      "page": "Homepage",
       "issue": "Avoid enormous network payloads — auth-components-3bslV89r.js",
       "impact": "High",
       "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 41
+      "mobile_score": 33
     },
     {
       "page": "Collection / Shop",
-      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~1.8s / 2083.0KB)",
+      "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves 54.9KB)",
       "impact": "High",
-      "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 42
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 48
     },
     {
       "page": "Collection / Shop",
-      "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves ~0.1s / 55.0KB)",
+      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.3s / 2035.0KB)",
       "impact": "High",
-      "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 42
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 48
     },
     {
       "page": "Collection / Shop",
       "issue": "Avoid enormous network payloads — auth-components-3bslV89r.js",
       "impact": "High",
       "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 42
-    },
-    {
-      "page": "Protein PDP",
-      "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
-      "impact": "High",
-      "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 42
-    },
-    {
-      "page": "Protein PDP",
-      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.1s / 2082.2KB)",
-      "impact": "High",
-      "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 42
-    },
-    {
-      "page": "Protein PDP",
-      "issue": "Avoid enormous network payloads — auth-components-3bslV89r.js",
-      "impact": "High",
-      "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 42
-    },
-    {
-      "page": "H50+ PDP",
-      "issue": "Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
-      "impact": "Medium",
-      "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 54
-    },
-    {
-      "page": "H50+ PDP",
-      "issue": "Reduce unused JavaScript — auth-components-3bslV89r.js (saves ~0.1s / 2083.1KB)",
-      "impact": "Medium",
-      "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 54
-    },
-    {
-      "page": "H50+ PDP",
-      "issue": "Avoid enormous network payloads — auth-components-3bslV89r.js",
-      "impact": "Medium",
-      "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 54
+      "mobile_score": 48
     }
   ]
 }
