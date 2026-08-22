@@ -17,6 +17,51 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-08-22T20:41:46.437681+00:00",
+      "last_seen": "2026-08-22T20:41:46.437681+00:00",
+      "last_sent": "2026-08-22T20:41:46.437681+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 46/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves 2055.6KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-08-22T20:41:48.156069+00:00",
+      "last_seen": "2026-08-22T20:41:48.156069+00:00",
+      "last_sent": "2026-08-22T20:41:48.156069+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~4.0s / 2060.0KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-08-22T20:41:49.982577+00:00",
+      "last_seen": "2026-08-22T20:41:49.982577+00:00",
+      "last_sent": "2026-08-22T20:41:49.982577+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 21/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves 2033.7KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-08-22T20:41:51.678663+00:00",
+      "last_seen": "2026-08-22T20:41:51.678663+00:00",
+      "last_sent": "2026-08-22T20:41:51.678663+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~4.9s / 2057.7KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-22T20:41:53.185615+00:00",
+      "last_seen": "2026-08-22T20:41:53.185615+00:00",
+      "last_sent": "2026-08-22T20:41:53.185615+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 29/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.3KB)"
     }
   }
 }
