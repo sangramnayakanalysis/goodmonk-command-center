@@ -2,75 +2,21 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-22T23:25:57.537190+00:00",
+      "last_seen": "2026-08-22T23:45:21.769330+00:00",
       "last_sent": "2026-08-22T22:00:27.558306+00:00",
-      "count": 778,
+      "count": 779,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-22T23:26:15.819321+00:00",
+      "last_seen": "2026-08-22T23:45:41.026102+00:00",
       "last_sent": "2026-08-22T22:00:47.784217+00:00",
-      "count": 778,
+      "count": 779,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-08-22T23:38:30.988298+00:00",
-      "last_seen": "2026-08-22T23:38:30.988298+00:00",
-      "last_sent": "2026-08-22T23:38:30.988298+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.4KB)"
-    },
-    "perf_critical:collection": {
-      "first_seen": "2026-08-22T23:38:32.666786+00:00",
-      "last_seen": "2026-08-22T23:38:32.666786+00:00",
-      "last_sent": "2026-08-22T23:38:32.666786+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Mobile PageSpeed 28/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~3.0s / 4092.8KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-08-22T23:38:34.057368+00:00",
-      "last_seen": "2026-08-22T23:38:34.057368+00:00",
-      "last_sent": "2026-08-22T23:38:34.057368+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.6KB)"
-    },
-    "perf_critical:fnm": {
-      "first_seen": "2026-08-22T23:38:35.496477+00:00",
-      "last_seen": "2026-08-22T23:38:35.496477+00:00",
-      "last_sent": "2026-08-22T23:38:35.496477+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Family Nutrition Mix",
-      "detail": "Mobile PageSpeed 21/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves 2033.6KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-08-22T23:38:36.937593+00:00",
-      "last_seen": "2026-08-22T23:38:36.937593+00:00",
-      "last_sent": "2026-08-22T23:38:36.937593+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 46/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~0.1s / 2024.0KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-08-22T23:38:38.315380+00:00",
-      "last_seen": "2026-08-22T23:38:38.315380+00:00",
-      "last_sent": "2026-08-22T23:38:38.315380+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.3KB)"
     }
   }
 }
