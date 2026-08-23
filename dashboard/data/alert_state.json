@@ -2,66 +2,21 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-23T21:19:10.398499+00:00",
+      "last_seen": "2026-08-23T21:45:33.765786+00:00",
       "last_sent": "2026-08-23T21:19:10.398499+00:00",
-      "count": 816,
+      "count": 817,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-23T21:19:30.590229+00:00",
+      "last_seen": "2026-08-23T21:45:52.521108+00:00",
       "last_sent": "2026-08-23T21:19:30.590229+00:00",
-      "count": 816,
+      "count": 817,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-08-23T21:38:35.672767+00:00",
-      "last_seen": "2026-08-23T21:38:35.672767+00:00",
-      "last_sent": "2026-08-23T21:38:35.672767+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~0.1s / 2062.5KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-08-23T21:38:38.209857+00:00",
-      "last_seen": "2026-08-23T21:38:38.209857+00:00",
-      "last_sent": "2026-08-23T21:38:38.209857+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves 2083.0KB)"
-    },
-    "perf_critical:fnm": {
-      "first_seen": "2026-08-23T21:38:40.078897+00:00",
-      "last_seen": "2026-08-23T21:38:40.078897+00:00",
-      "last_sent": "2026-08-23T21:38:40.078897+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Family Nutrition Mix",
-      "detail": "Mobile PageSpeed 26/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves 2059.7KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-08-23T21:38:42.060557+00:00",
-      "last_seen": "2026-08-23T21:38:42.060557+00:00",
-      "last_sent": "2026-08-23T21:38:42.060557+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 46/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~4.6s / 2083.8KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-08-23T21:38:44.039999+00:00",
-      "last_seen": "2026-08-23T21:38:44.039999+00:00",
-      "last_sent": "2026-08-23T21:38:44.039999+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 42/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~0.6s / 2036.6KB)"
     }
   }
 }
