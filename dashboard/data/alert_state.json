@@ -17,6 +17,51 @@
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-08-23T07:03:59.091207+00:00",
+      "last_seen": "2026-08-23T07:03:59.091207+00:00",
+      "last_sent": "2026-08-23T07:03:59.091207+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.3KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-08-23T07:04:01.088952+00:00",
+      "last_seen": "2026-08-23T07:04:01.088952+00:00",
+      "last_sent": "2026-08-23T07:04:01.088952+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 45/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BXMQD-hq.js (saves ~4.7s / 2080.5KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-08-23T07:04:02.687201+00:00",
+      "last_seen": "2026-08-23T07:04:02.687201+00:00",
+      "last_sent": "2026-08-23T07:04:02.687201+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.6KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-08-23T07:04:04.013766+00:00",
+      "last_seen": "2026-08-23T07:04:04.013766+00:00",
+      "last_sent": "2026-08-23T07:04:04.013766+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.4KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-08-23T07:04:05.647017+00:00",
+      "last_seen": "2026-08-23T07:04:05.647017+00:00",
+      "last_sent": "2026-08-23T07:04:05.647017+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 39/100 \u2014 Reduce unused CSS \u2014 assests-uWkfAltd.css (saves 41.3KB)"
     }
   }
 }
