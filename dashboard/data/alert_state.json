@@ -2,30 +2,21 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-24T21:37:11.484324+00:00",
+      "last_seen": "2026-08-24T22:01:24.056153+00:00",
       "last_sent": "2026-08-24T20:27:26.608863+00:00",
-      "count": 848,
+      "count": 849,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-24T21:37:30.195472+00:00",
+      "last_seen": "2026-08-24T22:01:42.034222+00:00",
       "last_sent": "2026-08-24T20:27:46.697853+00:00",
-      "count": 848,
+      "count": 849,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
-    },
-    "homepage_down": {
-      "first_seen": "2026-08-24T21:37:05.715890+00:00",
-      "last_seen": "2026-08-24T21:37:05.715890+00:00",
-      "last_sent": "2026-08-24T21:37:05.715890+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Homepage failed to load (HTTP 503, 0.5s)"
     }
   }
 }

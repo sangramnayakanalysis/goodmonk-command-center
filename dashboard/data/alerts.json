@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-24T21:37:36+00:00",
+  "generated_at": "2026-08-24T22:01:50+00:00",
   "open": [
+    {
+      "time": "2026-08-24T21:49:24+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2049.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-24T21:49:21+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-uWkfAltd.css (saves ~0.3s / 41.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-24T21:49:19+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~1.8s / 2045.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-24T21:49:16+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2054.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-24T21:49:14+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~6.2s / 4092.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-24T21:49:12+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.2KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-24T21:37:06+00:00",
       "severity": "Critical",
@@ -264,45 +300,15 @@
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.3s / 2056.2KB)",
       "status": "Open"
-    },
-    {
-      "time": "2026-08-24T10:05:31+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-24T10:05:29+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2057.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-24T10:05:27+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 55.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-24T10:05:25+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-24T09:07:25+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.5s / 2063.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-24T09:07:24+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.3s / 2082.2KB)",
-      "status": "Open"
     }
   ],
   "resolved": [
+    {
+      "time": "2026-08-24T22:01:45+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Homepage failed to load (HTTP 503, 0.5s)",
+      "status": "Resolved"
+    },
     {
       "time": "2026-08-24T21:00:51+00:00",
       "severity": "Resolved",
@@ -596,13 +602,7 @@
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2062.2KB)",
       "status": "Resolved"
-    },
-    {
-      "time": "2026-08-24T05:01:42+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
-      "status": "Resolved"
     }
   ],
-  "critical_count": 3068
+  "critical_count": 3074
 }
