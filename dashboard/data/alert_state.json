@@ -2,18 +2,18 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-24T15:47:45.455262+00:00",
+      "last_seen": "2026-08-24T16:34:03.986444+00:00",
       "last_sent": "2026-08-24T15:47:45.455262+00:00",
-      "count": 839,
+      "count": 840,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-24T15:48:03.964449+00:00",
+      "last_seen": "2026-08-24T16:34:22.023672+00:00",
       "last_sent": "2026-08-24T15:48:03.964449+00:00",
-      "count": 839,
+      "count": 840,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
