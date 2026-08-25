@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-25T21:32:15+00:00",
+  "generated_at": "2026-08-25T21:48:06+00:00",
   "open": [
+    {
+      "time": "2026-08-25T21:48:03+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2042.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-25T21:48:01+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-25T21:48:00+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-25T21:47:58+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-25T20:46:44+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-08-25T13:16:49+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 25/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T13:16:48+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.1s / 2055.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T13:16:47+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~1.2s / 2021.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T13:16:45+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~1.9s / 2081.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T13:16:44+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.4s / 2081.6KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3178
+  "critical_count": 3182
 }
