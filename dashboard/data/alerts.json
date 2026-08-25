@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-25T05:47:59+00:00",
+  "generated_at": "2026-08-25T06:42:30+00:00",
   "open": [
+    {
+      "time": "2026-08-25T06:42:09+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Load failure (HTTP 404, 0.5s)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-25T05:04:13+00:00",
       "severity": "Critical",
@@ -293,12 +299,6 @@
       "time": "2026-08-24T19:05:02+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-24T17:47:11+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.3s / 2034.5KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3098
+  "critical_count": 3099
 }
