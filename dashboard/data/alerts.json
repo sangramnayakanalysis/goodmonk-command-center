@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:05:32+00:00",
+  "generated_at": "2026-08-25T15:59:48+00:00",
   "open": [
+    {
+      "time": "2026-08-25T15:05:32+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-25T15:05:31+00:00",
       "severity": "Critical",
@@ -293,12 +299,6 @@
       "time": "2026-08-25T05:04:09+00:00",
       "severity": "Critical",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T05:04:07+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.2s / 2056.8KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3144
+  "critical_count": 3145
 }
