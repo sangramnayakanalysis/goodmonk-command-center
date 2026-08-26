@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:59:59+00:00",
+  "generated_at": "2026-08-26T03:02:34+00:00",
   "open": [
     {
       "time": "2026-08-26T01:59:56+00:00",
@@ -304,6 +304,36 @@
   ],
   "resolved": [
     {
+      "time": "2026-08-26T03:02:32+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-26T03:02:30+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~4.8s / 2083.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-26T03:02:29+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.3s / 2025.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-26T03:02:27+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2044.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-08-26T03:02:26+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 181.5KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-08-25T23:03:12+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2041.5KB)",
@@ -571,36 +601,6 @@
       "time": "2026-08-25T09:08:01+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~2.4s / 2057.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-25T09:08:00+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-25T09:07:58+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.3s / 2068.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-25T09:07:57+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~2.9s / 2068.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-25T09:07:56+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-uWkfAltd.css (saves ~0.2s / 41.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-25T08:23:07+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 29/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
       "status": "Resolved"
     }
   ],
