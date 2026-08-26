@@ -2,27 +2,27 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-08-26T11:00:58.865794+00:00",
+      "last_seen": "2026-08-26T11:44:34.013840+00:00",
       "last_sent": "2026-08-26T11:00:58.865794+00:00",
-      "count": 896,
+      "count": 897,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-08-26T11:01:18.664777+00:00",
+      "last_seen": "2026-08-26T11:44:51.604707+00:00",
       "last_sent": "2026-08-26T11:01:18.664777+00:00",
-      "count": 896,
+      "count": 897,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "http_error:fnm": {
       "first_seen": "2026-08-25T06:42:09.162426+00:00",
-      "last_seen": "2026-08-26T11:01:00.881957+00:00",
+      "last_seen": "2026-08-26T11:44:35.461351+00:00",
       "last_sent": "2026-08-26T11:01:00.881957+00:00",
-      "count": 38,
+      "count": 39,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
