@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:25:30+00:00",
+  "generated_at": "2026-08-26T21:41:49+00:00",
   "site": "https://goodmonk.in",
   "summary": {
     "site_status": "DEGRADED",
@@ -7,7 +7,7 @@
     "healthy": 3,
     "warning": 0,
     "critical": 3,
-    "avg_load_time": 3.96,
+    "avg_load_time": 3.92,
     "health_score": 50
   },
   "health_table": [
@@ -17,47 +17,47 @@
       "http": 200,
       "load_time": 2.054,
       "severity": "Healthy",
-      "last_checked": "2026-08-26T18:57:05+00:00"
+      "last_checked": "2026-08-26T21:41:11+00:00"
     },
     {
       "page": "Collection / Shop",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.414,
+      "load_time": 1.35,
       "severity": "Healthy",
-      "last_checked": "2026-08-26T18:57:07+00:00"
+      "last_checked": "2026-08-26T21:41:13+00:00"
     },
     {
       "page": "H50+ PDP",
       "status": "FAILED",
       "http": 404,
-      "load_time": 0.852,
+      "load_time": 1.043,
       "severity": "Critical",
-      "last_checked": "2026-08-26T18:57:08+00:00"
+      "last_checked": "2026-08-26T21:41:14+00:00"
     },
     {
       "page": "Family Nutrition Mix",
       "status": "FAILED",
       "http": 404,
-      "load_time": 1.239,
+      "load_time": 0.792,
       "severity": "Critical",
-      "last_checked": "2026-08-26T18:57:11+00:00"
+      "last_checked": "2026-08-26T21:41:17+00:00"
     },
     {
       "page": "Add to Cart",
       "status": "FAILED",
       "http": 0,
-      "load_time": 15.812,
+      "load_time": 16.125,
       "severity": "Critical",
-      "last_checked": "2026-08-26T18:57:28+00:00"
+      "last_checked": "2026-08-26T21:41:34+00:00"
     },
     {
       "page": "Checkout Init",
       "status": "PASS",
       "http": 200,
-      "load_time": 2.377,
+      "load_time": 2.181,
       "severity": "Healthy",
-      "last_checked": "2026-08-26T18:57:32+00:00"
+      "last_checked": "2026-08-26T21:41:38+00:00"
     }
   ],
   "break_grid": [
