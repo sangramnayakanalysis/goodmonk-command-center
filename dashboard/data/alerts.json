@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-26T08:52:15+00:00",
+  "generated_at": "2026-08-26T09:05:25+00:00",
   "open": [
+    {
+      "time": "2026-08-26T09:05:21+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.1s / 2061.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-26T09:05:20+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~1.9s / 2082.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-26T09:05:18+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~4.6s / 2082.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-26T09:05:17+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~4.9s / 2083.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-26T09:05:15+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~4.9s / 2045.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-26T09:05:13+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 16/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.1s / 2024.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-26T08:03:31+00:00",
       "severity": "Critical",
@@ -263,42 +299,6 @@
       "time": "2026-08-25T22:47:22+00:00",
       "severity": "Critical",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.5s / 2045.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T22:47:20+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.6s / 2057.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T22:47:19+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves ~0.5s / 2036.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T22:47:17+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T21:48:03+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BXMQD-hq.js (saves 2042.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T21:48:01+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-25T21:48:00+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-uWkfAltd.css (saves 41.6KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3229
+  "critical_count": 3235
 }
