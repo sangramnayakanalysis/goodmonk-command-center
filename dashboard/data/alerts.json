@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-31T17:38:18+00:00",
+  "generated_at": "2026-08-31T20:07:12+00:00",
   "open": [
+    {
+      "time": "2026-08-31T20:07:09+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-31T20:07:07+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves ~0.1s / 41.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-31T20:07:06+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-31T20:07:04+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-31T20:07:03+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves 2105.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-08-31T20:07:02+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves 2083.1KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-08-31T13:42:24+00:00",
       "severity": "Critical",
@@ -263,42 +299,6 @@
       "time": "2026-08-29T21:49:12+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.3s / 2064.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-29T21:49:10+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.3s / 2065.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-29T21:49:08+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~5.3s / 2101.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-29T21:49:06+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.5s / 4139.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-29T21:49:04+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-29T18:33:00+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-29T18:32:58+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3367
+  "critical_count": 3373
 }
