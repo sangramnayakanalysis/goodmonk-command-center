@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T00:02:45+00:00",
+  "generated_at": "2026-09-01T01:18:34+00:00",
   "open": [
     {
       "time": "2026-09-01T00:02:41+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-01T01:18:31+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves 1403.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-01T01:18:30+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.1s / 1424.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-01T01:18:29+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.5KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-08-31T22:04:05+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.6KB)",
@@ -583,24 +601,6 @@
       "time": "2026-08-30T00:33:26+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.3s / 2090.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-30T00:33:25+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.5s / 2068.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-29T22:21:13+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.8s / 2070.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-29T22:21:12+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.3s / 2064.9KB)",
       "status": "Resolved"
     }
   ],
