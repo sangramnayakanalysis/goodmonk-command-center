@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-01T14:54:14+00:00",
+  "generated_at": "2026-09-01T18:34:40+00:00",
   "open": [
+    {
+      "time": "2026-09-01T18:34:30+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.0KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-01T14:54:09+00:00",
       "severity": "Critical",
@@ -294,15 +300,21 @@
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves 2083.6KB)",
       "status": "Open"
-    },
-    {
-      "time": "2026-08-30T06:39:29+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves 2057.1KB)",
-      "status": "Open"
     }
   ],
   "resolved": [
+    {
+      "time": "2026-09-01T18:34:37+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves 1403.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-01T18:34:36+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves 1428.8KB)",
+      "status": "Resolved"
+    },
     {
       "time": "2026-09-01T14:54:10+00:00",
       "severity": "Resolved",
@@ -590,19 +602,7 @@
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 27/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
       "status": "Resolved"
-    },
-    {
-      "time": "2026-08-30T11:15:36+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~5.6s / 2102.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-30T11:15:35+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~4.6s / 2102.9KB)",
-      "status": "Resolved"
     }
   ],
-  "critical_count": 3386
+  "critical_count": 3387
 }
