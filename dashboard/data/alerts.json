@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-02T13:40:19+00:00",
+  "generated_at": "2026-09-02T14:32:06+00:00",
   "open": [
+    {
+      "time": "2026-09-02T14:32:03+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 26/100 — Reduce unused JavaScript — auth-components-BA5DKgbE.js (saves 1405.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-02T14:32:01+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BA5DKgbE.js (saves 1425.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-02T14:31:59+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 55.2KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-02T09:42:14+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-08-30T23:33:43+00:00",
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.3s / 2103.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-30T23:33:41+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 55.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-30T23:33:40+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves ~0.2s / 41.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-08-30T21:08:17+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.8s / 2070.1KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3398
+  "critical_count": 3401
 }
