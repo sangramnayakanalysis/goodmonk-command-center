@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:51:20+00:00",
+  "generated_at": "2026-09-02T20:00:34+00:00",
   "open": [
     {
       "time": "2026-09-02T18:51:16+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-02T20:00:31+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BA5DKgbE.js (saves 1451.7KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-02T20:00:29+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BA5DKgbE.js (saves ~0.3s / 2848.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-02T20:00:27+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BA5DKgbE.js (saves ~0.1s / 1405.8KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-02T17:23:29+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 26/100 — Reduce unused JavaScript — auth-components-BA5DKgbE.js (saves 1405.0KB)",
@@ -583,24 +601,6 @@
       "time": "2026-08-30T23:54:44+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-30T23:54:43+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-30T23:54:42+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.3s / 2090.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-30T23:54:41+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-DKpPPa3C.js (saves ~0.3s / 2103.6KB)",
       "status": "Resolved"
     }
   ],
