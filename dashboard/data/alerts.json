@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:43:37+00:00",
+  "generated_at": "2026-09-03T20:30:13+00:00",
   "open": [
     {
       "time": "2026-09-03T18:43:34+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-03T20:30:10+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-Cufz3VuW.js (saves 1464.7KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-03T20:30:08+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-Cufz3VuW.js (saves 1461.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-03T20:30:06+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Cufz3VuW.js (saves ~0.1s / 1488.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-03T20:30:05+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-Cufz3VuW.js (saves 1466.9KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-03T17:52:58+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-Cufz3VuW.js (saves 1441.7KB)",
@@ -577,30 +601,6 @@
       "time": "2026-09-01T01:18:29+00:00",
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-31T22:04:05+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-31T22:04:03+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves ~0.1s / 41.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-31T22:04:02+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-08-31T22:04:00+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
       "status": "Resolved"
     }
   ],
