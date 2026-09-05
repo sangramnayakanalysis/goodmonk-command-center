@@ -2,75 +2,30 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-09-05T19:14:25.705901+00:00",
-      "last_sent": "2026-09-05T17:20:46.338992+00:00",
-      "count": 957,
+      "last_seen": "2026-09-05T21:18:08.968014+00:00",
+      "last_sent": "2026-09-05T21:18:08.968014+00:00",
+      "count": 958,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-09-05T19:14:43.588556+00:00",
-      "last_sent": "2026-09-05T17:21:06.007219+00:00",
-      "count": 957,
+      "last_seen": "2026-09-05T21:18:29.823470+00:00",
+      "last_sent": "2026-09-05T21:18:29.823470+00:00",
+      "count": 958,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "http_error:fnm": {
       "first_seen": "2026-08-25T06:42:09.162426+00:00",
-      "last_seen": "2026-09-05T19:14:27.054688+00:00",
-      "last_sent": "2026-09-05T17:20:48.762378+00:00",
-      "count": 99,
+      "last_seen": "2026-09-05T21:18:11.668821+00:00",
+      "last_sent": "2026-09-05T21:18:11.668821+00:00",
+      "count": 100,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-09-05T21:15:26.402851+00:00",
-      "last_seen": "2026-09-05T21:15:26.402851+00:00",
-      "last_sent": "2026-09-05T21:15:26.402851+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused CSS \u2014 assests-Dm5yghLX.css (saves 42.3KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-09-05T21:15:29.004608+00:00",
-      "last_seen": "2026-09-05T21:15:29.004608+00:00",
-      "last_sent": "2026-09-05T21:15:29.004608+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 42/100 \u2014 Reduce unused JavaScript \u2014 auth-components-mu0l2xQf.js (saves 1461.7KB)"
-    },
-    "perf_critical:fnm": {
-      "first_seen": "2026-09-05T21:15:31.051792+00:00",
-      "last_seen": "2026-09-05T21:15:31.051792+00:00",
-      "last_sent": "2026-09-05T21:15:31.051792+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Family Nutrition Mix",
-      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused JavaScript \u2014 auth-components-mu0l2xQf.js (saves ~2.1s / 1488.2KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-09-05T21:15:33.244221+00:00",
-      "last_seen": "2026-09-05T21:15:33.244221+00:00",
-      "last_sent": "2026-09-05T21:15:33.244221+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused JavaScript \u2014 auth-components-mu0l2xQf.js (saves ~0.0s / 1462.5KB)"
-    },
-    "perf_critical:checkout": {
-      "first_seen": "2026-09-05T21:15:35.484224+00:00",
-      "last_seen": "2026-09-05T21:15:35.484224+00:00",
-      "last_sent": "2026-09-05T21:15:35.484224+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Checkout",
-      "detail": "Mobile PageSpeed 38/100 \u2014 Reduce unused JavaScript \u2014 auth-components-mu0l2xQf.js (saves 1467.3KB)"
     }
   }
 }
