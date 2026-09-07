@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:32:27+00:00",
+  "generated_at": "2026-09-07T19:45:23+00:00",
   "open": [
     {
       "time": "2026-09-07T16:32:23+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-07T19:45:20+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves ~4.8s / 1488.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-07T19:45:19+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves ~0.5s / 1440.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-07T19:45:18+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1466.2KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-07T10:17:43+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Checkout initiation failed (HTTP 503)",
@@ -583,24 +601,6 @@
       "time": "2026-09-05T15:03:09+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves ~0.1s / 1461.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-05T15:03:07+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1462.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-05T15:03:06+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1441.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-05T12:00:12+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves ~0.5s / 1462.8KB)",
       "status": "Resolved"
     }
   ],
