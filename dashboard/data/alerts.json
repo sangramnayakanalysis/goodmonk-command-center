@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:59:58+00:00",
+  "generated_at": "2026-09-08T23:00:26+00:00",
   "open": [
     {
       "time": "2026-09-08T21:59:55+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-08T23:00:22+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-CGSCHG0_.js (saves 1420.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-08T23:00:20+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-CGSCHG0_.js (saves ~1.6s / 1463.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-08T23:00:17+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-CGSCHG0_.js (saves 1465.8KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-08T20:44:04+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-CGSCHG0_.js (saves 1441.9KB)",
@@ -583,24 +601,6 @@
       "time": "2026-09-06T18:31:29+00:00",
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 11/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1461.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-06T18:31:27+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1462.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-06T18:31:26+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 22/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1461.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-06T18:31:24+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1441.6KB)",
       "status": "Resolved"
     }
   ],
