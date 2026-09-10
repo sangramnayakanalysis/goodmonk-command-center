@@ -2,27 +2,27 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-09-10T15:09:59.646383+00:00",
-      "last_sent": "2026-09-10T15:09:59.646383+00:00",
-      "count": 991,
+      "last_seen": "2026-09-10T18:27:25.413937+00:00",
+      "last_sent": "2026-09-10T18:27:25.413937+00:00",
+      "count": 992,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-09-10T15:10:19.346403+00:00",
-      "last_sent": "2026-09-10T15:10:19.346403+00:00",
-      "count": 991,
+      "last_seen": "2026-09-10T18:27:45.738019+00:00",
+      "last_sent": "2026-09-10T18:27:45.738019+00:00",
+      "count": 992,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "http_error:fnm": {
       "first_seen": "2026-08-25T06:42:09.162426+00:00",
-      "last_seen": "2026-09-10T15:10:02.141311+00:00",
-      "last_sent": "2026-09-10T15:10:02.141311+00:00",
-      "count": 133,
+      "last_seen": "2026-09-10T18:27:28.111499+00:00",
+      "last_sent": "2026-09-10T18:27:28.111499+00:00",
+      "count": 134,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
