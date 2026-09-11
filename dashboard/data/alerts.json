@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:24:00+00:00",
+  "generated_at": "2026-09-11T14:57:30+00:00",
   "open": [
     {
       "time": "2026-09-11T11:23:57+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-11T14:57:27+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1443.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-11T14:57:26+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1463.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-11T14:57:25+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1469.2KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-10T23:10:39+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1443.2KB)",
@@ -583,24 +601,6 @@
       "time": "2026-09-08T17:55:57+00:00",
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 188.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-08T17:55:56+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BwrRHGOa.js (saves 1461.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-08T17:55:54+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-BwrRHGOa.js (saves 1546.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-08T05:16:26+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-mu0l2xQf.js (saves 1442.4KB)",
       "status": "Resolved"
     }
   ],
