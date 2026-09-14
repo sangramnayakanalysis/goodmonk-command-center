@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:12:33+00:00",
+  "generated_at": "2026-09-14T23:19:06+00:00",
   "open": [
     {
       "time": "2026-09-14T23:12:30+00:00",
@@ -304,6 +304,36 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-14T23:19:01+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-14T23:19:00+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1464.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-14T23:18:59+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves ~0.1s / 1486.7KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-14T23:18:57+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1467.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-14T23:18:56+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1466.7KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-14T20:26:28+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.4KB)",
@@ -571,36 +601,6 @@
       "time": "2026-09-13T14:37:31+00:00",
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T10:29:31+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T10:29:30+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T10:29:29+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1468.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T05:24:02+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1443.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T05:24:01+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 55.8KB)",
       "status": "Resolved"
     }
   ],
