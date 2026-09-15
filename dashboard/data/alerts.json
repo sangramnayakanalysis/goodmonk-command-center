@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:38:32+00:00",
+  "generated_at": "2026-09-15T17:03:10+00:00",
   "open": [
     {
       "time": "2026-09-15T13:38:29+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-15T17:03:06+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1445.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-15T17:03:05+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves ~0.1s / 1485.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-15T17:03:03+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.5KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-15T12:14:04+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1448.2KB)",
@@ -583,24 +601,6 @@
       "time": "2026-09-13T19:50:12+00:00",
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1443.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T17:41:07+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1469.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T17:41:06+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1488.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-13T17:41:05+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves ~0.1s / 1488.4KB)",
       "status": "Resolved"
     }
   ],
