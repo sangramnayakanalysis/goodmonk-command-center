@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-14T23:19:06+00:00",
+  "generated_at": "2026-09-15T01:37:57+00:00",
   "open": [
+    {
+      "time": "2026-09-15T01:37:52+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-15T01:37:50+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves ~1.5s / 1465.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-15T01:37:47+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-15T01:37:44+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 2898.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-14T23:12:30+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-09-13T11:49:12+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 46/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-13T11:49:10+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-13T11:49:08+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-13T11:49:07+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-13T11:49:05+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.4KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3708
+  "critical_count": 3712
 }
