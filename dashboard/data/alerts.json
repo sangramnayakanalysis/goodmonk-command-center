@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:39:01+00:00",
+  "generated_at": "2026-09-16T15:33:52+00:00",
   "open": [
     {
       "time": "2026-09-16T13:38:59+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-16T15:33:49+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves 1432.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-16T15:33:48+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves ~0.1s / 41.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-16T15:33:47+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves 1406.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-16T15:33:45+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves 1406.5KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-16T11:32:57+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves 1406.3KB)",
@@ -577,30 +601,6 @@
       "time": "2026-09-14T16:28:24+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves ~0.1s / 1464.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-14T16:28:23+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1443.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-14T16:28:22+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1422.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-14T10:27:02+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-14T10:27:00+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves ~2.3s / 1467.0KB)",
       "status": "Resolved"
     }
   ],
