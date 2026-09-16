@@ -26,6 +26,51 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-09-16T07:48:37.189009+00:00",
+      "last_seen": "2026-09-16T07:48:37.189009+00:00",
+      "last_sent": "2026-09-16T07:48:37.189009+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Nemb721N.js (saves 1406.8KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-09-16T07:48:39.283623+00:00",
+      "last_seen": "2026-09-16T07:48:39.283623+00:00",
+      "last_sent": "2026-09-16T07:48:39.283623+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Nemb721N.js (saves 1406.4KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-09-16T07:48:41.988763+00:00",
+      "last_seen": "2026-09-16T07:48:41.988763+00:00",
+      "last_sent": "2026-09-16T07:48:41.988763+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused CSS \u2014 assests-Dm5yghLX.css (saves 31.2KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-09-16T07:48:44.149952+00:00",
+      "last_seen": "2026-09-16T07:48:44.149952+00:00",
+      "last_sent": "2026-09-16T07:48:44.149952+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 42/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Nemb721N.js (saves 1451.9KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-09-16T07:48:46.486081+00:00",
+      "last_seen": "2026-09-16T07:48:46.486081+00:00",
+      "last_sent": "2026-09-16T07:48:46.486081+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 27/100 \u2014 Reduce unused JavaScript \u2014 auth-components-Nemb721N.js (saves 1406.3KB)"
     }
   }
 }
