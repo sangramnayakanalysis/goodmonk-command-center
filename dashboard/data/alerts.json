@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:05:49+00:00",
+  "generated_at": "2026-09-17T19:02:34+00:00",
   "open": [
     {
       "time": "2026-09-17T17:05:45+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-17T19:02:31+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.3s / 1406.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-17T19:02:29+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.3s / 1427.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-17T19:02:26+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1406.3KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-17T15:10:49+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1406.3KB)",
@@ -583,24 +601,6 @@
       "time": "2026-09-15T01:43:10+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-15T01:43:08+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 2898.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-14T23:19:01+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-14T23:19:00+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1464.6KB)",
       "status": "Resolved"
     }
   ],
