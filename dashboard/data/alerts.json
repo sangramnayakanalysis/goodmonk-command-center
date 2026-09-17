@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-17T15:10:52+00:00",
+  "generated_at": "2026-09-17T17:05:49+00:00",
   "open": [
+    {
+      "time": "2026-09-17T17:05:45+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.3s / 1406.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-17T17:05:43+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.3s / 1427.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-17T17:05:39+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1406.3KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-17T11:47:15+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-09-15T13:38:29+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1445.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-15T13:38:27+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves ~0.1s / 1485.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-15T13:38:25+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1442.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-15T07:52:58+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-CL04izvp.js (saves 1448.2KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3766
+  "critical_count": 3769
 }
