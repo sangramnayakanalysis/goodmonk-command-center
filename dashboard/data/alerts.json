@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-18T09:35:41+00:00",
+  "generated_at": "2026-09-18T09:52:53+00:00",
   "open": [
+    {
+      "time": "2026-09-18T09:52:50+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~9.9s / 1452.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-18T09:52:48+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.2s / 1452.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-18T09:52:46+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-18T09:52:44+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 20/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1405.6KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-18T04:40:10+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-09-16T07:48:40+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves 1406.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-16T07:48:38+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves 1406.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-16T01:31:48+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves 1432.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-16T01:31:45+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-Nemb721N.js (saves ~2.3s / 1451.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-16T01:31:42+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused CSS — custom.css (saves ~0.3s / 24.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3782
+  "critical_count": 3786
 }
