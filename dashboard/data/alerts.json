@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-19T21:18:23+00:00",
+  "generated_at": "2026-09-19T23:03:10+00:00",
   "open": [
+    {
+      "time": "2026-09-19T23:03:08+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-19T23:03:06+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1450.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-19T23:03:05+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.3s / 1426.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-19T23:03:02+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 2827.2KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-19T20:45:36+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-09-18T14:36:00+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1432.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-18T14:35:59+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1407.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-18T09:52:50+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~9.9s / 1452.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-18T09:52:48+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.2s / 1452.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-18T09:52:46+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3833
+  "critical_count": 3837
 }
