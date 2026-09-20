@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-19T23:20:09+00:00",
+  "generated_at": "2026-09-20T01:13:07+00:00",
   "open": [
+    {
+      "time": "2026-09-20T01:13:05+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~1.4s / 1450.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-20T01:13:03+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.4s / 1405.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-20T01:13:00+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 2861.5KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-19T23:03:08+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-09-18T14:36:06+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 28/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-18T14:36:04+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1426.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-18T14:36:02+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-18T14:36:00+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1432.3KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3837
+  "critical_count": 3840
 }
