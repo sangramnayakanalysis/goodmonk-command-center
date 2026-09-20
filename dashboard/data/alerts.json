@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-20T20:59:26+00:00",
+  "generated_at": "2026-09-20T21:37:14+00:00",
   "open": [
+    {
+      "time": "2026-09-20T21:37:12+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1406.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-20T21:37:10+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~1.4s / 1450.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-20T21:37:09+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-20T18:55:00+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-09-19T11:01:28+00:00",
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~0.5s / 1426.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-19T11:01:25+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1406.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-19T11:01:23+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves ~1.7s / 1430.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-19T05:55:33+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1406.8KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 3860
+  "critical_count": 3863
 }
