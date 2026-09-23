@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:33:16+00:00",
+  "generated_at": "2026-09-23T05:12:34+00:00",
   "open": [
     {
       "time": "2026-09-23T00:33:07+00:00",
@@ -304,6 +304,18 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-23T05:12:31+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-23T05:12:30+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Load failure (HTTP 503, 0.3s)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-23T00:33:13+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves 1405.9KB)",
@@ -589,18 +601,6 @@
       "time": "2026-09-20T18:16:25+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 25/100 — Reduce unused JavaScript — auth-components-C6J671vO.js (saves 1384.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-20T18:16:23+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-20T18:16:22+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 41.9KB)",
       "status": "Resolved"
     }
   ],
