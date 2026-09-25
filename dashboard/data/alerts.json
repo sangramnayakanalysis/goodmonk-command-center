@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:50:03+00:00",
+  "generated_at": "2026-09-25T11:08:46+00:00",
   "open": [
     {
       "time": "2026-09-25T07:50:00+00:00",
@@ -304,6 +304,48 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-25T11:08:42+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-lWcndjz2.js (saves 1492.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T11:08:41+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 34/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T11:08:40+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-lWcndjz2.js (saves ~1.1s / 1487.7KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T11:08:39+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-lWcndjz2.js (saves ~10.3s / 1513.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T11:08:38+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-lWcndjz2.js (saves 1492.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T11:08:36+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-lWcndjz2.js (saves 1465.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T11:08:35+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-25T05:48:33+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1492.4KB)",
@@ -559,48 +601,6 @@
       "time": "2026-09-23T18:50:17+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-CoDxYUdw.js (saves 1431.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T14:53:34+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-CoDxYUdw.js (saves 1406.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T14:53:32+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves ~0.5s / 41.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T14:53:31+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-CoDxYUdw.js (saves ~0.1s / 1406.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T14:53:29+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-CoDxYUdw.js (saves ~1.4s / 1452.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T14:53:28+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-CoDxYUdw.js (saves 1431.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T10:00:35+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves ~0.3s / 1429.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T10:00:34+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves ~2.6s / 1425.5KB)",
       "status": "Resolved"
     }
   ],
