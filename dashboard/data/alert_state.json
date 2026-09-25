@@ -26,6 +26,51 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-09-25T01:38:43.903943+00:00",
+      "last_seen": "2026-09-25T01:38:43.903943+00:00",
+      "last_sent": "2026-09-25T01:38:43.903943+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 32/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BdDukzVm.js (saves 1465.9KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-09-25T01:38:48.322926+00:00",
+      "last_seen": "2026-09-25T01:38:48.322926+00:00",
+      "last_sent": "2026-09-25T01:38:48.322926+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BdDukzVm.js (saves 1466.1KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-09-25T01:38:50.494319+00:00",
+      "last_seen": "2026-09-25T01:38:50.494319+00:00",
+      "last_sent": "2026-09-25T01:38:50.494319+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BdDukzVm.js (saves ~0.1s / 1487.8KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-09-25T01:38:53.374888+00:00",
+      "last_seen": "2026-09-25T01:38:53.374888+00:00",
+      "last_sent": "2026-09-25T01:38:53.374888+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 44/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BdDukzVm.js (saves ~0.1s / 1466.0KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-09-25T01:38:56.247099+00:00",
+      "last_seen": "2026-09-25T01:38:56.247099+00:00",
+      "last_sent": "2026-09-25T01:38:56.247099+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BdDukzVm.js (saves 1492.4KB)"
     }
   }
 }
