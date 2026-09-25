@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-25T01:39:35+00:00",
+  "generated_at": "2026-09-25T05:48:36+00:00",
   "open": [
+    {
+      "time": "2026-09-25T05:48:26+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-25T01:38:57+00:00",
       "severity": "Critical",
@@ -294,15 +300,39 @@
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves ~0.3s / 1429.9KB)",
       "status": "Open"
-    },
-    {
-      "time": "2026-09-23T06:09:27+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves ~2.6s / 1425.5KB)",
-      "status": "Open"
     }
   ],
   "resolved": [
+    {
+      "time": "2026-09-25T05:48:33+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1492.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T05:48:31+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves ~0.1s / 1466.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T05:48:30+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves ~0.1s / 1487.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T05:48:29+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1466.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-25T05:48:27+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1465.9KB)",
+      "status": "Resolved"
+    },
     {
       "time": "2026-09-24T22:38:44+00:00",
       "severity": "Resolved",
@@ -572,37 +602,7 @@
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves ~2.6s / 1425.5KB)",
       "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T10:00:33+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 46/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 172.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T10:00:31+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves 1405.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T05:12:31+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T05:12:30+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Load failure (HTTP 503, 0.3s)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-23T00:33:13+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-SN0pDc_W.js (saves 1405.9KB)",
-      "status": "Resolved"
     }
   ],
-  "critical_count": 3965
+  "critical_count": 3966
 }
