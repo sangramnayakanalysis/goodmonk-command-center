@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:07:48+00:00",
+  "generated_at": "2026-09-27T10:46:03+00:00",
   "open": [
     {
       "time": "2026-09-27T08:07:45+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-09-27T10:46:00+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1467.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-27T10:45:58+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves ~2.8s / 1488.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-27T10:45:57+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves ~1.8s / 1514.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-09-27T10:45:55+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1492.9KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-09-27T05:33:49+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1468.5KB)",
@@ -577,30 +601,6 @@
       "time": "2026-09-25T05:48:29+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1466.1KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-25T05:48:27+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1465.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-24T22:38:44+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1465.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-24T22:38:43+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-09-24T22:38:42+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1466.4KB)",
       "status": "Resolved"
     }
   ],
