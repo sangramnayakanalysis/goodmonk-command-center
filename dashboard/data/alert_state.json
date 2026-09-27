@@ -2,48 +2,30 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-09-26T21:56:14.802883+00:00",
-      "last_sent": "2026-09-26T21:56:14.802883+00:00",
-      "count": 1096,
+      "last_seen": "2026-09-27T00:16:38.303434+00:00",
+      "last_sent": "2026-09-27T00:16:38.303434+00:00",
+      "count": 1097,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-09-26T21:56:34.220572+00:00",
-      "last_sent": "2026-09-26T21:56:34.220572+00:00",
-      "count": 1096,
+      "last_seen": "2026-09-27T00:17:00.767172+00:00",
+      "last_sent": "2026-09-27T00:17:00.767172+00:00",
+      "count": 1097,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "http_error:fnm": {
       "first_seen": "2026-08-25T06:42:09.162426+00:00",
-      "last_seen": "2026-09-26T21:56:16.856484+00:00",
-      "last_sent": "2026-09-26T21:56:16.856484+00:00",
-      "count": 238,
+      "last_seen": "2026-09-27T00:16:43.574754+00:00",
+      "last_sent": "2026-09-27T00:16:43.574754+00:00",
+      "count": 239,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
-    },
-    "perf_critical:collection": {
-      "first_seen": "2026-09-26T22:47:23.986161+00:00",
-      "last_seen": "2026-09-26T22:47:23.986161+00:00",
-      "last_sent": "2026-09-26T22:47:23.986161+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Mobile PageSpeed 44/100 \u2014 Reduce unused CSS \u2014 assests-Dm5yghLX.css (saves 56.0KB)"
-    },
-    "perf_critical:h50": {
-      "first_seen": "2026-09-26T22:47:25.689253+00:00",
-      "last_seen": "2026-09-26T22:47:25.689253+00:00",
-      "last_sent": "2026-09-26T22:47:25.689253+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "H50+ PDP",
-      "detail": "Mobile PageSpeed 39/100 \u2014 Reduce unused CSS \u2014 assests-Dm5yghLX.css (saves 42.8KB)"
     }
   }
 }
