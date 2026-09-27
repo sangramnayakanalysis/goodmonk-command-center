@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-27T05:33:53+00:00",
+  "generated_at": "2026-09-27T08:07:48+00:00",
   "open": [
+    {
+      "time": "2026-09-27T08:07:45+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1467.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-27T08:07:43+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves ~2.8s / 1488.2KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-27T08:07:41+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves ~1.8s / 1514.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-27T08:07:39+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1492.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-27T01:26:28+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-09-25T07:49:54+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-lWcndjz2.js (saves 1492.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-25T07:49:51+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-lWcndjz2.js (saves 1465.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-25T05:48:26+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Checkout initiation failed (HTTP 503)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-25T01:38:57+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves 1492.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-25T01:38:54+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BdDukzVm.js (saves ~0.1s / 1466.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4013
+  "critical_count": 4017
 }
