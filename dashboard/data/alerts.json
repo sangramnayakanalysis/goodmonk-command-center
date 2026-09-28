@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-27T22:10:29+00:00",
+  "generated_at": "2026-09-28T00:42:10+00:00",
   "open": [
+    {
+      "time": "2026-09-28T00:42:07+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1494.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-28T00:42:06+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-28T00:42:04+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves ~0.3s / 42.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-09-28T00:42:03+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1493.0KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-09-27T22:07:58+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-09-26T01:35:29+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1493.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-26T01:35:28+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves ~1.7s / 1512.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-26T01:35:26+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-Dm5yghLX.css (saves 42.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-26T01:35:24+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1487.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-09-26T01:35:13+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-DlkZTDWm.js (saves 1467.6KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4030
+  "critical_count": 4034
 }
