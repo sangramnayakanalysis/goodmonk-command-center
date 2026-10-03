@@ -26,6 +26,51 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-10-03T12:38:44.808837+00:00",
+      "last_seen": "2026-10-03T12:38:44.808837+00:00",
+      "last_sent": "2026-10-03T12:38:44.808837+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves 1488.8KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-10-03T12:38:47.382133+00:00",
+      "last_seen": "2026-10-03T12:38:47.382133+00:00",
+      "last_sent": "2026-10-03T12:38:47.382133+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves ~1.8s / 1508.8KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-10-03T12:38:49.259411+00:00",
+      "last_seen": "2026-10-03T12:38:49.259411+00:00",
+      "last_sent": "2026-10-03T12:38:49.259411+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 31/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves ~2.0s / 1510.1KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-10-03T12:38:50.579513+00:00",
+      "last_seen": "2026-10-03T12:38:50.579513+00:00",
+      "last_sent": "2026-10-03T12:38:50.579513+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 29/100 \u2014 Reduce unused CSS \u2014 assests-CpskTOBg.css (saves 43.3KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-10-03T12:38:51.834033+00:00",
+      "last_seen": "2026-10-03T12:38:51.834033+00:00",
+      "last_sent": "2026-10-03T12:38:51.834033+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 37/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves 1488.7KB)"
     }
   }
 }
