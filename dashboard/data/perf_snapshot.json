@@ -1,22 +1,22 @@
 {
-  "ran_at": "2026-10-05T08:59:08+00:00",
+  "ran_at": "2026-10-05T18:27:04+00:00",
   "pages": [
     {
       "page": "homepage",
       "name": "Homepage",
-      "mobile_score": 53,
-      "desktop_score": 64,
-      "lcp_ms": 15811,
+      "mobile_score": 57,
+      "desktop_score": 60,
+      "lcp_ms": 7681,
       "cls": 0.0,
-      "inp_ms": 212,
-      "ttfb_ms": 14,
-      "total_kb": 5942.3,
-      "image_kb": 1141.4,
-      "image_ratio": 0.19,
+      "inp_ms": 280,
+      "ttfb_ms": 18,
+      "total_kb": 4761.4,
+      "image_kb": 1140.5,
+      "image_ratio": 0.24,
       "top_issues": [
-        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves 43.0KB)",
-        "Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves ~2.4s / 1488.4KB)",
-        "Avoid enormous network payloads \u2014 auth-components-BHuolute.js"
+        "Reduce unused JavaScript \u2014 auth-components-BR5iVc-s.js (saves ~0.3s / 1514.6KB)",
+        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves ~0.1s / 192.1KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BR5iVc-s.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -25,18 +25,18 @@
       "page": "collection",
       "name": "Collection / Shop",
       "mobile_score": 37,
-      "desktop_score": 78,
-      "lcp_ms": 6963,
-      "cls": 0.0,
-      "inp_ms": 1499,
-      "ttfb_ms": 20,
-      "total_kb": 4924.5,
-      "image_kb": 656.3,
-      "image_ratio": 0.13,
+      "desktop_score": 71,
+      "lcp_ms": 7034,
+      "cls": 0.022,
+      "inp_ms": 1856,
+      "ttfb_ms": 14,
+      "total_kb": 5396.3,
+      "image_kb": 646.1,
+      "image_ratio": 0.12,
       "top_issues": [
-        "Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves 1489.0KB)",
-        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves ~0.1s / 56.6KB)",
-        "Avoid enormous network payloads \u2014 auth-components-BHuolute.js"
+        "Reduce unused JavaScript \u2014 auth-components-BR5iVc-s.js (saves 1488.3KB)",
+        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves ~0.1s / 56.5KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BR5iVc-s.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -44,19 +44,19 @@
     {
       "page": "h50",
       "name": "H50+ PDP",
-      "mobile_score": 46,
-      "desktop_score": 81,
-      "lcp_ms": 6181,
+      "mobile_score": 33,
+      "desktop_score": 75,
+      "lcp_ms": 6658,
       "cls": 0.0,
-      "inp_ms": 825,
-      "ttfb_ms": 11,
-      "total_kb": 5067.2,
-      "image_kb": 481.1,
-      "image_ratio": 0.09,
+      "inp_ms": 2819,
+      "ttfb_ms": 12,
+      "total_kb": 4689.7,
+      "image_kb": 480.7,
+      "image_ratio": 0.1,
       "top_issues": [
-        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves 43.3KB)",
-        "Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves ~0.1s / 1508.7KB)",
-        "Avoid enormous network payloads \u2014 auth-components-BHuolute.js"
+        "Reduce unused JavaScript \u2014 auth-components-BR5iVc-s.js (saves ~0.5s / 1510.4KB)",
+        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves ~0.5s / 43.4KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BR5iVc-s.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -64,19 +64,19 @@
     {
       "page": "fnm",
       "name": "Family Nutrition Mix",
-      "mobile_score": 37,
-      "desktop_score": 69,
-      "lcp_ms": 6231,
-      "cls": 0.009,
-      "inp_ms": 1825,
+      "mobile_score": 54,
+      "desktop_score": 70,
+      "lcp_ms": 15625,
+      "cls": 0.0,
+      "inp_ms": 166,
       "ttfb_ms": 10,
-      "total_kb": 4658.8,
-      "image_kb": 481.1,
-      "image_ratio": 0.1,
+      "total_kb": 5149.3,
+      "image_kb": 470.0,
+      "image_ratio": 0.09,
       "top_issues": [
-        "Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves 1509.0KB)",
-        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves 43.4KB)",
-        "Avoid enormous network payloads \u2014 auth-components-BHuolute.js"
+        "Reduce unused JavaScript \u2014 auth-components-BR5iVc-s.js (saves ~2.0s / 1535.2KB)",
+        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves ~0.1s / 43.4KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BR5iVc-s.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -84,19 +84,19 @@
     {
       "page": "protein",
       "name": "Protein PDP",
-      "mobile_score": 16,
-      "desktop_score": 69,
-      "lcp_ms": 6106,
-      "cls": 0.376,
-      "inp_ms": 4421,
-      "ttfb_ms": 11,
-      "total_kb": 5068.4,
-      "image_kb": 481.1,
+      "mobile_score": 52,
+      "desktop_score": 63,
+      "lcp_ms": 13915,
+      "cls": 0.0,
+      "inp_ms": 270,
+      "ttfb_ms": 10,
+      "total_kb": 5148.8,
+      "image_kb": 470.0,
       "image_ratio": 0.09,
       "top_issues": [
-        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves 43.3KB)",
-        "Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves ~0.1s / 1509.4KB)",
-        "Avoid enormous network payloads \u2014 auth-components-BHuolute.js"
+        "Reduce unused JavaScript \u2014 auth-components-BR5iVc-s.js (saves ~2.1s / 1534.4KB)",
+        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves ~0.0s / 43.3KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BR5iVc-s.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -104,19 +104,19 @@
     {
       "page": "checkout",
       "name": "Checkout",
-      "mobile_score": 44,
-      "desktop_score": 35,
-      "lcp_ms": 18040,
+      "mobile_score": 46,
+      "desktop_score": 48,
+      "lcp_ms": 18319,
       "cls": 0.0,
-      "inp_ms": 461,
-      "ttfb_ms": 15,
-      "total_kb": 7120.9,
-      "image_kb": 1159.4,
+      "inp_ms": 378,
+      "ttfb_ms": 14,
+      "total_kb": 7232.1,
+      "image_kb": 1170.1,
       "image_ratio": 0.16,
       "top_issues": [
-        "Reduce unused JavaScript \u2014 auth-components-BHuolute.js (saves 1513.7KB)",
-        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves 43.0KB)",
-        "Avoid enormous network payloads \u2014 auth-components-BHuolute.js"
+        "Reduce unused JavaScript \u2014 auth-components-BR5iVc-s.js (saves ~0.3s / 1489.2KB)",
+        "Reduce unused CSS \u2014 assests-CpskTOBg.css (saves ~0.1s / 43.1KB)",
+        "Avoid enormous network payloads \u2014 auth-components-BR5iVc-s.js"
       ],
       "weight_flag": true,
       "image_flag": false
