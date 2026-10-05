@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:27:07+00:00",
+  "generated_at": "2026-10-05T22:50:20+00:00",
   "open": [
     {
       "time": "2026-10-05T18:27:04+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-05T22:50:18+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BR5iVc-s.js (saves ~0.3s / 1489.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-05T22:50:17+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BR5iVc-s.js (saves ~0.5s / 1510.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-05T22:50:17+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BR5iVc-s.js (saves 1488.3KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-05T16:18:11+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1513.7KB)",
@@ -583,24 +601,6 @@
       "time": "2026-10-03T05:40:17+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves ~1.8s / 1534.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-03T05:40:16+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1488.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-03T05:40:15+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1467.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-03T00:30:31+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1488.6KB)",
       "status": "Resolved"
     }
   ],
