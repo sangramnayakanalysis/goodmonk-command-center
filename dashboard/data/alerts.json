@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:56:38+00:00",
+  "generated_at": "2026-10-05T07:26:17+00:00",
   "open": [
     {
       "time": "2026-10-05T01:56:35+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-05T07:26:13+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1489.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-05T07:26:10+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-05T07:26:09+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves ~1.5s / 1509.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-05T07:26:08+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.3KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-04T22:44:14+00:00",
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves ~5.7s / 1510.5KB)",
@@ -577,30 +601,6 @@
       "time": "2026-10-02T16:46:20+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1468.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-02T16:46:19+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 11/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-02T16:46:18+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-02T16:46:16+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 28/100 — Reduce unused CSS — assests-CpskTOBg.css (saves ~0.1s / 43.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-02T16:46:14+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1493.0KB)",
       "status": "Resolved"
     }
   ],
