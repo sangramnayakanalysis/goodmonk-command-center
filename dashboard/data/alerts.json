@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-05T01:18:47+00:00",
+  "generated_at": "2026-10-05T01:56:38+00:00",
   "open": [
+    {
+      "time": "2026-10-05T01:56:35+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1489.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-05T01:56:34+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-05T01:56:32+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves ~1.5s / 1509.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-05T01:56:31+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.3KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-10-04T22:24:56+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-10-02T16:21:57+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 27/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1468.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-02T16:21:56+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 11/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-02T16:21:54+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-02T16:21:53+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 28/100 — Reduce unused CSS — assests-CpskTOBg.css (saves ~0.1s / 43.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-02T16:21:52+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1493.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4182
+  "critical_count": 4186
 }
