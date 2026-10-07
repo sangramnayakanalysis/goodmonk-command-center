@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:42:51+00:00",
+  "generated_at": "2026-10-07T06:30:22+00:00",
   "open": [
     {
       "time": "2026-10-07T00:42:47+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-07T06:30:20+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-BR5iVc-s.js (saves 1515.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-07T06:30:19+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-07T06:30:18+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-BR5iVc-s.js (saves 1534.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-07T06:30:17+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BR5iVc-s.js (saves 1489.0KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-06T20:59:30+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BR5iVc-s.js (saves 1515.5KB)",
@@ -577,30 +601,6 @@
       "time": "2026-10-04T16:56:40+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1488.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-04T16:56:39+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves ~0.3s / 1514.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-04T12:21:16+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-CpskTOBg.css (saves 43.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-04T12:21:15+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves ~0.2s / 1513.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-04T12:21:14+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 18/100 — Reduce unused JavaScript — auth-components-BHuolute.js (saves 1489.5KB)",
       "status": "Resolved"
     }
   ],
