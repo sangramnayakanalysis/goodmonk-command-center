@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:31:36+00:00",
+  "generated_at": "2026-10-08T18:00:46+00:00",
   "best_page": {
     "page": "Collection / Shop",
     "value": 44.62
@@ -10,11 +10,11 @@
   },
   "fastest_page": {
     "page": "Family Nutrition Mix",
-    "value": 0.93
+    "value": 0.94
   },
   "slowest_page": {
     "page": "Add to Cart",
-    "value": 15.93
+    "value": 15.94
   },
-  "incidents": 99
+  "incidents": 102
 }
