@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-10T20:07:33+00:00",
+  "generated_at": "2026-10-10T21:55:44+00:00",
   "best_page": {
-    "page": "H50+ PDP",
-    "value": 44.93
+    "page": "Family Nutrition Mix",
+    "value": 44.71
   },
   "worst_page": {
     "page": "Checkout",
-    "value": 38.69
+    "value": 38.32
   },
   "fastest_page": {
     "page": "Family Nutrition Mix",
-    "value": 0.99
+    "value": 0.95
   },
   "slowest_page": {
     "page": "Add to Cart",
-    "value": 16.02
+    "value": 16.03
   },
   "incidents": 96
 }
