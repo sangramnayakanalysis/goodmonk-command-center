@@ -26,6 +26,51 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-10-10T08:30:39.338343+00:00",
+      "last_seen": "2026-10-10T08:30:39.338343+00:00",
+      "last_sent": "2026-10-10T08:30:39.338343+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 49/100 \u2014 Reduce unused CSS \u2014 assests-CIaT8Xay.css (saves 43.5KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-10-10T08:30:41.301162+00:00",
+      "last_seen": "2026-10-10T08:30:41.301162+00:00",
+      "last_sent": "2026-10-10T08:30:41.301162+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CdiADChS.js (saves 1503.2KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-10-10T08:30:42.637548+00:00",
+      "last_seen": "2026-10-10T08:30:42.637548+00:00",
+      "last_sent": "2026-10-10T08:30:42.637548+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 49/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CdiADChS.js (saves ~0.5s / 1550.0KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-10-10T08:30:43.892159+00:00",
+      "last_seen": "2026-10-10T08:30:43.892159+00:00",
+      "last_sent": "2026-10-10T08:30:43.892159+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 43/100 \u2014 Reduce unused CSS \u2014 assests-CIaT8Xay.css (saves 43.9KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-10-10T08:30:45.461718+00:00",
+      "last_seen": "2026-10-10T08:30:45.461718+00:00",
+      "last_sent": "2026-10-10T08:30:45.461718+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 44/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CdiADChS.js (saves 1503.5KB)"
     }
   }
 }
