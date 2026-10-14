@@ -26,6 +26,24 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-10-14T18:37:39.363592+00:00",
+      "last_seen": "2026-10-14T18:37:39.363592+00:00",
+      "last_sent": "2026-10-14T18:37:39.363592+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 42/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CdiADChS.js (saves ~10.0s / 1522.9KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-10-14T18:37:41.304072+00:00",
+      "last_seen": "2026-10-14T18:37:41.304072+00:00",
+      "last_sent": "2026-10-14T18:37:41.304072+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 33/100 \u2014 Reduce unused JavaScript \u2014 auth-components-CdiADChS.js (saves 1523.4KB)"
     }
   }
 }
