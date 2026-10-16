@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:27:05+00:00",
+  "generated_at": "2026-10-16T13:15:35+00:00",
   "open": [
     {
       "time": "2026-10-16T12:27:02+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-16T13:15:31+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 30/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 126.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-16T13:15:30+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-16T13:15:29+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-CnVNATYY.js (saves 1503.2KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-16T08:10:00+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
@@ -583,24 +601,6 @@
       "time": "2026-10-14T02:05:16+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 14/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves ~0.5s / 1503.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-14T02:05:16+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves ~0.1s / 1523.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-14T02:05:15+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves ~1.5s / 1522.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-14T02:05:14+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves 1548.6KB)",
       "status": "Resolved"
     }
   ],
