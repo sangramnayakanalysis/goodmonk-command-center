@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-16T03:07:15+00:00",
+  "generated_at": "2026-10-16T07:09:56+00:00",
   "open": [
+    {
+      "time": "2026-10-16T07:09:53+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-16T07:09:52+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves ~1.8s / 1522.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-16T07:09:51+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves ~0.1s / 1502.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-16T07:09:48+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves 1528.1KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-10-16T01:19:03+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-10-14T07:38:04+00:00",
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-14T07:38:02+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves 1502.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-14T07:38:01+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 21/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves 1503.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-14T01:56:19+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 14/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves ~0.5s / 1503.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-14T01:56:18+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CdiADChS.js (saves ~0.1s / 1523.6KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4398
+  "critical_count": 4402
 }
