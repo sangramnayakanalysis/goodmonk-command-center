@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:00:01+00:00",
+  "generated_at": "2026-10-18T01:02:08+00:00",
   "site": "https://goodmonk.in",
   "summary": {
     "site_status": "DEGRADED",
@@ -7,7 +7,7 @@
     "healthy": 3,
     "warning": 0,
     "critical": 3,
-    "avg_load_time": 3.44,
+    "avg_load_time": 3.62,
     "health_score": 50
   },
   "health_table": [
@@ -15,25 +15,25 @@
       "page": "Homepage",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.463,
+      "load_time": 1.789,
       "severity": "Healthy",
-      "last_checked": "2026-10-17T23:07:25+00:00"
+      "last_checked": "2026-10-18T01:01:37+00:00"
     },
     {
       "page": "Collection / Shop",
       "status": "PASS",
       "http": 200,
-      "load_time": 0.976,
+      "load_time": 1.027,
       "severity": "Healthy",
-      "last_checked": "2026-10-17T23:07:27+00:00"
+      "last_checked": "2026-10-18T01:01:39+00:00"
     },
     {
       "page": "H50+ PDP",
       "status": "FAILED",
       "http": 404,
-      "load_time": 0.679,
+      "load_time": 0.987,
       "severity": "Critical",
-      "last_checked": "2026-10-17T23:07:28+00:00"
+      "last_checked": "2026-10-18T01:01:40+00:00"
     },
     {
       "page": "Family Nutrition Mix",
@@ -41,23 +41,23 @@
       "http": 404,
       "load_time": 0.619,
       "severity": "Critical",
-      "last_checked": "2026-10-17T23:07:30+00:00"
+      "last_checked": "2026-10-18T01:01:41+00:00"
     },
     {
       "page": "Add to Cart",
       "status": "FAILED",
       "http": 0,
-      "load_time": 15.658,
+      "load_time": 15.851,
       "severity": "Critical",
-      "last_checked": "2026-10-17T23:07:47+00:00"
+      "last_checked": "2026-10-18T01:01:58+00:00"
     },
     {
       "page": "Checkout Init",
       "status": "PASS",
       "http": 200,
-      "load_time": 1.258,
+      "load_time": 1.425,
       "severity": "Healthy",
-      "last_checked": "2026-10-17T23:07:49+00:00"
+      "last_checked": "2026-10-18T01:01:59+00:00"
     }
   ],
   "break_grid": [
