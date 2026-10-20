@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:34:47+00:00",
+  "generated_at": "2026-10-20T22:30:24+00:00",
   "open": [
     {
       "time": "2026-10-20T20:34:44+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-20T22:30:21+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1522.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-20T22:30:20+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves ~2.2s / 1547.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-20T22:30:19+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-20T22:30:18+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1502.0KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-20T19:16:05+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1527.8KB)",
@@ -577,30 +601,6 @@
       "time": "2026-10-18T21:53:55+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1527.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-18T19:32:33+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 24/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1502.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-18T19:32:33+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves ~1.7s / 1523.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-18T19:32:32+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves ~1.8s / 1547.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-18T19:32:31+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves ~0.8s / 1526.7KB)",
       "status": "Resolved"
     }
   ],
