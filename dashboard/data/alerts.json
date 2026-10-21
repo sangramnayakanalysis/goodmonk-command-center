@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:36:40+00:00",
+  "generated_at": "2026-10-21T05:43:22+00:00",
   "open": [
     {
       "time": "2026-10-21T04:36:37+00:00",
@@ -304,6 +304,18 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-21T05:43:19+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-21T05:43:18+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1495.7KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-21T00:50:30+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1521.3KB)",
@@ -589,18 +601,6 @@
       "time": "2026-10-18T23:54:48+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1501.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-18T23:54:47+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1501.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-18T21:53:58+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1507.5KB)",
       "status": "Resolved"
     }
   ],
