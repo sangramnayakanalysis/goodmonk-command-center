@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-22T20:19:13+00:00",
+  "generated_at": "2026-10-22T23:21:40+00:00",
   "open": [
+    {
+      "time": "2026-10-22T23:21:37+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 25/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1497.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-22T23:21:35+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~1.9s / 1516.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-22T23:21:33+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 57.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-22T23:21:31+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.2KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-10-22T20:05:12+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-10-20T11:32:10+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-20T11:32:09+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 19/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-20T11:32:08+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 195.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-20T11:32:06+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1527.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-20T11:32:05+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.5KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4568
+  "critical_count": 4572
 }
