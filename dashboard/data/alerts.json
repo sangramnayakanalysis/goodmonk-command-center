@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-22T16:37:58+00:00",
+  "generated_at": "2026-10-22T20:05:15+00:00",
   "open": [
+    {
+      "time": "2026-10-22T20:05:12+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1520.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-22T20:05:10+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-22T20:05:08+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 26/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1500.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-10-22T10:08:38+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-10-20T11:32:05+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-20T06:02:26+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves ~0.1s / 1502.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-20T06:02:25+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves ~2.2s / 1527.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-20T06:02:23+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves ~10.7s / 1548.2KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4565
+  "critical_count": 4568
 }
