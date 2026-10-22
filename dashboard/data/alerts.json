@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:21:40+00:00",
+  "generated_at": "2026-10-22T23:30:25+00:00",
   "open": [
     {
       "time": "2026-10-22T23:21:37+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-22T23:30:21+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 25/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1497.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-22T23:30:20+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~1.9s / 1516.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-22T23:30:19+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 57.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-22T23:30:18+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.2KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-22T20:19:08+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1520.5KB)",
@@ -577,30 +601,6 @@
       "time": "2026-10-20T15:05:26+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-20T15:05:25+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 19/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-20T15:05:24+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 195.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-20T15:05:23+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-DG90l5VT.js (saves 1527.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-20T15:05:23+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 33/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.5KB)",
       "status": "Resolved"
     }
   ],
