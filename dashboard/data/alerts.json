@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:11:32+00:00",
+  "generated_at": "2026-10-23T23:31:52+00:00",
   "open": [
     {
       "time": "2026-10-23T22:11:29+00:00",
@@ -304,6 +304,36 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-23T23:31:50+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 26/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1497.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-23T23:31:49+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-23T23:31:48+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-23T23:31:47+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1495.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-23T23:31:46+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~0.3s / 1521.9KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-23T20:34:57+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.3KB)",
@@ -571,36 +601,6 @@
       "time": "2026-10-21T22:46:26+00:00",
       "severity": "Resolved",
       "issue": "Homepage: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-21T15:38:12+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BHPdYSdz.js (saves ~0.3s / 1496.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-21T15:38:11+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BHPdYSdz.js (saves ~10.5s / 1541.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-21T15:38:10+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BHPdYSdz.js (saves ~1.8s / 1496.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-21T15:38:09+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-21T15:38:08+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BHPdYSdz.js (saves 1496.0KB)",
       "status": "Resolved"
     }
   ],
