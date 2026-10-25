@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-25T06:32:18+00:00",
+  "generated_at": "2026-10-25T09:50:23+00:00",
   "open": [
+    {
+      "time": "2026-10-25T09:50:21+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~0.6s / 1522.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-25T09:50:19+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-25T09:50:17+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1522.3KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-10-25T04:36:27+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-10-23T19:11:45+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~6.2s / 1542.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-23T19:11:43+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-23T19:11:41+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1521.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-23T19:11:39+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.2KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4636
+  "critical_count": 4639
 }
