@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:51:37+00:00",
+  "generated_at": "2026-10-27T02:18:03+00:00",
   "open": [
     {
       "time": "2026-10-26T23:51:32+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-27T02:18:00+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-27T02:17:59+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~10.2s / 1522.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-27T02:17:58+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1495.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-27T02:17:57+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1522.9KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-26T19:44:38+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1522.3KB)",
@@ -577,30 +601,6 @@
       "time": "2026-10-24T23:17:26+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 45/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-24T23:17:25+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~2.7s / 1496.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-24T23:17:24+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1495.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-24T21:12:59+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-24T21:12:58+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~0.3s / 1517.1KB)",
       "status": "Resolved"
     }
   ],
