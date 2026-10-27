@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T02:18:03+00:00",
+  "generated_at": "2026-10-27T04:58:11+00:00",
   "best_page": {
     "page": "Protein PDP",
-    "value": 46.76
+    "value": 46.53
   },
   "worst_page": {
     "page": "Checkout",
-    "value": 38.84
+    "value": 38.58
   },
   "fastest_page": {
     "page": "H50+ PDP",
