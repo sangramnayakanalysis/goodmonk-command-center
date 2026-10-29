@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T20:20:09+00:00",
+  "generated_at": "2026-10-29T23:08:38+00:00",
   "best_page": {
     "page": "Protein PDP",
     "value": 44.51
@@ -14,7 +14,7 @@
   },
   "slowest_page": {
     "page": "Add to Cart",
-    "value": 15.92
+    "value": 15.91
   },
-  "incidents": 110
+  "incidents": 113
 }
