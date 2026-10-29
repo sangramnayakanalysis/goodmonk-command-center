@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-29T18:58:17+00:00",
+  "generated_at": "2026-10-29T20:20:09+00:00",
   "open": [
+    {
+      "time": "2026-10-29T20:20:07+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 31/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-29T20:20:06+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves ~1.9s / 1540.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-29T20:20:04+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves ~2.1s / 1519.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-29T20:20:03+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves 1519.7KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-29T20:20:01+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves 1498.1KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-10-29T14:17:23+00:00",
       "severity": "Critical",
@@ -269,36 +299,6 @@
       "time": "2026-10-27T16:33:02+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 24/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-27T04:58:09+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1522.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-27T04:58:08+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~1.9s / 1517.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-27T04:58:06+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-27T04:58:05+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1497.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-27T04:58:03+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1497.2KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4727
+  "critical_count": 4732
 }
