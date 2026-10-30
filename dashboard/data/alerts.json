@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:05:46+00:00",
+  "generated_at": "2026-10-30T09:00:58+00:00",
   "open": [
     {
       "time": "2026-10-30T07:05:44+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-30T09:00:55+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-30T09:00:54+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 46/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-30T09:00:53+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~2.6s / 1545.2KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-30T02:36:39+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves 1545.6KB)",
@@ -583,24 +601,6 @@
       "time": "2026-10-28T02:19:44+00:00",
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-28T02:19:43+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~0.1s / 1542.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-27T23:14:00+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-27T23:13:59+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 35/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.1KB)",
       "status": "Resolved"
     }
   ],
