@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-30T09:00:58+00:00",
+  "generated_at": "2026-10-30T14:06:28+00:00",
   "open": [
+    {
+      "time": "2026-10-30T14:06:25+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves 1536.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-30T14:06:24+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~0.1s / 1556.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-30T14:06:21+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~0.2s / 1536.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-10-30T14:06:20+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.7KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-10-30T07:05:44+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-10-28T08:24:46+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~1.6s / 1522.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-28T08:24:44+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1496.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-28T01:17:20+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves ~0.5s / 1522.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-28T01:17:19+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-BV6pNc_I.js (saves 1518.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-28T01:17:18+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 43/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4741
+  "critical_count": 4745
 }
