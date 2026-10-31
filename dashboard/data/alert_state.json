@@ -26,6 +26,33 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-10-31T05:28:38.147261+00:00",
+      "last_seen": "2026-10-31T05:28:38.147261+00:00",
+      "last_sent": "2026-10-31T05:28:38.147261+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 29/100 \u2014 Reduce unused JavaScript \u2014 auth-components-B8XHsrvR.js (saves 1537.3KB)"
+    },
+    "perf_critical:protein": {
+      "first_seen": "2026-10-31T05:28:41.159353+00:00",
+      "last_seen": "2026-10-31T05:28:41.159353+00:00",
+      "last_sent": "2026-10-31T05:28:41.159353+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Protein PDP",
+      "detail": "Mobile PageSpeed 50/100 \u2014 Reduce unused CSS \u2014 assests-CIaT8Xay.css (saves 43.8KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-10-31T05:28:42.391453+00:00",
+      "last_seen": "2026-10-31T05:28:42.391453+00:00",
+      "last_sent": "2026-10-31T05:28:42.391453+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 49/100 \u2014 Reduce unused JavaScript \u2014 auth-components-B8XHsrvR.js (saves ~0.3s / 1562.2KB)"
     }
   }
 }
