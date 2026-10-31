@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:28:45+00:00",
+  "generated_at": "2026-10-31T10:37:19+00:00",
   "open": [
     {
       "time": "2026-10-31T05:28:42+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-10-31T10:37:16+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~0.3s / 1562.2KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-31T10:37:15+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-10-31T10:37:15+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 29/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves 1537.3KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-10-30T23:57:24+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
@@ -583,24 +601,6 @@
       "time": "2026-10-29T00:26:36+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 34/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves ~2.8s / 1543.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-29T00:26:36+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves 1496.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-28T20:35:39+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves 1522.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-28T20:35:39+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 28/100 — Reduce unused JavaScript — auth-components-d8L2r0MB.js (saves ~2.4s / 1517.1KB)",
       "status": "Resolved"
     }
   ],
