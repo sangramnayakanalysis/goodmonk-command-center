@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:41:22+00:00",
+  "generated_at": "2026-11-02T20:06:58+00:00",
   "open": [
     {
       "time": "2026-11-02T15:41:19+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-02T20:06:55+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1526.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-02T20:06:54+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 46/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-02T20:06:53+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1499.4KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-02T09:58:55+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1537.7KB)",
@@ -583,24 +601,6 @@
       "time": "2026-10-30T20:23:40+00:00",
       "severity": "Resolved",
       "issue": "Protein PDP: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-30T20:23:40+00:00",
-      "severity": "Resolved",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-30T20:23:39+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-30T20:23:38+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~10.2s / 1561.4KB)",
       "status": "Resolved"
     }
   ],
