@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:56:21+00:00",
+  "generated_at": "2026-11-02T09:58:57+00:00",
   "open": [
     {
       "time": "2026-11-02T05:56:19+00:00",
@@ -304,6 +304,30 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-02T09:58:55+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1537.7KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-02T09:58:54+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 42/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-02T09:58:53+00:00",
+      "severity": "Resolved",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1583.6KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-02T09:58:52+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.8KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-02T02:41:05+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1516.9KB)",
@@ -577,30 +601,6 @@
       "time": "2026-10-30T20:23:38+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~10.2s / 1561.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-30T20:23:37+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves 1563.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-30T15:49:37+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves 1536.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-30T15:49:36+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~0.1s / 1556.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-10-30T15:49:35+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-B8XHsrvR.js (saves ~0.2s / 1536.0KB)",
       "status": "Resolved"
     }
   ],
