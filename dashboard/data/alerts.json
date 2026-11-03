@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-03T17:32:26+00:00",
+  "generated_at": "2026-11-03T21:01:45+00:00",
   "open": [
+    {
+      "time": "2026-11-03T21:01:41+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1553.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-03T21:01:39+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1552.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-03T21:01:37+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1551.8KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-03T15:05:13+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-10-31T21:31:10+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1563.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-31T21:31:08+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1536.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-31T17:44:16+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1537.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-10-31T17:44:14+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves ~1.1s / 1584.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4813
+  "critical_count": 4816
 }
