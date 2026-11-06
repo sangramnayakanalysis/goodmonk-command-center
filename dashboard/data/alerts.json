@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-06T19:52:21+00:00",
+  "generated_at": "2026-11-06T23:05:50+00:00",
   "open": [
+    {
+      "time": "2026-11-06T23:05:46+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-06T23:05:44+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~2.2s / 1619.5KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-06T23:05:41+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1572.6KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-06T17:31:04+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-11-04T01:19:41+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves ~0.1s / 1578.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-04T01:19:38+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves ~0.1s / 1552.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-03T21:01:41+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1553.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-03T21:01:39+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1552.9KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4864
+  "critical_count": 4867
 }
