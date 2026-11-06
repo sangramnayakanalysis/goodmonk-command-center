@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-05T23:49:35+00:00",
+  "generated_at": "2026-11-06T01:35:47+00:00",
   "open": [
+    {
+      "time": "2026-11-06T01:35:45+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1619.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-06T01:35:44+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~1.2s / 1638.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-06T01:35:43+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1619.6KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-06T01:35:40+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 50/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.6KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-05T20:42:29+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-11-02T23:32:31+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-02T23:32:30+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-02T23:32:29+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-02T23:32:27+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 32/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves ~1.8s / 1546.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-02T23:32:25+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 30/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1500.1KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4849
+  "critical_count": 4853
 }
