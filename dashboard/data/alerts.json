@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:05:50+00:00",
+  "generated_at": "2026-11-07T00:04:43+00:00",
   "open": [
     {
       "time": "2026-11-06T23:05:46+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-07T00:04:40+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-07T00:04:39+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~2.2s / 1619.5KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-07T00:04:38+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1572.6KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-06T19:52:18+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1593.9KB)",
@@ -583,24 +601,6 @@
       "time": "2026-11-04T02:43:12+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves ~0.1s / 1578.0KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-04T02:43:12+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves ~0.1s / 1552.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-03T22:31:39+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1553.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-03T22:31:38+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-C2i6818r.js (saves 1552.9KB)",
       "status": "Resolved"
     }
   ],

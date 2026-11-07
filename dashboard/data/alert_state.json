@@ -2,57 +2,30 @@
   "open": {
     "http_error:h50": {
       "first_seen": "2026-06-24T08:34:16.671235+00:00",
-      "last_seen": "2026-11-06T19:51:52.109049+00:00",
-      "last_sent": "2026-11-06T19:51:52.109049+00:00",
-      "count": 1299,
+      "last_seen": "2026-11-07T00:04:17.947502+00:00",
+      "last_sent": "2026-11-07T00:04:17.947502+00:00",
+      "count": 1300,
       "severity": "Critical",
       "page": "H50+ PDP",
       "detail": "Load failure (HTTP 0, 0.0s)"
     },
     "atc_failed": {
       "first_seen": "2026-06-24T08:34:31.676715+00:00",
-      "last_seen": "2026-11-06T19:52:10.543265+00:00",
-      "last_sent": "2026-11-06T19:52:10.543265+00:00",
-      "count": 1299,
+      "last_seen": "2026-11-07T00:04:35.836375+00:00",
+      "last_sent": "2026-11-07T00:04:35.836375+00:00",
+      "count": 1300,
       "severity": "Critical",
       "page": "Add to Cart",
       "detail": "Add to Cart step failed"
     },
     "http_error:fnm": {
       "first_seen": "2026-08-25T06:42:09.162426+00:00",
-      "last_seen": "2026-11-06T19:51:53.878467+00:00",
-      "last_sent": "2026-11-06T19:51:53.878467+00:00",
-      "count": 441,
+      "last_seen": "2026-11-07T00:04:19.422880+00:00",
+      "last_sent": "2026-11-07T00:04:19.422880+00:00",
+      "count": 442,
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
-    },
-    "perf_critical:homepage": {
-      "first_seen": "2026-11-06T23:05:41.234063+00:00",
-      "last_seen": "2026-11-06T23:05:41.234063+00:00",
-      "last_sent": "2026-11-06T23:05:41.234063+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Homepage",
-      "detail": "Mobile PageSpeed 44/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BqJJEc0A.js (saves 1572.6KB)"
-    },
-    "perf_critical:collection": {
-      "first_seen": "2026-11-06T23:05:43.620678+00:00",
-      "last_seen": "2026-11-06T23:05:43.620678+00:00",
-      "last_sent": "2026-11-06T23:05:43.620678+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Collection / Shop",
-      "detail": "Mobile PageSpeed 36/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BqJJEc0A.js (saves ~2.2s / 1619.5KB)"
-    },
-    "perf_critical:protein": {
-      "first_seen": "2026-11-06T23:05:45.717436+00:00",
-      "last_seen": "2026-11-06T23:05:45.717436+00:00",
-      "last_sent": "2026-11-06T23:05:45.717436+00:00",
-      "count": 1,
-      "severity": "Critical",
-      "page": "Protein PDP",
-      "detail": "Mobile PageSpeed 35/100 \u2014 Reduce unused CSS \u2014 assests-CIaT8Xay.css (saves 43.9KB)"
     }
   }
 }
