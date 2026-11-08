@@ -26,6 +26,24 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-11-08T19:36:30.056735+00:00",
+      "last_seen": "2026-11-08T19:36:30.056735+00:00",
+      "last_sent": "2026-11-08T19:36:30.056735+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 47/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BqJJEc0A.js (saves 1593.3KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-11-08T19:36:34.243712+00:00",
+      "last_seen": "2026-11-08T19:36:34.243712+00:00",
+      "last_sent": "2026-11-08T19:36:34.243712+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 41/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BqJJEc0A.js (saves 1594.0KB)"
     }
   }
 }
