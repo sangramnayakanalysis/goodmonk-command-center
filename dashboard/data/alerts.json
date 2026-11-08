@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-08T22:20:18+00:00",
+  "generated_at": "2026-11-08T23:43:58+00:00",
   "open": [
+    {
+      "time": "2026-11-08T23:43:55+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1619.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-08T23:43:53+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1593.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-08T23:43:51+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1620.0KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-08T19:36:34+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-11-05T20:42:26+00:00",
       "severity": "Critical",
       "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1618.5KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-05T20:42:25+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~4.8s / 1616.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-05T20:42:23+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1620.2KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-05T12:18:04+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1618.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4892
+  "critical_count": 4895
 }
