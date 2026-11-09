@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:43:58+00:00",
+  "generated_at": "2026-11-09T01:50:24+00:00",
   "open": [
     {
       "time": "2026-11-08T23:43:55+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-09T01:50:21+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1619.3KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-09T01:50:20+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1593.9KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-09T01:50:20+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1620.0KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-08T22:20:14+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1594.0KB)",
@@ -583,24 +601,6 @@
       "time": "2026-11-05T23:49:31+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1618.5KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-05T23:49:30+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~4.8s / 1616.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-05T23:49:29+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1620.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-05T18:30:35+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1618.0KB)",
       "status": "Resolved"
     }
   ],
