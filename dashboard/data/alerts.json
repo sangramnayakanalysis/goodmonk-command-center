@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-12T07:31:13+00:00",
+  "generated_at": "2026-11-12T09:46:48+00:00",
   "open": [
+    {
+      "time": "2026-11-12T09:46:45+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~0.1s / 1602.3KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-12T01:33:47+00:00",
       "severity": "Critical",
@@ -293,12 +299,6 @@
       "time": "2026-11-08T15:07:05+00:00",
       "severity": "Critical",
       "issue": "Homepage: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1594.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-08T07:16:50+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 42/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1620.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4935
+  "critical_count": 4936
 }

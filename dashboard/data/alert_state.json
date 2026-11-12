@@ -26,6 +26,15 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-11-12T09:46:45.069616+00:00",
+      "last_seen": "2026-11-12T09:46:45.069616+00:00",
+      "last_sent": "2026-11-12T09:46:45.069616+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 39/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BqJJEc0A.js (saves ~0.1s / 1602.3KB)"
     }
   }
 }
