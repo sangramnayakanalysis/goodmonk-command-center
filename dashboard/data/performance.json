@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:04:08+00:00",
+  "generated_at": "2026-11-13T22:35:46+00:00",
   "benchmarks": {
     "lcp_ms": 2500,
     "cls": 0.1,
@@ -10,19 +10,19 @@
     {
       "page": "homepage",
       "name": "Homepage",
-      "mobile_score": 45,
-      "desktop_score": 69,
-      "lcp_ms": 6631,
-      "cls": 0.244,
-      "inp_ms": 511,
-      "ttfb_ms": 20,
-      "total_kb": 5492.2,
-      "image_kb": 1134.6,
-      "image_ratio": 0.21,
+      "mobile_score": 60,
+      "desktop_score": 79,
+      "lcp_ms": 6827,
+      "cls": 0.0,
+      "inp_ms": 423,
+      "ttfb_ms": 18,
+      "total_kb": 5647.1,
+      "image_kb": 1133.4,
+      "image_ratio": 0.2,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1581.7KB)",
-        "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 43.7KB)",
-        "Avoid enormous network payloads — auth-components-BqJJEc0A.js"
+        "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.3s / 1555.9KB)",
+        "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 43.6KB)",
+        "Avoid enormous network payloads — auth-components-CcRaSDx_.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -30,19 +30,19 @@
     {
       "page": "collection",
       "name": "Collection / Shop",
-      "mobile_score": 58,
-      "desktop_score": 74,
-      "lcp_ms": 6481,
-      "cls": 0.001,
-      "inp_ms": 580,
-      "ttfb_ms": 17,
-      "total_kb": 5006.5,
-      "image_kb": 652.3,
+      "mobile_score": 30,
+      "desktop_score": 83,
+      "lcp_ms": 6527,
+      "cls": 0.244,
+      "inp_ms": 1424,
+      "ttfb_ms": 18,
+      "total_kb": 4943.2,
+      "image_kb": 651.6,
       "image_ratio": 0.13,
       "top_issues": [
-        "Reduce unused CSS — assests-CIaT8Xay.css (saves 57.4KB)",
-        "Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~0.1s / 1581.6KB)",
-        "Avoid enormous network payloads — auth-components-BqJJEc0A.js"
+        "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1555.9KB)",
+        "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 57.4KB)",
+        "Avoid enormous network payloads — auth-components-CcRaSDx_.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -51,18 +51,18 @@
       "page": "h50",
       "name": "H50+ PDP",
       "mobile_score": 47,
-      "desktop_score": 81,
-      "lcp_ms": 5581,
+      "desktop_score": 67,
+      "lcp_ms": 11375,
       "cls": 0.0,
-      "inp_ms": 1456,
-      "ttfb_ms": 13,
-      "total_kb": 4601.4,
-      "image_kb": 481.1,
+      "inp_ms": 580,
+      "ttfb_ms": 14,
+      "total_kb": 4763.3,
+      "image_kb": 480.5,
       "image_ratio": 0.1,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1577.0KB)",
-        "Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-        "Avoid enormous network payloads — auth-components-BqJJEc0A.js"
+        "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~1.7s / 1601.7KB)",
+        "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 43.9KB)",
+        "Avoid enormous network payloads — auth-components-CcRaSDx_.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -71,18 +71,18 @@
       "page": "fnm",
       "name": "Family Nutrition Mix",
       "mobile_score": 54,
-      "desktop_score": 63,
-      "lcp_ms": 6304,
+      "desktop_score": 56,
+      "lcp_ms": 6294,
       "cls": 0.0,
-      "inp_ms": 286,
-      "ttfb_ms": 11,
-      "total_kb": 4704.4,
-      "image_kb": 480.4,
+      "inp_ms": 280,
+      "ttfb_ms": 14,
+      "total_kb": 4794.1,
+      "image_kb": 480.5,
       "image_ratio": 0.1,
       "top_issues": [
         "Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-        "Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~0.9s / 1581.2KB)",
-        "Avoid enormous network payloads — auth-components-BqJJEc0A.js"
+        "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.9s / 1580.8KB)",
+        "Avoid enormous network payloads — auth-components-CcRaSDx_.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -91,18 +91,18 @@
       "page": "protein",
       "name": "Protein PDP",
       "mobile_score": 46,
-      "desktop_score": 67,
-      "lcp_ms": 5656,
+      "desktop_score": 70,
+      "lcp_ms": 5627,
       "cls": 0.009,
-      "inp_ms": 2619,
-      "ttfb_ms": 16,
-      "total_kb": 4658.0,
-      "image_kb": 480.4,
+      "inp_ms": 1718,
+      "ttfb_ms": 13,
+      "total_kb": 4873.6,
+      "image_kb": 480.5,
       "image_ratio": 0.1,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~0.1s / 1602.1KB)",
-        "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 44.0KB)",
-        "Avoid enormous network payloads — auth-components-BqJJEc0A.js"
+        "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.1s / 1577.3KB)",
+        "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 43.9KB)",
+        "Avoid enormous network payloads — auth-components-CcRaSDx_.js"
       ],
       "weight_flag": true,
       "image_flag": false
@@ -110,19 +110,19 @@
     {
       "page": "checkout",
       "name": "Checkout",
-      "mobile_score": 40,
-      "desktop_score": 54,
-      "lcp_ms": 13998,
+      "mobile_score": 47,
+      "desktop_score": 53,
+      "lcp_ms": 14126,
       "cls": 0.0,
-      "inp_ms": 1458,
-      "ttfb_ms": 22,
-      "total_kb": 6923.4,
+      "inp_ms": 775,
+      "ttfb_ms": 18,
+      "total_kb": 6917.4,
       "image_kb": 1151.5,
       "image_ratio": 0.17,
       "top_issues": [
-        "Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1534.4KB)",
-        "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 43.6KB)",
-        "Avoid enormous network payloads — auth-components-BqJJEc0A.js"
+        "Reduce unused CSS — assests-CIaT8Xay.css (saves 43.7KB)",
+        "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.1s / 1556.6KB)",
+        "Avoid enormous network payloads — auth-components-CcRaSDx_.js"
       ],
       "weight_flag": true,
       "image_flag": false
