@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-11-14T21:06:03+00:00",
+  "generated_at": "2026-11-14T21:27:21+00:00",
   "diagnostics": [
     {
-      "page": "Family Nutrition Mix",
-      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves 44.0KB)",
-      "impact": "High",
-      "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 34
-    },
-    {
-      "page": "Family Nutrition Mix",
-      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.5s / 1602.3KB)",
+      "page": "H50+ PDP",
+      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~1.7s / 1601.7KB)",
       "impact": "High",
       "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 34
-    },
-    {
-      "page": "Family Nutrition Mix",
-      "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
-      "impact": "High",
-      "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 34
-    },
-    {
-      "page": "Protein PDP",
-      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
-      "impact": "High",
-      "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 36
-    },
-    {
-      "page": "Protein PDP",
-      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.5s / 1602.5KB)",
-      "impact": "High",
-      "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 36
-    },
-    {
-      "page": "Protein PDP",
-      "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
-      "impact": "High",
-      "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 36
+      "mobile_score": 32
     },
     {
       "page": "H50+ PDP",
-      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves 43.9KB)",
+      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.0s / 44.0KB)",
       "impact": "High",
       "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 46
-    },
-    {
-      "page": "H50+ PDP",
-      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.5s / 1581.5KB)",
-      "impact": "High",
-      "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 46
+      "mobile_score": 32
     },
     {
       "page": "H50+ PDP",
       "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
       "impact": "High",
       "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 46
-    },
-    {
-      "page": "Homepage",
-      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1555.9KB)",
-      "impact": "High",
-      "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 48
-    },
-    {
-      "page": "Homepage",
-      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves 43.7KB)",
-      "impact": "High",
-      "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 48
-    },
-    {
-      "page": "Homepage",
-      "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
-      "impact": "High",
-      "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 48
+      "mobile_score": 32
     },
     {
       "page": "Checkout",
-      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.1s / 1556.5KB)",
-      "impact": "Medium",
-      "fix": "Code-split and remove unused app/theme JS bundles.",
-      "mobile_score": 51
+      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves 43.6KB)",
+      "impact": "High",
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 45
     },
     {
       "page": "Checkout",
-      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 43.7KB)",
-      "impact": "Medium",
-      "fix": "Purge unused theme CSS; split per-template stylesheets.",
-      "mobile_score": 51
+      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.1s / 1582.1KB)",
+      "impact": "High",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 45
     },
     {
       "page": "Checkout",
       "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
-      "impact": "Medium",
+      "impact": "High",
       "fix": "Review the PageSpeed opportunity detail for this page.",
-      "mobile_score": 51
+      "mobile_score": 45
     },
     {
       "page": "Collection / Shop",
-      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1581.2KB)",
+      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1581.5KB)",
+      "impact": "High",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 47
+    },
+    {
+      "page": "Collection / Shop",
+      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves 57.4KB)",
+      "impact": "High",
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 47
+    },
+    {
+      "page": "Collection / Shop",
+      "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
+      "impact": "High",
+      "fix": "Review the PageSpeed opportunity detail for this page.",
+      "mobile_score": 47
+    },
+    {
+      "page": "Homepage",
+      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1582.4KB)",
+      "impact": "Medium",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 56
+    },
+    {
+      "page": "Homepage",
+      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 43.6KB)",
+      "impact": "Medium",
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 56
+    },
+    {
+      "page": "Homepage",
+      "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
+      "impact": "Medium",
+      "fix": "Review the PageSpeed opportunity detail for this page.",
+      "mobile_score": 56
+    },
+    {
+      "page": "Family Nutrition Mix",
+      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.3s / 1602.2KB)",
       "impact": "Medium",
       "fix": "Code-split and remove unused app/theme JS bundles.",
       "mobile_score": 64
     },
     {
-      "page": "Collection / Shop",
-      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 57.5KB)",
+      "page": "Family Nutrition Mix",
+      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 44.0KB)",
       "impact": "Medium",
       "fix": "Purge unused theme CSS; split per-template stylesheets.",
       "mobile_score": 64
     },
     {
-      "page": "Collection / Shop",
+      "page": "Family Nutrition Mix",
+      "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
+      "impact": "Medium",
+      "fix": "Review the PageSpeed opportunity detail for this page.",
+      "mobile_score": 64
+    },
+    {
+      "page": "Protein PDP",
+      "issue": "Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.3s / 1602.1KB)",
+      "impact": "Medium",
+      "fix": "Code-split and remove unused app/theme JS bundles.",
+      "mobile_score": 64
+    },
+    {
+      "page": "Protein PDP",
+      "issue": "Reduce unused CSS — assests-CIaT8Xay.css (saves ~0.1s / 44.0KB)",
+      "impact": "Medium",
+      "fix": "Purge unused theme CSS; split per-template stylesheets.",
+      "mobile_score": 64
+    },
+    {
+      "page": "Protein PDP",
       "issue": "Avoid enormous network payloads — auth-components-CcRaSDx_.js",
       "impact": "Medium",
       "fix": "Review the PageSpeed opportunity detail for this page.",
