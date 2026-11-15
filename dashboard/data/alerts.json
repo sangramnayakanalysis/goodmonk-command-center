@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-15T07:51:38+00:00",
+  "generated_at": "2026-11-15T09:18:05+00:00",
   "open": [
+    {
+      "time": "2026-11-15T09:18:03+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1556.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-15T09:18:01+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 44.0KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-15T09:17:59+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~2.2s / 1581.7KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-15T01:51:56+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-11-11T18:42:30+00:00",
       "severity": "Critical",
       "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1555.6KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-11T10:49:10+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~0.1s / 1575.8KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-11T02:49:49+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1555.9KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-11T02:49:47+00:00",
-      "severity": "Critical",
-      "issue": "Protein PDP: Mobile PageSpeed 44/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 44.0KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 4975
+  "critical_count": 4978
 }
