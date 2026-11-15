@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:18:05+00:00",
+  "generated_at": "2026-11-15T15:19:48+00:00",
   "open": [
     {
       "time": "2026-11-15T09:18:03+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-15T15:19:43+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1556.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-15T15:19:42+00:00",
+      "severity": "Resolved",
+      "issue": "H50+ PDP: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 44.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-15T15:19:41+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~2.2s / 1581.7KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-15T07:51:35+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1555.2KB)",
@@ -583,24 +601,6 @@
       "time": "2026-11-12T00:23:43+00:00",
       "severity": "Resolved",
       "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1555.6KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-11T17:59:07+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 45/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~0.1s / 1575.8KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-11T02:55:02+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1555.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-11T02:55:01+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 44/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 44.0KB)",
       "status": "Resolved"
     }
   ],
