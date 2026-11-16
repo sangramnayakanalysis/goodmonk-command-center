@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T01:58:12+00:00",
+  "generated_at": "2026-11-16T06:39:09+00:00",
   "open": [
     {
       "time": "2026-11-16T01:58:09+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-16T06:39:05+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1556.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-16T06:39:04+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.1s / 1555.1KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-16T06:39:03+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 31/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1556.3KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-16T00:14:56+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1556.5KB)",
@@ -583,24 +601,6 @@
       "time": "2026-11-12T16:16:13+00:00",
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves ~0.1s / 1602.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-12T07:31:10+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1582.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-12T07:31:10+00:00",
-      "severity": "Resolved",
-      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1581.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-12T07:31:09+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 46/100 — Reduce unused JavaScript — auth-components-BqJJEc0A.js (saves 1582.0KB)",
       "status": "Resolved"
     }
   ],
