@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:54:24+00:00",
+  "generated_at": "2026-11-18T23:00:52+00:00",
   "open": [
     {
       "time": "2026-11-18T21:54:20+00:00",
@@ -304,6 +304,18 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-18T23:00:50+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-80A58ELy.js (saves ~4.4s / 1593.4KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-18T23:00:49+00:00",
+      "severity": "Resolved",
+      "issue": "Homepage: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-80A58ELy.js (saves 1593.8KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-18T16:27:16+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 36/100 — Reduce unused JavaScript — auth-components-80A58ELy.js (saves 1568.3KB)",
@@ -589,18 +601,6 @@
       "time": "2026-11-14T03:34:07+00:00",
       "severity": "Resolved",
       "issue": "H50+ PDP: Mobile PageSpeed 38/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves ~0.1s / 1576.4KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-14T03:34:06+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1582.2KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-13T23:32:01+00:00",
-      "severity": "Resolved",
-      "issue": "Checkout: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-CIaT8Xay.css (saves 43.7KB)",
       "status": "Resolved"
     }
   ],
