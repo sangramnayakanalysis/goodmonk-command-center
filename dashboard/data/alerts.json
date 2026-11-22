@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-22T01:17:51+00:00",
+  "generated_at": "2026-11-22T03:07:03+00:00",
   "open": [
+    {
+      "time": "2026-11-22T03:07:00+00:00",
+      "severity": "Critical",
+      "issue": "Protein PDP: Mobile PageSpeed 45/100 — Reduce unused CSS — assests-De2D39rz.css (saves 44.1KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-22T03:06:58+00:00",
+      "severity": "Critical",
+      "issue": "Family Nutrition Mix: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-BWHYHeMl.js (saves ~1.1s / 1589.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-22T03:06:57+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 33/100 — Reduce unused JavaScript — auth-components-BWHYHeMl.js (saves ~6.4s / 1567.9KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-22T03:06:55+00:00",
+      "severity": "Critical",
+      "issue": "Homepage: Mobile PageSpeed 41/100 — Reduce unused CSS — assests-De2D39rz.css (saves 43.8KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-21T23:09:07+00:00",
       "severity": "Critical",
@@ -275,30 +299,6 @@
       "time": "2026-11-17T22:16:34+00:00",
       "severity": "Critical",
       "issue": "Protein PDP: Mobile PageSpeed 47/100 — Reduce unused CSS — assests-De2D39rz.css (saves 44.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-17T22:16:33+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 36/100 — Reduce unused CSS — assests-De2D39rz.css (saves 44.0KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-17T22:16:31+00:00",
-      "severity": "Critical",
-      "issue": "H50+ PDP: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-De2D39rz.css (saves 44.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-17T22:16:30+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-80A58ELy.js (saves ~2.2s / 1591.3KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-17T13:14:18+00:00",
-      "severity": "Critical",
-      "issue": "Checkout: Mobile PageSpeed 44/100 — Reduce unused JavaScript — auth-components-CcRaSDx_.js (saves 1581.8KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 5043
+  "critical_count": 5047
 }
