@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-23T02:44:49+00:00",
+  "generated_at": "2026-11-23T08:59:19+00:00",
   "open": [
+    {
+      "time": "2026-11-23T08:59:16+00:00",
+      "severity": "Critical",
+      "issue": "Checkout: Mobile PageSpeed 49/100 — Reduce unused JavaScript — auth-components-IS6Ptk-b.js (saves ~0.1s / 1567.4KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-23T08:59:14+00:00",
+      "severity": "Critical",
+      "issue": "H50+ PDP: Mobile PageSpeed 37/100 — Reduce unused JavaScript — auth-components-IS6Ptk-b.js (saves ~1.1s / 1589.3KB)",
+      "status": "Open"
+    },
+    {
+      "time": "2026-11-23T08:59:13+00:00",
+      "severity": "Critical",
+      "issue": "Collection / Shop: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-IS6Ptk-b.js (saves 1593.9KB)",
+      "status": "Open"
+    },
     {
       "time": "2026-11-23T00:51:24+00:00",
       "severity": "Critical",
@@ -281,24 +299,6 @@
       "time": "2026-11-19T03:17:52+00:00",
       "severity": "Critical",
       "issue": "Checkout: Mobile PageSpeed 40/100 — Reduce unused JavaScript — auth-components-80A58ELy.js (saves 1551.7KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-19T03:17:50+00:00",
-      "severity": "Critical",
-      "issue": "Family Nutrition Mix: Mobile PageSpeed 49/100 — Reduce unused CSS — assests-De2D39rz.css (saves 44.1KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-18T21:54:20+00:00",
-      "severity": "Critical",
-      "issue": "Collection / Shop: Mobile PageSpeed 48/100 — Reduce unused JavaScript — auth-components-80A58ELy.js (saves ~4.4s / 1593.4KB)",
-      "status": "Open"
-    },
-    {
-      "time": "2026-11-18T21:54:17+00:00",
-      "severity": "Critical",
-      "issue": "Homepage: Mobile PageSpeed 43/100 — Reduce unused JavaScript — auth-components-80A58ELy.js (saves 1593.8KB)",
       "status": "Open"
     }
   ],
@@ -604,5 +604,5 @@
       "status": "Resolved"
     }
   ],
-  "critical_count": 5056
+  "critical_count": 5059
 }

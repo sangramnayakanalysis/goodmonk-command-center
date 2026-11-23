@@ -26,6 +26,33 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-11-23T08:59:12.760369+00:00",
+      "last_seen": "2026-11-23T08:59:12.760369+00:00",
+      "last_sent": "2026-11-23T08:59:12.760369+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 48/100 \u2014 Reduce unused JavaScript \u2014 auth-components-IS6Ptk-b.js (saves 1593.9KB)"
+    },
+    "perf_critical:h50": {
+      "first_seen": "2026-11-23T08:59:14.346481+00:00",
+      "last_seen": "2026-11-23T08:59:14.346481+00:00",
+      "last_sent": "2026-11-23T08:59:14.346481+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "H50+ PDP",
+      "detail": "Mobile PageSpeed 37/100 \u2014 Reduce unused JavaScript \u2014 auth-components-IS6Ptk-b.js (saves ~1.1s / 1589.3KB)"
+    },
+    "perf_critical:checkout": {
+      "first_seen": "2026-11-23T08:59:16.175580+00:00",
+      "last_seen": "2026-11-23T08:59:16.175580+00:00",
+      "last_sent": "2026-11-23T08:59:16.175580+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Checkout",
+      "detail": "Mobile PageSpeed 49/100 \u2014 Reduce unused JavaScript \u2014 auth-components-IS6Ptk-b.js (saves ~0.1s / 1567.4KB)"
     }
   }
 }
