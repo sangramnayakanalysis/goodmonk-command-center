@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:30:16+00:00",
+  "generated_at": "2026-11-26T03:33:30+00:00",
   "open": [
     {
       "time": "2026-11-25T22:30:12+00:00",
@@ -304,6 +304,24 @@
   ],
   "resolved": [
     {
+      "time": "2026-11-26T03:33:26+00:00",
+      "severity": "Resolved",
+      "issue": "Checkout: Mobile PageSpeed 41/100 — Reduce unused JavaScript — auth-components-BholScEz.js (saves 1571.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-26T03:33:25+00:00",
+      "severity": "Resolved",
+      "issue": "Protein PDP: Mobile PageSpeed 48/100 — Reduce unused CSS — assests-Bvel4tgS.css (saves 44.0KB)",
+      "status": "Resolved"
+    },
+    {
+      "time": "2026-11-26T03:33:24+00:00",
+      "severity": "Resolved",
+      "issue": "Collection / Shop: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-BholScEz.js (saves 1596.9KB)",
+      "status": "Resolved"
+    },
+    {
       "time": "2026-11-25T21:02:54+00:00",
       "severity": "Resolved",
       "issue": "Checkout: Mobile PageSpeed 39/100 — Reduce unused JavaScript — auth-components-BholScEz.js (saves 1577.2KB)",
@@ -583,24 +601,6 @@
       "time": "2026-11-21T15:38:48+00:00",
       "severity": "Resolved",
       "issue": "Family Nutrition Mix: Mobile PageSpeed 47/100 — Reduce unused JavaScript — auth-components-BWHYHeMl.js (saves 1588.7KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-21T15:38:47+00:00",
-      "severity": "Resolved",
-      "issue": "H50+ PDP: Mobile PageSpeed 50/100 — Reduce unused JavaScript — auth-components-BWHYHeMl.js (saves ~2.1s / 1589.3KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-21T15:38:46+00:00",
-      "severity": "Resolved",
-      "issue": "Homepage: Mobile PageSpeed 35/100 — Reduce unused CSS — assests-De2D39rz.css (saves 43.9KB)",
-      "status": "Resolved"
-    },
-    {
-      "time": "2026-11-21T07:43:14+00:00",
-      "severity": "Resolved",
-      "issue": "Protein PDP: Mobile PageSpeed 40/100 — Reduce unused CSS — assests-De2D39rz.css (saves 44.1KB)",
       "status": "Resolved"
     }
   ],
