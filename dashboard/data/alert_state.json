@@ -26,6 +26,33 @@
       "severity": "Critical",
       "page": "Family Nutrition Mix",
       "detail": "Load failure (HTTP 404, 0.5s)"
+    },
+    "perf_critical:homepage": {
+      "first_seen": "2026-11-26T23:49:14.690932+00:00",
+      "last_seen": "2026-11-26T23:49:14.690932+00:00",
+      "last_sent": "2026-11-26T23:49:14.690932+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Homepage",
+      "detail": "Mobile PageSpeed 40/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BlIkNqcM.js (saves 1572.3KB)"
+    },
+    "perf_critical:collection": {
+      "first_seen": "2026-11-26T23:49:17.065800+00:00",
+      "last_seen": "2026-11-26T23:49:17.065800+00:00",
+      "last_sent": "2026-11-26T23:49:17.065800+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Collection / Shop",
+      "detail": "Mobile PageSpeed 49/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BlIkNqcM.js (saves ~2.1s / 1597.5KB)"
+    },
+    "perf_critical:fnm": {
+      "first_seen": "2026-11-26T23:49:18.506902+00:00",
+      "last_seen": "2026-11-26T23:49:18.506902+00:00",
+      "last_sent": "2026-11-26T23:49:18.506902+00:00",
+      "count": 1,
+      "severity": "Critical",
+      "page": "Family Nutrition Mix",
+      "detail": "Mobile PageSpeed 34/100 \u2014 Reduce unused JavaScript \u2014 auth-components-BlIkNqcM.js (saves ~10.3s / 1618.0KB)"
     }
   }
 }
